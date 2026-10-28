@@ -1,0 +1,747 @@
+id,archivo,titulo,marcas_comerciales,uso,cultivos_detectados,relevante_tandil,n_chars
+2,0002_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,"ADAMA ESSENTIALS 2,4 D AMINA - ADAMA ESSENTIALS 2,4 D ESTER - ASP AMINA 60 - ASP",herbicida (post-emergente),alpiste;avena;cebada;girasol;lino;maíz;soja;sorgo;trigo,True,28616
+3,0003_2_4_d_picloram.pdf,"2,4 D + PICLORAM",TORDON D 30.,herbicida (post-emergente),alpiste;avena;cebada;girasol;maíz;soja;sorgo;trigo,True,18211
+4,0004_2_4_db.pdf,"2,4 DB",BUTOXONE - VENCEWEED EXTRA.,herbicida (post-emergente),girasol;mani;maní;soja,True,10412
+6,0006_abamectina.pdf,ABAMECTINA,ABAMEX - ACARAMIK EC - AGRIMEK - AVICTA - FEROX EC - VANTAL FORTE - VERTIMEC -,"curasemillas (nematicida e insecticida, PC",mani;maíz;soja,True,52107
+7,0007_acefato.pdf,ACEFATO,ORTHENE 75 SP.,curasemillas,arveja;girasol;lino;mani;maíz;soja;sorgo,True,23188
+8,0008_aceite_de_creosota.pdf,ACEITE DE CREOSOTA,,"fungicida, insecticida y preservador de madera",,False,4923
+9,0009_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fungicida,mani,True,5981
+10,0010_aceite_mineral.pdf,ACEITE MINERAL,RIZOSPRAY EXTREMO MINERAL,coadyuvante (para herbicidas),,False,5571
+12,0012_aceite_mineral_coadyuvante.pdf,ACEITE MINERAL COADYUVANTE,ACEITE AGRICOLA AGAR CROSS - ACEITE DOW AGROSCIENCES - D-PLUS.,coadyuvante,,False,5356
+13,0013_acetamiprid.pdf,ACETAMIPRID,ASSAIL - CLARTEX XTRA - MOSPILAN.,insecticida (foliar,colza;girasol;lino;maíz;soja;trigo,True,20751
+14,0014_acetoclor.pdf,ACETOCLOR,ADAMA ESSENTIALS ACIERTO 90 EC - HAMET - HARNESS.,herbicida (pre-emergente),girasol;mani;maní;maíz;soja;sorgo,True,12645
+16,0016_acetoclor_protector.pdf,ACETOCLOR + PROTECTOR,GUARDIAN.,herbicida (pre-emergente),mani;maíz;sorgo,True,7628
+20,0020_acido_fosforico.pdf,ACIDO FOSFORICO,,fertilizante (fertirrigación),,False,2966
+21,0021_acifluorfen.pdf,ACIFLUORFEN,,herbicida (post-emergente),girasol;soja,True,5073
+23,0023_aclonifen.pdf,ACLONIFEN,PRODIGIO 60 SC.,herbicida (post-emergente),girasol,True,4551
+25,0025_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,herbicida (preemergente),girasol;mani;maní;maíz;soja;sorgo,True,10294
+27,0027_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,PLURAFAC LF.,coadyuvante,,False,4740
+28,0028_alcoholes_grasos.pdf,ALCOHOLES GRASOS,ROYALTAC-M.,fitorregulador,,False,3999
+30,0030_alfacipermetrina.pdf,ALFACIPERMETRINA,ALFA 15 - DOMINEX - FASTAC - FENDONA FORESTAL.,insecticida,girasol;lino;mani;maíz;soja;sorgo;trigo,True,17930
+31,0031_ametrina.pdf,AMETRINA,ADAMA ESSENTIALS AMETREX.,herbicida (pre-emergente/post-emergente),sorgo,True,10173
+33,0033_aminoacidos.pdf,AMINOACIDOS,,"bioestimulante y fertilizante (bioestimulante natural, aplicación radicular)",arveja,True,7518
+34,0034_amitraz.pdf,AMITRAZ,,acaricida,lino;mani,True,4817
+35,0035_asulam.pdf,ASULAM,,herbicida (post-emergente),sorgo,True,3280
+36,0036_atrazina.pdf,ATRAZINA,ADAMA ESSENTIALS ATRANEX 90 WG - ATRA 90 WG ASP - ATRAZINA 90 NUFARM - ATRAZINA 90,herbicida (pre-emergente/post-emergente),lino;mani;maíz;soja;sorgo,True,45565
+37,0037_atrazina_s_metolacloro.pdf,ATRAZINA + S - METOLACLORO,BICEP PACK GOLD - BICEP PACK GOLD T - FLONTUS PACK - FLONTUS PACK T.,herbicida (pre-siembra y pre-emergencia),mani;maíz;sorgo,True,19806
+40,0040_azoxistrobina.pdf,AZOXISTROBINA,AMISTAR - AMISTAR 50 WG - DYNASTY 10 FS SEMILLERO - QUADRIS - QUADRIS 50 W.,fungicida curasemillas,arveja;cebada;girasol;lino;mani;maní;maíz;soja;trigo,True,49797
+41,0041_azoxistrobina_cyproconazole.pdf,AZOXISTROBINA + CYPROCONAZOLE,AMISTAR XTRA - AMISTAR XTRA GOLD - CONFIDENCE XTRA WG - EMERGE - FRUCTO - LANFOR,fungicida,avena;cebada;mani;maní;maíz;soja;sorgo;trigo,True,23007
+42,0042_azufre.pdf,AZUFRE,KUMULUS DF - MICROTHIOL DISPERSS.,acaricida y fungicida,,False,6558
+43,0043_bacillus_thuringiensis.pdf,BACILLUS THURINGIENSIS,COSTAR WG – DIPEL DF – DIPEL DF SEIPRO – DIPEL L PLUS.,insecticida (disruptor microbial de la membrana del intestino medio de los insec,girasol;lino;soja,True,12693
+44,0044_benalaxil_mancozeb.pdf,BENALAXIL + MANCOZEB,GALBEN M.,fungicida,,False,7664
+45,0045_benalaxil_oxicloruro_de_cobre.pdf,BENALAXIL + OXICLORURO DE COBRE,GALBEN R.,fungicida,,False,8171
+48,0048_benciladenina_giberelinas_a4_y_a7.pdf,BENCILADENINA + GIBERELINAS A4 Y A7,PROMALINA – PROMALINA BIORATIONAL.,fitorregulador,,False,6998
+49,0049_benfuracarb.pdf,BENFURACARB,,tratamiento de semillas,lino;maíz;trigo,True,8154
+50,0050_benomil.pdf,BENOMIL,,fungicida,maní;soja;trigo,True,10138
+51,0051_bentazon.pdf,BENTAZON,BASAGRAN 60.,herbicida (post-emergente),arveja;colza;girasol;lino;mani;maní;maíz;soja;sorgo,True,20202
+55,0055_beta_cipermetrina.pdf,BETA - CIPERMETRINA,,insecticida,girasol;lino;mani;soja;trigo,True,6472
+56,0056_beta_ciflutrina.pdf,BETA - CIFLUTRINA,BETA BAYTROID 5 EC - BULLDOCK.,insecticida,girasol;maíz;soja,True,6245
+57,0057_bifenazate.pdf,BIFENAZATE,ACRAMITE 50 WP - FLORAMITE.,acaricida,,False,5781
+58,0058_bifentrin.pdf,BIFENTRIN,ADAMA ESSENTIALS SEIZER - ATHENA - BIFENTRIN 10 BAC - BIFENTRIN 10 INSUAGRO - BISECT,curasemillas (Bifentrin,girasol;lino;maíz;soja,True,25084
+59,0059_bispiribac_sodio.pdf,BISPIRIBAC SODIO,,herbicida,,False,9571
+60,0060_bradyrhizobium_japonicum_carboxin_tiram.pdf,BRADYRHIZOBIUM JAPONICUM + CARBOXIN + TIRAM,,"curasemillas, fungicida e inoculante",soja,True,5228
+61,0061_bradyrhizobium_spp.pdf,BRADYRHIZOBIUM SPP.,ADHERE 60 - ADHERE 60 (BE) - DUX - EKEY TOP- EKEY TOP HC - HICOAT SUPER - HISTICK PLUS,inoculante,mani;maní;soja,True,19063
+62,0062_bradyrhizobium_spp_carbendazim_tiram.pdf,BRADYRHIZOBIUM SPP. + CARBENDAZIM + TIRAM,"RIZOPACK 101 HC - RIZOPACK 201(RIZO-LIQ TOP, RITIRAM CARB.",curasemillas e inoculante (fungicida),soja,True,5549
+63,0063_brodifacoum.pdf,BRODIFACOUM,,rodenticida,,False,4799
+64,0064_bromacil.pdf,BROMACIL,,herbicida (pre-emergente),,False,7357
+65,0065_bromadiolone.pdf,BROMADIOLONE,,rodenticida,mani,True,2461
+67,0067_bromoxinil.pdf,BROMOXINIL,ADAMA ESSENTIALS BROMOTRIL - MEXTROL.,herbicida (post-emergente),lino;mani;maní;maíz;soja;sorgo,True,10078
+68,0068_bromuro_de_metilo.pdf,BROMURO DE METILO,,"fungicida, insecticida y nematicida (fumigación en cámaras especiales)",mani,True,7835
+71,0071_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,SUMMIT APPLAUD.,insecticida,,False,4863
+72,0072_butafenacil.pdf,BUTAFENACIL,INSPIRE.,defoliante,mani,True,10983
+75,0075_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,AMINOQUELANT-CA.,"bioestimulante y fertilizante (bioestimulante natural, foliar y fertirriego)",mani;maíz;sorgo,True,3706
+76,0076_captan.pdf,CAPTAN,ADAMA ESSENTIALS MERPAN - ORTHOCIDE 80 WP.,"fungicida (de suelo, foliar y de post-cosecha",lino,True,20770
+77,0077_carbaryl.pdf,CARBARYL,CARBARYL LINE.,insecticida,avena;cebada;maíz;sorgo;trigo,True,13182
+78,0078_carbendazim.pdf,CARBENDAZIM,CARBENDAZIM 50 NUFARM - GALENO - RIZOCARB 50 - RODAZIM.,fungicida (pre-cosecha),arveja;mani;maní;soja;trigo,True,27912
+79,0079_carbendazim_epoxiconazole.pdf,CARBENDAZIM + EPOXICONAZOLE,,fungicida,avena;cebada;maní;trigo,True,6780
+80,0080_carbendazim_tiram.pdf,CARBENDAZIM + TIRAM,ISHISAN - PROTECTOR - RITIRAM CARB - RITIRAM CARB PLUS.,curasemillas,arveja;avena;cebada;lino;maní;maíz;soja;trigo,True,9187
+81,0081_carbofuran.pdf,CARBOFURAN,,insecticida y nematicida (al,,False,5961
+82,0082_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),maíz;sorgo,True,3704
+83,0083_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),maíz;sorgo,True,3703
+85,0085_carboxin.pdf,CARBOXIN,,curasemillas,avena;cebada;maní;maíz;soja;sorgo;trigo,True,3459
+86,0086_carboxin_tiram.pdf,CARBOXIN + TIRAM,VITAVAX FLO SEMILLERO - VITAVAX FLO TS.,curasemillas,avena;cebada;girasol;maní;maíz;soja;trigo,True,9858
+87,0087_carfentrazone_etil.pdf,CARFENTRAZONE ETIL,AFFINITY - AURORA 40 CE - SHARK 40 EC.,herbicida (desecante),girasol;lino;maíz;soja;trigo,True,13213
+88,0088_cartap.pdf,CARTAP,,insecticida,lino,True,4442
+90,0090_cianamida_hidrogenada.pdf,CIANAMIDA HIDROGENADA,,fitorregulador,,False,4133
+91,0091_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,RIZOGRAM.,inoculante,,False,2483
+95,0095_cipermetrina.pdf,CIPERMETRINA,CYPTRIN.,insecticida,arveja;girasol;lino;maíz;soja;sorgo;trigo,True,19094
+96,0096_cipermetrina_clorpirifos.pdf,CIPERMETRINA + CLORPIRIFOS,LORSBAN PLUS.,insecticida,girasol;lino;maíz;soja,True,9949
+99,0099_cyproconazole.pdf,CYPROCONAZOLE,ALTO 10 SL.,fungicida,mani;maní;soja;trigo,True,11527
+100,0100_cletodim.pdf,CLETODIM,ADAMA ARROW - ADAMA ARROW LPU - ADAMA ESSENTIALS ARROW - CENTAURO - CENTAURO,herbicida (post-emergente),avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,46772
+101,0101_clodinafop_propargyl_cloquintocet_mexyl.pdf,CLODINAFOP - PROPARGYL + CLOQUINTOCET - MEXYL,GIZMO - PROA - TOPIK 24 EC.,herbicida (post-emergente),avena;lino;mani;trigo,True,11859
+102,0102_clofentezine.pdf,CLOFENTEZINE,ADAMA ESSENTIALS ACARISTOP 50 SC.,acaricida,,False,3728
+103,0103_clomazone.pdf,CLOMAZONE,COMMAND - COMMAND 36 CS - COMMAND 48 EC - GAMIT - GAMIT STAR. - UP STAGE.,herbicida (pre-emergente),avena;cebada;girasol;maní;soja;sorgo;trigo,True,17703
+104,0104_clopiralid.pdf,CLOPIRALID,LONTREL.,herbicida (post-emergente),alpiste;avena;cebada;girasol;maíz;soja;sorgo;trigo,True,10681
+105,0105_cloransulam_metil.pdf,CLORANSULAM METIL,COLOSSUS - PACTO.,herbicida (post-emergente),soja,True,7420
+107,0107_clorfenapir.pdf,CLORFENAPIR,PIRATE – SUNFIRE 24 SC.,acaricida e insecticida,maiz;maíz;soja,True,13695
+108,0108_clorfluazuron.pdf,CLORFLUAZURON,ISHIPRON - ISHIPRON EC 5%.,insecticida,maíz;soja,True,5775
+109,0109_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,herbicida (preemergente),,False,5401
+110,0110_clorimuron_etil.pdf,CLORIMURON ETIL,CLASSIC – CLORIMURON 75 MAX SIGMA.,herbicida (post-emergente),girasol;maní;soja;sorgo,True,11815
+112,0112_cloromecuato.pdf,CLOROMECUATO,CYCOCEL 75.,fitorregulador,trigo,True,4599
+113,0113_clorotalonil.pdf,CLOROTALONIL,ADAMA ESSENTIALS ODEON 72 SC – BACUN - DACONIL 72 F - ROTHALONIL 72 SC - SLAYER 50,fungicida,mani;maní;soja;trigo,True,22890
+114,0114_clorpirifos.pdf,CLORPIRIFOS,ADAMA ESSENTIALS PYRINEX - ADAMA PYRINEX 25 ME - BORAZ 48% - ISHICLORFOS 48 -,insecticida (para aplicaciones al suelo),avena;cebada;girasol;lino;maíz;soja;sorgo;trigo,True,43150
+116,0116_clorpirifos_metil.pdf,CLORPIRIFOS METIL,,insecticida,lino;mani;trigo,True,5246
+117,0117_clorpirifos_metil_deltametrina.pdf,CLORPIRIFOS METIL + DELTAMETRINA,,insecticida,mani;trigo,True,4720
+118,0118_clorpropham.pdf,CLORPROPHAM,,fitoregulador (inhibidor de la brotación en tubérculos de papa para consumo),mani,True,10907
+119,0119_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),,False,4007
+120,0120_cloruro_de_potasio.pdf,CLORURO DE POTASIO,,fertilizante,lino;mani;maní;maíz;soja,True,5880
+121,0121_coadyuvantes.pdf,COADYUVANTES,CLATRATO BASF - COADYUVANTE HUSSAR PLUS - COADYUVANTE NOMINEE - DASH HC –,coadyuvante,,False,8271
+122,0122_coadyuvante_siliconado.pdf,COADYUVANTE SILICONADO,AJUSTE ROTAM - RIZOWET (*) - SILWET L AG (*) - TACTIC.,coadyuvante,,False,4846
+124,0124_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,maní;soja,True,6569
+129,0129_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (de liberación prolongada especial para céspedes y campos deportivo,,False,3168
+131,0131_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,4734
+132,0132_compuesto_de_molibdeno_y_cobalto.pdf,COMPUESTO DE MOLIBDENO Y COBALTO,COMOFIX.,fertilizante líquido foliar (y aplicación en la semilla con elementos menores (C,mani;maní;soja,True,3095
+133,0133_cyhalofop_butil.pdf,CYHALOFOP BUTIL,CLINCHER EC.,herbicida (post-emergente),lino,True,3876
+135,0135_dazomet.pdf,DAZOMET,,"fungicida, herbicida y nematicida",sorgo,True,7060
+136,0136_ddvp_o_diclorvos.pdf,DDVP O DICLORVOS,,acaricida e insecticida,maíz;trigo,True,5056
+139,0139_ddvp_permetrina.pdf,DDVP + PERMETRINA,,acaricida e insecticida,maíz;trigo,True,4517
+140,0140_deltametrina.pdf,DELTAMETRINA,BITAM FLOW 5 SC - DECIS FLOW 20 SC - DECIS FORTE - DECISFORTE 10 EC - DEFENTOX D - K-,insecticida (al,arveja;avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,44688
+141,0141_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,K-OBIOL.,insecticida,maíz;trigo,True,5290
+144,0144_dicamba.pdf,DICAMBA,ATRECTRA BV - BANVEL - CAIMAN - CAIMAN PLUS - DICAMBA BLOCK - DURANOR - DURANOR,herbicida (post-emergente),alpiste;avena;cebada;lino;mani;maíz;soja;sorgo;trigo,True,36906
+145,0145_metsulfuron_metil_dicamba.pdf,METSULFURON METIL + DICAMBA,MISIL II PACK - MISIL PACK.,herbicida (post-emergente),cebada;girasol;mani;maíz;soja;trigo,True,14671
+147,0147_dicamba_prosulfuron_triasulfuron.pdf,DICAMBA + PROSULFURON + TRIASULFURON,PEAK PACK - PEAK PACK L - SERIENT PACK.,herbicida (post-emergente),cebada;girasol;mani;soja;trigo,True,16164
+151,0151_diclosulam.pdf,DICLOSULAM,BIGUÁ - HEXEN - INTRUDER FUSION - KONYZ – RIDOF -,herbicida (pre-emergente),mani;maní;maíz;soja;trigo,True,13718
+154,0154_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,acaricida,mani,True,5331
+155,0155_difenilamina.pdf,DIFENILAMINA,,antiescaldante,,False,2716
+156,0156_difenoconazole.pdf,DIFENOCONAZOLE,BOGARD - DIVIDEND - GEYSER - SICO.,curasemillas fungicida,mani;maní;soja;trigo,True,22194
+157,0157_difenoconazole_cyproconazole.pdf,DIFENOCONAZOLE + CYPROCONAZOLE,CYPRESS - ZARDEX.,fungicida,mani;maní;soja;trigo,True,17740
+158,0158_difenoconazole_propiconazole.pdf,DIFENOCONAZOLE + PROPICONAZOLE,GEM - TASPA.,fungicida,mani;maní;soja,True,12051
+159,0159_diflubenzuron.pdf,DIFLUBENZURON,DIMILIN 25 WP.,insecticida,lino;mani;maíz;soja,True,6637
+160,0160_diflufenican.pdf,DIFLUFENICAN,ADAMA ESSENTIALS LEGACY - BRODAL 50 SC - DIFLUFENICAN 50 SIGMA - PELICAN - TUKEN,herbicida (pre-emergente),cebada;girasol;mani;maní;maíz;soja;trigo,True,27783
+161,0161_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,herbicida (preemergente),girasol;lino;maní;maíz;soja;sorgo,True,20746
+163,0163_dimetoato.pdf,DIMETOATO,DIMETOATO SIGMA - ROGOR PLUS.,insecticida,avena;cebada;lino;soja;sorgo;trigo,True,20904
+166,0166_dimetomorf_mancozeb.pdf,DIMETOMORF + MANCOZEB,ACROBAT MZ.,fungicida,,False,8173
+168,0168_diniconazole_m_tiram.pdf,DINICONAZOLE M + TIRAM,,curasemillas (fungicida),cebada;trigo,True,5318
+170,0170_dibromuro_de_diquat.pdf,DIBROMURO DE DIQUAT,DIQUAT 20 SIGMA - DIQUAT SIGMA - REGLONE.,"defoliante, desecante y herbicida (post-emergente)",alpiste;arveja;cebada;colza;girasol;lino;mani;maíz;soja;sorgo;trigo,True,24991
+171,0171_ditianon.pdf,DITIANON,DELAN 75.,fungicida,,False,7015
+172,0172_diuron.pdf,DIURON,ADAMA ESSENTIALS DIUREX 80 FW.,herbicida (pre-emergente),avena;lino;maíz,True,10488
+173,0173_diuron_tidiazuron.pdf,DIURON + TIDIAZURON,DROPP ULTRA SC.,defoliante,,False,3834
+176,0176_dodecadienol_e8_e10.pdf,DODECADIENOL E8 E10,RAK CP - RAK CP M - RAK CP PLUS.,feromona (RAK CP Y RAK CP PLUS Y RAK CP M),mani,True,11140
+177,0177_dodecenilacetato.pdf,DODECENILACETATO,RAK M - RAK-20.,feromona,cebada;mani,True,5457
+180,0180_epoxiconazole_kresoxim_metil.pdf,EPOXICONAZOLE + KRESOXIM METIL,ALLEGRO.,fungicida,cebada;trigo,True,6197
+182,0182_esfenvalerato_fenitrotion.pdf,ESFENVALERATO + FENITROTION,,insecticida,lino;soja,True,7419
+185,0185_etefon.pdf,ETEFON,,fitorregulador,,False,3337
+188,0188_fenamifos.pdf,FENAMIFOS,ADAMA ESSENTIALS NEMACUR 24 CS.,nematicida (al,,False,6381
+189,0189_fenarimol.pdf,FENARIMOL,,fungicida,,False,5550
+190,0190_fenazaquin.pdf,FENAZAQUIN,,acaricida,mani,True,5669
+191,0191_fenbuconazole.pdf,FENBUCONAZOLE,,curasemillas fungicida (,mani;trigo,True,6172
+192,0192_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,TORQUE 50.,acaricida,,False,3690
+193,0193_fenhexamid.pdf,FENHEXAMID,TELDOR 50 SC - TELDOR 50 WP.,fungicida,,False,6061
+194,0194_fenitrotion.pdf,FENITROTION,,insecticida,mani;soja,True,10986
+196,0196_fenitrotion_permetrina.pdf,FENITROTION + PERMETRINA,,insecticida,maíz;trigo,True,5013
+198,0198_fenoxaprop_p_etil.pdf,FENOXAPROP P ETIL,FOXTROT.,herbicida (post-emergente al,alpiste;avena;cebada;girasol;mani;maní;maíz;soja;sorgo,True,6762
+199,0199_fenpiroximato.pdf,FENPIROXIMATO,SCARMITE.,acaricida,,False,6743
+200,0200_fenpropatrina.pdf,FENPROPATRINA,,insecticida,,False,3629
+202,0202_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,ELSAN.,insecticida,girasol;lino;soja;sorgo,True,10198
+203,0203_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,insecticida,arveja;girasol;lino;soja;sorgo,True,8923
+206,0206_fipronil.pdf,FIPRONIL,CHIPCO CHOICE - FORMIDOR - REGENT 25 FS SEMILLERO.,insecticida (Suspensión concentrada para tratamiento de semillas (FS)),soja,True,7257
+207,0207_fluazifop_p_butil.pdf,FLUAZIFOP P BUTIL,KURGA - LISTO – ONECIDE.,herbicida (post-emergente),girasol;mani;maní;soja;sorgo,True,9874
+208,0208_fluazinam.pdf,FLUAZINAM,ALTIMA - FROWNCIDE - FROWNCIDE 50% SC - PROFETA - TIZCA.,fungicida,maní,True,8981
+209,0209_fludioxonil_metalaxil_m.pdf,FLUDIOXONIL + METALAXIL - M,APRON MAXX RFC - CARESS MAXX RFC - MAXIM RFC - MAXIM XL - MAXIM XL SEMILLERO –,curasemillas y fungicida,arveja;girasol;lino;mani;maní;maíz;soja;sorgo,True,19917
+211,0211_flufenoxuron.pdf,FLUFENOXURON,CASCADE.,acaricida,,False,4267
+212,0212_flumetralin.pdf,FLUMETRALIN,"PRIME + 12,5 EC.",fitorregulador,mani,True,11763
+213,0213_flumetsulam.pdf,FLUMETSULAM,ADAMA FLOYD - BROADSTRIKE - ELEVATE FUSION - PERDURE - PRESIDE - PRESIDE 80 WDG.,herbicida (pre-emergente/post-emergente),avena;colza;girasol;mani;maíz;soja;sorgo;trigo,True,24485
+216,0216_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,herbicida (postemergente),soja,True,6265
+217,0217_flumioxazin.pdf,FLUMIOXAZIN,ADAMA OXALIS 48 SC - BRUALI - CASTLE - ESPUELA - ESPUELA SC - GEMMIT TOP - NYAMBI FLO,"herbicida (de pre-siembra para Siembra Directa), (pre-siembra, y pre-emergencia ",avena;girasol;maíz;soja;sorgo;trigo,True,26047
+221,0221_flurocloridona.pdf,FLUROCLORIDONA,ADAMA ESSENTIALS RAINBOW - RESIDUAL.,herbicida (pre y post-emergente),arveja;avena;cebada;colza;girasol;mani;maní;maíz;soja;sorgo;trigo,True,32832
+222,0222_fluroxipir.pdf,FLUROXIPIR,ADAMA ESSENTIALS TOMAHAWK - AZBANY - AZBANY MAXX,herbicida (post-emergente),avena;cebada;girasol;maíz;soja;sorgo;trigo,True,16048
+224,0224_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,WINNER.,fungicida,maní,True,6074
+225,0225_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,FUSION.,fungicida,maní;soja;trigo,True,11062
+226,0226_flutriafol.pdf,FLUTRIAFOL,"IMPACT 12,5 - TRECKER - VINCIT 5.",curasemillas,cebada;lino;mani;maní;soja;trigo,True,12203
+227,0227_fluxofenim.pdf,FLUXOFENIM,CONCEP III.,antídoto de herbicida,mani;sorgo,True,10079
+228,0228_folcisteina.pdf,FOLCISTEINA,AGROSTIM.,fitorregulador,arveja;mani;maíz;soja;sorgo,True,8633
+231,0231_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),girasol;maní;soja,True,8086
+235,0235_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,2999
+237,0237_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),,False,2876
+240,0240_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),,False,3278
+241,0241_folpet.pdf,FOLPET,ADAMA ESSENTIALS SUPERFOLPAN.,fungicida,lino,True,10831
+243,0243_fomesafen.pdf,FOMESAFEN,ADAMA ESSENTIALS ALEF - ADOC - ADOC ALB - ADOC AR -,herbicida (post-emergente),girasol;mani;maní;maíz;soja;sorgo;trigo,True,31795
+244,0244_foramsulfuron_iodosulfuron_metil_sodio.pdf,FORAMSULFURON + IODOSULFURON METIL SODIO,EQUIP WG.,herbicida (post-emergente),maíz;sorgo,True,7679
+245,0245_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,DICARZOL 50 PS.,acaricida e insecticida,mani,True,5308
+246,0246_fosetil_aluminio.pdf,FOSETIL ALUMINIO,ALIETTE - AZIMUT.,fungicida,,False,5711
+249,0249_fosfuro_de_aluminio.pdf,FOSFURO DE ALUMINIO,PHOSGAS COMPRIMIDOS (*) - PHOSGAS PASTILLONES (*) - QUICKPHOS.,"acaricida, gorgojicida, insecticida y rodenticida",lino;maíz;trigo,True,22715
+250,0250_fosmet.pdf,FOSMET,,acaricida e insecticida,lino,True,8472
+251,0251_fosthiazate.pdf,FOSTHIAZATE,NEMATHORIN - NEMATHORIN EC 15.,nematicida,,False,7470
+252,0252_gammacialotrina.pdf,GAMMACIALOTRINA,ARCHER PLUS - FIGHTER PLUS - NEXIDE.,insecticida,girasol;lino;mani;maíz;soja;sorgo;trigo,True,25613
+253,0253_acido_giberelico_giberelina_a3.pdf,ACIDO GIBERELICO (GIBERELINA A3),,fitorregulador (,cebada,True,12823
+254,0254_glifosato.pdf,GLIFOSATO,ACCORD - COUNTACH - CREDIT AMONIO - CREDIT FULL - CREDIT HL- CREDIT P - DUPONT,herbicida (post-emergente no selectivo para el control post-emergente de malezas,girasol;mani;maíz;soja;sorgo;trigo,True,129182
+255,0255_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,herbicida (preemergente/presiembra),girasol;lino;soja;sorgo,True,11269
+256,0256_imazetapir_glifosato.pdf,IMAZETAPIR + GLIFOSATO,,herbicida (post-emergente) (dosis especial de uso,arveja;avena;cebada;lino;maní;maíz;soja;sorgo;trigo,True,15254
+257,0257_glufosinato_de_amonio.pdf,GLUFOSINATO DE AMONIO,BASTA SL - BIFFO - HARMETRY - INVICTUS - INVICTUS ALB - LIBERTY - LIFELINE.,desecante (acondicionador),avena;maíz;soja;sorgo;trigo,True,20516
+259,0259_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,ADAMA ESSENTIALS KENOPEL 40.,fungicida,,False,3184
+260,0260_halosulfuron_metil.pdf,HALOSULFURON METIL,SEMPRA.,herbicida (pre-emergente/post-emergente),mani;maíz;soja;sorgo,True,9621
+261,0261_haloxifop_r_metil.pdf,HALOXIFOP R METIL,EMBLEM MAXX - GALANT HL - GALANT MAX - GALANT R LPU - MATADOR 54 EC - MIRAGE HL -,herbicida (post-emergente al,girasol;maní;maíz;soja;sorgo,True,20414
+262,0262_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,fungicida,,False,4355
+263,0263_hexitiazox.pdf,HEXITIAZOX,,acaricida,,False,4133
+264,0264_hidrazida_maleica.pdf,HIDRAZIDA MALEICA,ROYAL MH.,fitorregulador,,False,10054
+265,0265_hidroxido_de_cobre.pdf,HIDROXIDO DE COBRE,CHAMP DP - HIDRO-CUP WG.,bactericida y fungicida,,False,10971
+266,0266_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,3329
+267,0267_imazalil.pdf,IMAZALIL,ADAMA ESSENTIALS XEDREL 50.,fungicida (post-cosecha),,False,4506
+268,0268_imazamox.pdf,IMAZAMOX,SWEEPER 70DG - TRIGOSOL.,"herbicida (post-emergente, TrigoSol)",arveja;avena;cebada;colza;girasol;lino;maní;maíz;soja;sorgo;trigo,True,13104
+269,0269_imazapic.pdf,IMAZAPIC,CADRE 70 DG - METOLAN,herbicida,lino;maní;maíz;soja;sorgo;trigo,True,24114
+270,0270_imazapic_imazapir.pdf,IMAZAPIC + IMAZAPIR,ADAMA MAYORAL - KIFIX - ONDUTY.,herbicida (ADAMA Mayoral),avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,27569
+271,0271_imazapir.pdf,IMAZAPIR,ADAMA ESSENTIALS IMATRON - ARSENAL FORESTAL - ARSENAL FORESTAL DF - CLEARSOL DF,herbicida (pre-emergente y post-emergente),arveja;avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,24690
+272,0272_imazapir_imazetapir.pdf,IMAZAPIR + IMAZETAPIR,INTERFIELD - LIGHTNING.,herbicida (postemergente),girasol;lino;maíz;soja;sorgo,True,10915
+273,0273_imazaquin.pdf,IMAZAQUIN,ADAMA ESSENTIALS TOPGAN.,herbicida (preemergente/postemergente),arveja;avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,19081
+275,0275_imazetapir.pdf,IMAZETAPIR,ADAMA ESSENTIALS VEZIR - INITIOS ALB - PIVOT - PIVOT H - QUARZ - ZETAPYR.,herbicida (post-emergente),arveja;avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,34236
+276,0276_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,herbicida (presiembra),arveja;avena;girasol;lino;maní;maíz;soja;sorgo;trigo,True,21721
+277,0277_imidacloprid.pdf,IMIDACLOPRID,ADAMA ESSENTIALS KOHINOR 35 SC - ADAMA ESSENTIALS SEEDOPRID 60 FS - CONFIDOR 35,insecticida (dosis al,avena;girasol;maíz;soja;sorgo;trigo,True,54809
+278,0278_imidacloprid_tebuconazole.pdf,IMIDACLOPRID + TEBUCONAZOLE,NUPRID MAX.,curasemillas,trigo,True,7061
+279,0279_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,herbicida (postemergente),girasol;maíz;soja;trigo,True,4652
+280,0280_ipconazole.pdf,IPCONAZOLE,RANCONA 45 FS SEMILLERO - RANCONA ME.,curasemillas,cebada;maíz;trigo,True,6486
+281,0281_iprodione.pdf,IPRODIONE,IPPON 50 SC - ROVRAL - ROVRAL TS.,tratamiento de semillas (ROVRAL TS),cebada;trigo,True,9606
+282,0282_iprovalicarb_propineb.pdf,IPROVALICARB + PROPINEB,MELODY-DUO.,fungicida,,False,4483
+283,0283_isoxaflutole.pdf,ISOXAFLUTOLE,EVOLUTION - FORDOR.,herbicida (pre-emergente al,maíz;sorgo,True,10158
+284,0284_kasugamicina.pdf,KASUGAMICINA,KASUMIN 2 (*).,bactericida y fungicida,lino,True,7697
+285,0285_kresoxim_metil.pdf,KRESOXIM - METIL,,fungicida,,False,3307
+286,0286_lactofen.pdf,LACTOFEN,COBRA 24 EC - HUCK 24 EC.,herbicida,maní;soja,True,10302
+287,0287_lambdacialotrina.pdf,LAMBDACIALOTRINA,ADAMA ESSENTIALS LAMDEX - CENTINEL CS -,insecticida,girasol;lino;mani;maíz;soja;sorgo;trigo,True,45311
+289,0289_linuron.pdf,LINURON,ADAMA ESSENTIAL LINUREX - ADAMA ESSENTIALS LINURON 50 FW.,herbicida (pre-emergente/post-emergente),arveja;maíz;soja;sorgo,True,16361
+290,0290_lufenuron.pdf,LUFENURON,ASTRIS - BRETE - BRETON - COMPACT - GENDARME - MATCH.,insecticida,mani;maíz;soja,True,14082
+291,0291_lufenuron_profenofos.pdf,LUFENURON + PROFENOFOS,ADRESS - CURYOM - ORID.,insecticida,colza;girasol;mani;soja,True,12838
+292,0292_mancozeb.pdf,MANCOZEB,CERKO - DITHANE M-80 - DITHANE NT - MANCOZEB 75 WG NUFARM - MANCOZEB 80 NUFARM -,fungicida,arveja;cebada;lino;maní;trigo,True,23230
+293,0293_mancozeb_metalaxil_m.pdf,MANCOZEB + METALAXIL - M,RIDOMIL GOLD - RIDOMIL GOLD 68 WG.,fungicida,mani,True,18670
+296,0296_mcpa.pdf,MCPA,MCPA 28 NUFARM - MCPA AMINA 75,herbicida (post-emergente),alpiste;arveja;avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,9065
+297,0297_mepiquat_cloruro.pdf,MEPIQUAT CLORURO,ADJUST - MEPIQUAT 5 SL - PIX.,fitorregulador,,False,5393
+298,0298_mercaptotion.pdf,MERCAPTOTION,FORTIX - FYFANON - LUPARA - LUPARA DK - LUPARA ULV - NOVACTION.,insecticida,avena;cebada;girasol;lino;soja;sorgo;trigo,True,31300
+299,0299_rhizobium_sp.pdf,RHIZOBIUM SP.,,inoculante,,False,2605
+300,0300_mesotrione.pdf,MESOTRIONE,ADAMA ESSENTIALS MESOFLEX – CALLISTO - TEKOVE.,herbicida,girasol;maíz;soja,True,9784
+301,0301_metaldehido.pdf,METALDEHIDO,CLARTEX + R TDS MOLUSQUICIDA.,molusquicida,arveja;colza;girasol;lino;maíz;soja;trigo,True,3551
+303,0303_metalaxil_m.pdf,METALAXIL - M,APRON GOLD - APRON GOLD SEMILLERO (*).,fungicida curasemillas,girasol;mani;maíz;soja;sorgo,True,13827
+304,0304_metam_sodio.pdf,METAM SODIO,,"fungicida, herbicida y nematicida",sorgo,True,7207
+305,0305_metamidofos.pdf,METAMIDOFOS,,acaricida e insecticida,girasol;soja,True,6201
+306,0306_metconazole.pdf,METCONAZOLE,CARAMBA.,fungicida,soja;trigo,True,12807
+307,0307_metidation.pdf,METIDATION,ADAMA ESSENTIALS SUPRATHION.,insecticida,mani,True,17829
+308,0308_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,ADAMA ESSENTIALS COTNION 35 PM.,acaricida e insecticida,lino,True,5147
+311,0311_metiram.pdf,METIRAM,POLYRAM DF.,fungicida,,False,4048
+312,0312_metomil.pdf,METOMIL,LASH SP ALB – METOMIL LINE.,insecticida,arveja;avena;girasol;lino;mani;maíz;soja;sorgo;trigo,True,24276
+313,0313_metoxifenocide.pdf,METOXIFENOCIDE,INTREPID SC - RUNNER FUSION.,insecticida,girasol;soja,True,13970
+314,0314_metribuzin.pdf,METRIBUZIN,ADAMA ESSENTIALS TRIBUNE 70 WG - GREENER FULL WG - METRIBUZIN INSUAGRO -,herbicida (pre-emergente/post-emergente),arveja;cebada;maiz;maíz;soja;sorgo;trigo,True,18777
+315,0315_metsulfuron_metil.pdf,METSULFURON METIL,ESCORT - METSULFURON BAYER - METSULFURON WG INSUAGRO - NUFURON - ROSULFURON,herbicida (post-emergente),cebada;mani;trigo,True,7804
+318,0318_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,2391
+320,0320_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,2246
+321,0321_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (fertirrigación),,False,2707
+324,0324_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (fertirrigación),,False,2836
+327,0327_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,2876
+329,0329_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (para fertirrigación),,False,2578
+330,0330_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (fertirrigación),,False,2857
+331,0331_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,2226
+332,0332_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (fertirrigación),,False,2835
+336,0336_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,2248
+337,0337_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (para fertirrigación),,False,2833
+344,0344_miclobutanil.pdf,MICLOBUTANIL,RALLY - SYSTHANE E - SYSTHANE W.,fungicida,soja,True,18245
+346,0346_msma.pdf,MSMA,ESSENTIALS ARSONEX.,herbicida (postemergente),girasol;mani;maíz;soja;sorgo,True,9348
+350,0350_nicosulfuron.pdf,NICOSULFURON,ABROAD - CHALLENGER - LOOP - NICOSULFURON 4% LPU MITO - NISSHIN - NISSHIN OD 4%,herbicida (post-emergente),avena;cebada;girasol;mani;maní;maíz;soja;sorgo;trigo,True,20311
+351,0351_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,mani,True,5106
+352,0352_nitrato_de_amonio_calcareo.pdf,NITRATO DE AMONIO CALCAREO,,fertilizante,,False,2257
+353,0353_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,lino,True,4459
+354,0354_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,MULTI K CLASSIC - MULTI K PRILLS.,fertilizante (foliar),lino,True,5285
+355,0355_octanoato_de_ioxinil.pdf,OCTANOATO DE IOXINIL,ADAMA ESSENTIALS LOTRIL.,herbicida (post-emergente),,False,4891
+360,0360_oxicloruro_de_cobre.pdf,OXICLORURO DE COBRE,CAURIFIX S - CAURIFIX WG - RECOP.,fungicida,arveja,True,18280
+361,0361_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,acaricida e insecticida,avena;cebada;trigo,True,6642
+362,0362_oxido_cuproso.pdf,OXIDO CUPROSO,CUPRODUL - CUPRODUL FLO - FORGUARD.,fungicida,arveja;mani,True,15037
+363,0363_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,AMINOQUELANT-K.,fertilizante (foliar y fertirriego),mani,True,3752
+364,0364_oxifluorfen.pdf,OXIFLUORFEN,ADAMA ESSENTIALS GALIGAN – KOLTAR 24 EC.,herbicida (pre-emergente/post-emergente),avena;soja;sorgo,True,16356
+366,0366_paraquat_dicloruro.pdf,PARAQUAT DICLORURO,ADAMA ESSENTIALS SECAFOL - FIREBALL - FIREBALL SL - GRAMOXONE SUPER - HERBOXONE,"defoliante, desecante y herbicida (post-emergente)",alpiste;arveja;girasol;mani;maíz;soja;sorgo;trigo,True,29626
+368,0368_penconazole.pdf,PENCONAZOLE,TOPAS.,fungicida,mani,True,16802
+369,0369_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fungicida,,False,2412
+370,0370_pendimetalin.pdf,PENDIMETALIN,ADAMA ESSENTIALS CLIN 33 CE - HERBADOX H2O.,herbicida (pre-emergente),arveja;girasol;mani;maní;maíz;soja;sorgo;trigo,True,25283
+371,0371_permetrina.pdf,PERMETRINA,,insecticida,arveja;girasol;lino;maíz;soja;sorgo;trigo,True,14980
+373,0373_picloram.pdf,PICLORAM,ADAMA ESSENTIALS PASO 24 - ADAMA ESSENTIALS PASO 24 SL - PADRON FUSION - PICLORAM,herbicida (post-emergente),alpiste;avena;cebada;girasol;lino;maíz;soja;sorgo;trigo,True,19739
+374,0374_picloram_triclopir.pdf,PICLORAM + TRICLOPIR,,herbicida (post-emergente),girasol;soja,True,6612
+380,0380_pirimetanil.pdf,PIRIMETANIL,PYREMPOST 40 SC.,fungicida,lino;mani,True,6223
+381,0381_pirimicarb.pdf,PIRIMICARB,AFICIDA.,insecticida,arveja;avena;mani;maíz,True,14036
+382,0382_polisulfuro_de_calcio.pdf,POLISULFURO DE CALCIO,,acaricida y fungicida,lino,True,9765
+384,0384_procimidone.pdf,PROCIMIDONE,SUMILEX 50 SC – SUMILEX TOP.,fungicida,girasol;lino,True,10476
+385,0385_procloraz.pdf,PROCLORAZ,ADAMA ESSENTIALS TRITAC.,fungicida,trigo,True,5844
+386,0386_profoxidim.pdf,PROFOXIDIM,AURA.,herbicida,,False,6850
+387,0387_prometrina.pdf,PROMETRINA,ADAMA ESSENTIALS PROMETREX FW - GESAGARD 50 - HIGLAND SC.,herbicida (pre-emergente/post-emergente),arveja;girasol;mani;soja,True,22293
+389,0389_propamocarb.pdf,PROPAMOCARB,PREVICUR N - PROMESS - PROPLANT.,fungicida,lino,True,8887
+391,0391_propanil.pdf,PROPANIL,,herbicida (post-emergente),,False,3935
+392,0392_propaquizafop.pdf,PROPAQUIZAFOP,ADAMA ESSENTIALS AGIL.,herbicida (post-emergente),girasol;maní;soja;sorgo,True,7120
+393,0393_propargite.pdf,PROPARGITE,OMITE 30 W - OMITE 72 E.,acaricida,,False,9031
+394,0394_propiconazole.pdf,PROPICONAZOLE,MELANITE - NOVEL - TILT 25 EC.,fungicida,avena;cebada;mani;maní;soja;trigo,True,16763
+395,0395_propiconazole_cyproconazole.pdf,PROPICONAZOLE + CYPROCONAZOLE,ARTEA.,fungicida,avena;cebada;lino;mani;soja;trigo,True,12734
+397,0397_propizamida.pdf,PROPIZAMIDA,KERB 50 W.,herbicida (pre-emergente),alpiste;avena,True,6645
+398,0398_prosulfuron.pdf,PROSULFURON,PEAK 75 WG.,herbicida (post-emergente),girasol;mani;maíz;sorgo;trigo,True,11966
+399,0399_pseudomonas_fluorescens.pdf,PSEUDOMONAS FLUORESCENS,RIZOFOS LIQ - RIZOFOS LIQ GIRASOL - RIZOFOS LIQ MAIZ PACK - RIZOFOS LIQ MAIZ,inoculante,girasol;maiz;maíz;sorgo;trigo,True,5406
+400,0400_pymetrozine.pdf,PYMETROZINE,CHESS 50 WG,insecticida,mani,True,11092
+401,0401_pyraclostrobin.pdf,PYRACLOSTROBIN,COMET.,fungicida,girasol;mani;maní;maíz,True,12941
+402,0402_pyraclostrobin_epoxiconazole.pdf,PYRACLOSTROBIN + EPOXICONAZOLE,EPYCO SIGMA - OPERA - PLADOX - RENASTE.,fungicida,arveja;cebada;garbanzo;girasol;maní;maíz;soja;trigo,True,12929
+403,0403_quinclorac.pdf,QUINCLORAC,FACET PM - FACET SC.,herbicida (postemergente),girasol;lino;maíz;soja,True,9323
+404,0404_quinoxyfen.pdf,QUINOXYFEN,,fungicida,,False,4982
+405,0405_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,CITADEL.,fungicida,,False,4264
+406,0406_quizalofop_p_etil.pdf,QUIZALOFOP P ETIL,,herbicida (post-emergente),avena;cebada;girasol;mani;maní;maíz;soja;sorgo;trigo,True,12015
+407,0407_quizalofop_p_tefuril.pdf,QUIZALOFOP P TEFURIL,PANTERA - PANTERA 12% - RANGO GR.,herbicida (post-emergente),girasol;maní;maíz;soja;sorgo,True,8249
+408,0408_rhizobium_leguminosarum_biovar_trifolii.pdf,RHIZOBIUM LEGUMINOSARUM BIOVAR TRIFOLII,RIBOL LIQ.,inoculante,arveja,True,3242
+409,0409_rhizobium_leguminosarum_biovar_viciae.pdf,RHIZOBIUM LEGUMINOSARUM BIOVAR VICIAE,RILEGUM PACK 203 - RILEGUM TOP - SIGNUM ARVEJA.,inoculante,arveja,True,4481
+410,0410_s_metolacloro.pdf,S - METOLACLORO,CHRONATOL - DALEST - DUAL GOLD - DUAL GOLD A - ELINA - EVERPREX - FLONTUS - LEDON -,herbicida (pre-emergente),arveja;garbanzo;girasol;mani;maní;maíz;soja;sorgo,True,23760
+411,0411_setoxidim.pdf,SETOXIDIM,,herbicida (postemergente),arveja;avena;girasol;lino;maní;maíz;soja;sorgo,True,9435
+412,0412_simazina.pdf,SIMAZINA,,herbicida (pre-emergente),maní;maíz,True,5729
+413,0413_sinorhizobium_meliloti.pdf,SINORHIZOBIUM MELILOTI,RIALFA LIQ.,inoculante,,False,3486
+414,0414_spinosad.pdf,SPINOSAD,BALBOA SC - ENTRUST - FLIPPER - SUCCESS - SUCCESS 48 - TRACER.,insecticida (al,avena;mani;maíz;soja;sorgo;trigo,True,29135
+415,0415_sulfato_de_amonio.pdf,SULFATO DE AMONIO,RIZOSPRAY SULFO - RIZOSPRAY SULFO DRY.,fertilizante (formulación líquida),arveja;cebada;colza;garbanzo;girasol;maiz;maní;maíz;soja;sorgo;trigo,True,3619
+416,0416_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,bactericida,arveja,True,15083
+417,0417_sulfato_de_calcio.pdf,SULFATO DE CALCIO,AZUFERTIL ENMIENDA - AZUFERTIL FERTILIZANTE.,fertilizante,mani,True,5187
+419,0419_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),maní;soja,True,8521
+421,0421_sulfentrazone.pdf,SULFENTRAZONE,AUTHORITY - BORAL 50 SC - CAPAZ 75 WG - CAPAZ 50 SC – ENELAN – HANU - MILENIAL ALB -,herbicida (pre-emergente),cebada;garbanzo;girasol;lino;mani;maní;soja;sorgo;trigo,True,28368
+422,0422_sulfluramida.pdf,SULFLURAMIDA,,insecticida,lino,True,4517
+423,0423_nitrosulfato_de_amonio.pdf,NITROSULFATO DE AMONIO,,fertilizante,,False,2555
+427,0427_tebuconazole.pdf,TEBUCONAZOLE,BACANAL - ODIN SC - TEBUCONAZOLE 43 NUFARM - TEBUCONAZOLE INSUAGRO -,fungicida,avena;cebada;maní;soja;trigo,True,10267
+430,0430_tebutiuron.pdf,TEBUTIURON,,herbicida (pre-emergente),maní;maíz;soja;trigo,True,5991
+431,0431_teflubenzuron.pdf,TEFLUBENZURON,NOMOLT.,insecticida,maíz;soja,True,7550
+432,0432_teflutrina.pdf,TEFLUTRINA,FORCE CS.,curasemillas insecticida,girasol;mani;maíz;soja;sorgo;trigo,True,14020
+433,0433_terbacil.pdf,TERBACIL,,herbicida (pre-emergente),sorgo,True,5627
+434,0434_terbutilazina.pdf,TERBUTILAZINA,KORITSU - TERBUTILAZINA SIGMA.,herbicida (post-emergente),arveja;avena;cebada;garbanzo;mani;maní;maíz;trigo,True,12413
+435,0435_terbutrina.pdf,TERBUTRINA,ADAMA ESSENTIALS TERBUTREX FW.,herbicida (pre-emergente/post-emergente),trigo,True,5359
+436,0436_tiabendazol.pdf,TIABENDAZOL,TECTO 50 SC.,fungicida,mani;soja;trigo,True,15386
+437,0437_tiacloprid.pdf,TIACLOPRID,CALIBAN - CALYPSO 48 SC.,insecticida,avena,True,8803
+438,0438_tiametoxam.pdf,TIAMETOXAM,ACTARA - ACTARA 75 SG - ADAGE - ADAGE 60 SEMILLERO – CODIGO - CRUISER - CRUISER 35,insecticida,avena;girasol;mani;maíz;soja;sorgo;trigo,True,49267
+440,0440_tiodicarb.pdf,TIODICARB,LARVIN 80 WG - SEMEVIN.,"curasemillas (insecticida, PC SC",girasol;maíz;soja;trigo,True,9968
+442,0442_tiofanato_metil.pdf,TIOFANATO METIL,TOPSIN TOP,fungicida,maní;soja;trigo,True,14414
+443,0443_tiofanato_metil_tiram.pdf,TIOFANATO METIL + TIRAM,TOPSEED.,Cultivo                               Adveridad                        Dosis    ,soja,True,5695
+444,0444_tiram.pdf,TIRAM,RITIRAM PLUS SEMILLERO AC.,fungicida (para el tratamiento de semillas,girasol;maní;maíz;soja;sorgo;trigo,True,5026
+445,0445_tolclofos_metil.pdf,TOLCLOFOS METIL,RIZOLEX FLO – RIZOLEX TOP.,fungicida (terápico para tratamiento de semillas),,False,7263
+448,0448_triadimefon.pdf,TRIADIMEFON,BAYLETON.,fungicida,trigo,True,7683
+450,0450_triasulfuron.pdf,TRIASULFURON,LOGRAN.,herbicida (post-emergente),avena;cebada;girasol;mani;maíz;soja;trigo,True,9954
+453,0453_tricloro_acetato_de_sodio.pdf,TRICLORO ACETATO DE SODIO,,herbicida (pre-emergente/post-emergente),lino;sorgo,True,6557
+456,0456_trifloxistrobin.pdf,TRIFLOXISTROBIN,FLINT 50 WG - TWIST 50 SC.,fungicida,,False,12832
+457,0457_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,STRATEGO.,fungicida,avena;cebada;soja;trigo,True,7889
+458,0458_trifloxistrobin_ciproconazole.pdf,TRIFLOXISTROBIN + CIPROCONAZOLE,RUEDA - SPHERE MAX.,fungicida,avena;cebada;maní;maíz;soja;trigo,True,16488
+459,0459_trifloxisulfuron.pdf,TRIFLOXISULFURON,ENVOKE.,herbicida,girasol;mani;maíz;soja;sorgo,True,15297
+460,0460_triflumuron.pdf,TRIFLUMURON,ALSYSTIN 48 SC.,insecticida,maíz;soja,True,5986
+461,0461_trifluralina.pdf,TRIFLURALINA,ADAMA ESSENTIALS PREMERGE.,herbicida (pre-siembra),avena;maní;sorgo,True,9828
+462,0462_triforine.pdf,TRIFORINE,,fungicida,lino,True,8080
+463,0463_trinexapac_etil.pdf,TRINEXAPAC - ETIL,MODDUS.,fitorregulador,cebada;mani;trigo,True,9688
+464,0464_triticonazole.pdf,TRITICONAZOLE,PREMIS.,curasemillas,cebada;trigo,True,4086
+466,0466_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),,False,5297
+467,0467_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,rodenticida,mani,True,4150
+468,0468_zetametrina.pdf,ZETAMETRINA,BISTAR 20 EW - FENIX 20 EW - FURIA - FURIA 18 EC - FURY 20 EW - MUSTANG 20 EW - PROFIT,insecticida,girasol;lino;maíz;soja,True,16542
+469,0469_zineb.pdf,ZINEB,,fungicida,arveja;garbanzo,True,15027
+470,0470_ziram.pdf,ZIRAM,,fungicida,arveja,True,13701
+471,0471_clorsulfuron_metsulfuron_metil.pdf,CLORSULFURON + METSULFURON METIL,,herbicida (pre y post-emergente),girasol;maíz;soja;trigo,True,13102
+473,0473_penoxsulam.pdf,PENOXSULAM,RICER.,herbicida,,False,4214
+474,0474_aceite_mineral_parafinico.pdf,ACEITE MINERAL PARAFINICO,NIMBUS.,coadyuvante,mani;soja;trigo,True,8519
+475,0475_compuesto_np_azufrado.pdf,COMPUESTO NP AZUFRADO,,fertilizante,girasol;mani;maíz;soja,True,5145
+476,0476_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,girasol;soja,True,2879
+477,0477_cyazofamid.pdf,CYAZOFAMID,RANMAN.,fungicida,lino,True,8005
+478,0478_cyprodynil_fludioxonil.pdf,CYPRODYNIL + FLUDIOXONIL,"SWITCH 62,5 WG.",fungicida,mani,True,13284
+480,0480_compuesto_nitro_azufrado.pdf,COMPUESTO NITRO - AZUFRADO,,fertilizante,mani,True,4647
+483,0483_compuesto_32_11_4_0_s.pdf,"COMPUESTO 32 - 11,4 - 0 + S",,fertilizante,maíz;soja,True,2099
+484,0484_azoxistrobina_fludioxonil_metalaxil_m.pdf,AZOXISTROBINA + FLUDIOXONIL + METALAXIL - M,DYNASTY CST SEMILLERO.,curasemillas,mani,True,9639
+486,0486_flucarbazone_sodico.pdf,FLUCARBAZONE SODICO,EVEREST 70 WDG.,herbicida (post-emergente),arveja;avena;cebada;garbanzo;lino;mani;maíz;soja;trigo,True,12374
+490,0490_triclorfon.pdf,TRICLORFON,,insecticida,girasol;maíz;sorgo,True,5055
+491,0491_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,2304
+492,0492_acequinocyl.pdf,ACEQUINOCYL,KANEMITE 15 SC.,acaricida,lino,True,9640
+493,0493_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,insecticida,lino,True,6617
+495,0495_clotianidin.pdf,CLOTIANIDIN,LUMISURE SEMILLERO - PONCHO 60 FS - PONCHO 60 FS-S UNC SEMILLERO.,curasemillas e insecticida,avena;girasol;maiz;maíz;sorgo,True,10192
+496,0496_spirodiclofen.pdf,SPIRODICLOFEN,ENVIDOR.,acaricida,mani,True,7867
+498,0498_bradyrhizobium_spp_fludioxinil_metalaxil_m.pdf,BRADYRHIZOBIUM SPP. + FLUDIOXINIL + METALAXIL - M,"RIZOPACK 102 HC - RIZOPACK 102 (RIZO - LIQ MAX, MAXIM XL) - RIZOPACK 202 (RIZO - LIQ TOP,",fungicida e inoculante,soja,True,5664
+518,0518_bradyrhizobium_japonicum.pdf,BRADYRHIZOBIUM JAPONICUM,ARYBIUM - HICOAT DRY - HICOAT SUPER - HISTICK PLUS.,inoculante,soja,True,7112
+534,0534_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,insecticida,lino,True,9565
+546,0546_esfenvalerato.pdf,ESFENVALERATO,HALLMARK – HALLMARK TOP.,insecticida,girasol;mani;maíz;soja,True,8227
+557,0557_hexazinona.pdf,HEXAZINONA,,herbicida,,False,8059
+561,0561_mancozeb_metalaxil.pdf,MANCOZEB + METALAXIL,,fungicida,lino;mani,True,10961
+572,0572_metolacloro.pdf,METOLACLORO,ADAMA ESSENTIALS METOLACHLOR-AGAN - METOLACLOR INSUAGRO - METOLACLORO 96,herbicida (pre-emergente),girasol;maní;maíz;sorgo,True,7933
+589,0589_piraflufen_etil.pdf,PIRAFLUFEN ETIL,STAGGER.,herbicida,girasol;maíz;soja;trigo,True,15471
+596,0596_rimsulfuron.pdf,RIMSULFURON,RANGER FUSION - TITUS.,herbicida (post-emergente),avena;cebada;girasol;maiz;maíz;soja;trigo,True,20752
+612,0612_azoxistrobina_propiconazole.pdf,AZOXISTROBINA + PROPICONAZOLE,QUILT.,fungicida (Ready mix,cebada;girasol;mani;maíz;soja;trigo,True,14494
+613,0613_azoxistrobina_difenoconazole.pdf,AZOXISTROBINA + DIFENOCONAZOLE,AMISTAR TOP - QUADRIS SOL - QUADRIS TOP.,fungicida,colza;girasol;mani;maní;soja,True,24426
+615,0615_fludioxonil.pdf,FLUDIOXONIL,ACTISEAL FDL - CELEST - SCHOLAR - SCHOLAR 23 SC - SCHOLAR FOG RTU.,curasemillas fungicida,mani,True,24555
+616,0616_tiametoxam_lambdacialotrina.pdf,TIAMETOXAM + LAMBDACIALOTRINA,ACREDI - ALIKA - ARIETE - ARIETE FULL - COSMIC - CRUISER OPTI – EFORIA S – ENGEO S.,insecticida,avena;lino;mani;maíz;soja;trigo,True,27757
+619,0619_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,"curasemillas, fungicida e insecticida",mani;trigo,True,8726
+620,0620_boscalid_pyraclostrobin.pdf,BOSCALID + PYRACLOSTROBIN,BELLIS.,fungicida,arveja;maní,True,18800
+621,0621_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,ECORIZOSPRAY - RIZOSPRAY SUPER.,coadyuvante,,False,3970
+622,0622_ipconazole_metalaxil.pdf,IPCONAZOLE + METALAXIL,DIMENSION - RANCONA DIMENSION - RANCONA DIMENSION SEMILLERO.,curasemillas y fungicida,arveja;maní;maíz;soja,True,7814
+623,0623_pinoxaden_cloquintocet_mexyl.pdf,PINOXADEN + CLOQUINTOCET - MEXYL,ADAMA PINXIT – ATANOR PINOXADEN 5 EC – AXIAL – AXIAL PLUS – OCUPAL – TARSIUS.,herbicida,avena;cebada;lino;mani;trigo,True,14925
+624,0624_picoxystrobin.pdf,PICOXYSTROBIN,ACAPELA ONMIRA ACTIVE.,fungicida,cebada;soja;trigo,True,7464
+625,0625_picoxystrobin_cyproconazole.pdf,PICOXYSTROBIN + CYPROCONAZOLE,JUNO FUSION - ROZOX - STINGER.,fungicida,cebada;maní;maíz;soja;trigo,True,12552
+626,0626_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante (foliar),,False,4444
+627,0627_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,DENTAMET.,fertilizante,arveja,True,9658
+628,0628_sulfato_de_cobre_pentahidratado.pdf,SULFATO DE COBRE PENTAHIDRATADO,ADAMA MASTERCOP,bactericida y fungicida,arveja,True,6904
+629,0629_aminopyralid_metsulfuron_metil.pdf,AMINOPYRALID + METSULFURON METIL,TRONADOR XTRA.,herbicida (post-emergente selectivo),girasol;mani;soja;trigo,True,10134
+631,0631_pyriproxifen.pdf,PYRIPROXIFEN,EPINGLE – EPINGLE ECO – ESTEEM – PORCEL ALB.,insecticida,lino;mani,True,11903
+632,0632_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fungicida (foliar),soja;trigo,True,6089
+633,0633_butralin.pdf,BUTRALIN,,fitorregulador,,False,3361
+634,0634_clotianidin_metiocarb.pdf,CLOTIANIDIN + METIOCARB,PONCHO SOL - PONCHO SOL UNC SEMILLERO.,curasemillas e insecticida,girasol,True,5509
+635,0635_imidacloprid_pencycuron.pdf,IMIDACLOPRID + PENCYCURON,PRESTIGE 29 FS.,"curasemillas, fungicida e insecticida",,False,6104
+636,0636_imidacloprid_thiodicarb.pdf,IMIDACLOPRID + THIODICARB,CROPSTAR 60 FS.,terapico para tratamiento de semillas,maíz,True,4706
+638,0638_zinc.pdf,ZINC,STATUS ZN.,fertilizante (para tratamiento de semillas (Status Zn)),cebada;maiz;mani;sorgo;trigo,True,3792
+639,0639_prothioconazole_tebuconazole.pdf,PROTHIOCONAZOLE + TEBUCONAZOLE,PUCARÁ.,fungicida y terápico para el tratamiento de semillas,avena;cebada;trigo,True,5974
+640,0640_tebuconazole_tiram.pdf,TEBUCONAZOLE + TIRAM,,fungicida curasemillas,trigo,True,4172
+641,0641_tebuconazole_trifloxistrobin.pdf,TEBUCONAZOLE + TRIFLOXISTROBIN,CONSIST - NATIVO.,fungicida,cebada;girasol;maíz;soja;trigo,True,20872
+642,0642_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,AMINOQUELANT MG.,fertilizante,mani,True,6316
+643,0643_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,AMINOQUELANT ZN.,fertilizante,,False,6005
+644,0644_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,AMINOQUELANT-K LOW PH.,fertilizante (foliar y ferti-riego),mani,True,3977
+645,0645_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,AMINOQUELANT MN.,fertilizante,,False,6015
+646,0646_azospirillum_brasilense.pdf,AZOSPIRILLUM BRASILENSE,NITRAGIN MAIZ - NITRAGIN WAVE.,inoculante,cebada;maiz;maíz;trigo,True,3740
+647,0647_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,PHOSTROL.,fertilizante,,False,4856
+649,0649_compuesto_15_15_15.pdf,COMPUESTO 15 - 15 - 15,,fertilizante,mani,True,6520
+650,0650_alcohol_etoxilado.pdf,ALCOHOL ETOXILADO,,coadyuvante,,False,6028
+651,0651_alcohol_graso_etoxilado.pdf,ALCOHOL GRASO ETOXILADO,BRIOS - ECORIZOSPRAY - OLEOSOL A - OLEOSOL A-110 - OLEOSOL S - RADAR - RIZOSPRAY,coadyuvante,mani,True,8940
+653,0653_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,HUSSAR OD.,herbicida,avena;girasol;trigo,True,10509
+654,0654_benciladenina.pdf,BENCILADENINA,MAXCEL – MAXCEL BIORATIONAL.,fitorregulador,lino,True,7243
+655,0655_fosfato_monoamonico_azufrado.pdf,FOSFATO MONOAMONICO AZUFRADO,,fertilizante,maíz;trigo,True,2055
+657,0657_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,TANTOR.,fungicida,lino;soja,True,8595
+658,0658_compuesto_7_6_0.pdf,COMPUESTO 7 - 6 - 0,,fertilizante,mani;maní,True,4216
+659,0659_alfacipermetrina_teflubenzuron.pdf,ALFACIPERMETRINA + TEFLUBENZURON,IMUNIT.,insecticida,soja,True,6050
+660,0660_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,3019
+661,0661_topramezone.pdf,TOPRAMEZONE,CONVEY.,herbicida (Post Emergente),colza;maíz;soja,True,12156
+662,0662_mandipropamid.pdf,MANDIPROPAMID,REVUS.,fungicida,mani,True,9127
+663,0663_benzoato_de_emamectina.pdf,BENZOATO DE EMAMECTINA,BENZOMYL EMA - PROCLAIM 5 SG - PROCLAIM FORTE.,insecticida,girasol;mani;maíz,True,19051
+664,0664_pyraclostrobin_tiofanato_metil.pdf,PYRACLOSTROBIN + TIOFANATO METIL,ACRONIS.,fungicida terápico para tratamiento de semillas y fitorregulador,girasol;maíz;soja,True,12368
+665,0665_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,RILEGUM PACK 202 (RILEGUM TOP + MAXIM XL).,curasemillas e inoculante,arveja,True,3187
+666,0666_imidacloprid_beta_ciflutrina.pdf,IMIDACLOPRID + BETA-CIFLUTRINA,CONNECT - SOLOMON O-TEQ.,insecticida (Formulación Suspensión Concentrada (SC)),maíz;soja,True,17034
+667,0667_fluoxastrobin_tebuconazole.pdf,FLUOXASTROBIN + TEBUCONAZOLE,EVITO T MIX - PACK EVITO T - PACK EVITO T MANÍ.,fungicida (Pack),mani;maní;maíz;soja;trigo,True,18381
+668,0668_imidacloprid_lambdacialotrina.pdf,IMIDACLOPRID + LAMBDACIALOTRINA,MAGNETO - SYNERGY - TOUCHE ULTRA WG.,insecticida,soja,True,10542
+669,0669_aceite_de_soja_refinado.pdf,ACEITE DE SOJA REFINADO,BIOSOJOIL.,coadyuvante,mani;soja,True,5303
+671,0671_clorantraniliprole.pdf,CLORANTRANILIPROLE,ALTACOR - AMICOR - CORAGEN - LUMIVIA RA - LUMIVIA SEMILLERO-VALACOR – VESTICOR.,insecticida,garbanzo;girasol;mani;maíz;soja,True,34757
+672,0672_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,,fungicida,soja;trigo,True,7073
+673,0673_aviglicina_hcl.pdf,AVIGLICINA HCL,RETAIN – RETAIN BIORATIONAL.,fitorregulador,,False,6597
+674,0674_ethaboxam.pdf,ETHABOXAM,DANJIRI – DANJIRI PRO.,fungicida,,False,6066
+675,0675_flumioxazin_atrazina.pdf,FLUMIOXAZIN + ATRAZINA,,herbicida (de pre-siembra para siembra directa y post-emergencia),maíz;soja;sorgo,True,5851
+676,0676_acetamiprid_esfenvalerato.pdf,ACETAMIPRID + ESFENVALERATO,RETAKER.,insecticida,soja,True,10331
+677,0677_pyroxsulam_cloquintocet_mexyl_metsulfuron_metil.pdf,PYROXSULAM + CLOQUINTOCET- MEXYL + METSULFURON METIL,,herbicida,avena;girasol;lino;maíz;soja;trigo,True,13140
+678,0678_pirimifos_metil.pdf,PIRIMIFOS METIL,ACTELLIC 50.,"acaricida, gorgojicida e insecticida",lino;mani;trigo,True,12987
+679,0679_pirimifos_metil_lambdacialotrina.pdf,PIRIMIFOS METIL + LAMBDACIALOTRINA,ACTELLIC PLUS PACK.,insecticida,cebada;mani;maíz;sorgo;trigo,True,15796
+680,0680_ametrina_trifloxisulfuron.pdf,AMETRINA + TRIFLOXISULFURON,KRISMAT.,herbicida (post-emergente selectivo),mani;maíz;sorgo,True,13718
+681,0681_rhizobium_leguminosarum_biovar_viciae_protector.pdf,RHIZOBIUM LEGUMINOSARUM BIOVAR VICIAE + PROTECTOR,PACK NITRAGIN OPTIMIZE C POWER (*).,inoculante,arveja,True,4235
+682,0682_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,AMINOQUELANT MINOR.,fertilizante (foliar y fertirrigación),,False,6178
+684,0684_boro_y_aminoacidos.pdf,BORO Y AMINOACIDOS,,fertilizante (foliar y ferti-irrigación),,False,5739
+685,0685_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,AMINOQUELANT FE.,fertilizante (foliar y fertirrigación),,False,5751
+686,0686_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,INICIUM.,fertilizante,lino,True,4780
+687,0687_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,POLY FEED DRIP PRODUCCION.,fertirrigación,lino,True,6890
+688,0688_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,POLY FEED DRIP INICIO.,fertirrigación,lino,True,5054
+689,0689_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,POLYFEED.,fertilizante foliar,arveja;lino,True,5768
+690,0690_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,POLY FEED DRIP CRECIMIENTO.,fertirrigación,lino,True,5586
+691,0691_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,HAIFA MKP.,fertilizante (fertirrigación),lino,True,6149
+692,0692_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,HAIFA PROTEK.,fertilizante,lino,True,5948
+693,0693_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,MAGNISAL.,fertilizante (foliar y fertirrigación),lino,True,4642
+694,0694_calcio.pdf,CALCIO,,fertilizante foliar (prevenir y controlar deficiencias de calcio),,False,6637
+695,0695_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,MULTICOTE 4 - MULTICOTE 6 - MULTICOTE 8.,fertilizante,,False,5728
+696,0696_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,BONUS NPK OLIVE DROP.,fertilizante foliar,lino,True,2690
+697,0697_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,OPTIMUS.,bioestimulante y fertilizante,,False,4810
+698,0698_flonicamid.pdf,FLONICAMID,MAINMAN.,insecticida,,False,6550
+699,0699_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,"curasemillas, fungicida e inoculante",soja,True,5869
+700,0700_tiametoxam_teflutrina.pdf,TIAMETOXAM + TEFLUTRINA,EXCELTO (*) - FORCE ZEA.,curasemillas insecticida,girasol;mani;maíz;sorgo;trigo,True,12733
+702,0702_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,3069
+703,0703_aminopyralid.pdf,AMINOPYRALID,TOCON.,herbicida,girasol;soja,True,9050
+704,0704_compuesto_ns.pdf,COMPUESTO NS,,fertilizante,mani;maíz,True,3339
+707,0707_compuesto_19_19_19.pdf,COMPUESTO 19 - 19 - 19,,fertilizante,mani,True,3666
+708,0708_compuesto_np.pdf,COMPUESTO NP,,fertilizante,girasol;mani;maíz;trigo,True,4187
+709,0709_difenoconazole_fludioxonil.pdf,DIFENOCONAZOLE + FLUDIOXONIL,DIVIDEND EXTRA - NORBIZA EXTRA.,fungicida (terápico para tratamiento de semillas),cebada;mani;trigo,True,10812
+710,0710_ddvp_deltametrina.pdf,DDVP + DELTAMETRINA,,acaricida e insecticida (gorgojicida),lino;maíz;trigo,True,8601
+711,0711_paraquat_dicloruro_diuron.pdf,PARAQUAT DICLORURO + DIURON,CERILLO - ODERIS.,herbicida,girasol;mani;maíz;soja;trigo,True,18553
+712,0712_fluopicolide_propamocarb.pdf,FLUOPICOLIDE + PROPAMOCARB,INFINITO.,fungicida,lino,True,24272
+713,0713_fenoxaprop_p_etil_iodosulfuron_metil_sodio.pdf,FENOXAPROP-P-ETIL + IODOSULFURON METIL SODIO,,herbicida (postemergente),avena;trigo,True,5356
+714,0714_prothioconazole_clotianidin_fluoxastrobin.pdf,PROTHIOCONAZOLE + CLOTIANIDIN + FLUOXASTROBIN +,CHUCARO.,curasemillas (fungicida e insecticida),avena;cebada;trigo,True,7824
+715,0715_trifloxistrobin_metalaxil.pdf,TRIFLOXISTROBIN + METALAXIL,CREATE PRO SEMILLERO.,curasemillas fungicida,maní;maíz;soja,True,7432
+716,0716_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,CERTERO DUO.,insecticida,soja,True,5021
+717,0717_clorantraniliprole_tiametoxam.pdf,CLORANTRANILIPROLE + TIAMETOXAM,VOLIAM FLEXI - ZENOVOR.,insecticida,mani;maíz;soja,True,22322
+718,0718_abamectina_clorantraniliprole.pdf,ABAMECTINA + CLORANTRANILIPROLE,BOZITIVE - VOLIAM TARGO.,insecticida,mani;maní;soja,True,17572
+719,0719_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,PODIUM.,insecticida,soja,True,7351
+721,0721_novaluron.pdf,NOVALURON,ADAMA RIMON SUPRA – QUESTOR.,insecticida,lino;maíz;soja,True,11611
+723,0723_epoxiconazole.pdf,EPOXICONAZOLE,RUBRIC.,fungicida,trigo,True,5336
+724,0724_tebuconazole_imazalil.pdf,TEBUCONAZOLE + IMAZALIL,,curasemillas y fungicida,avena;cebada;trigo,True,4058
+725,0725_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,SUPREME.,fungicida,cebada;soja;trigo,True,5749
+727,0727_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,alguicida y herbicida,,False,4086
+728,0728_flurocloridona_s_metolacloro.pdf,FLUROCLORIDONA + S - METOLACLORO,MIX PACK - TWIN PACK GOLD.,herbicida (pre-siembra - pre-emergencia),girasol;mani;maíz;soja;sorgo,True,14558
+729,0729_compuesto_32_6_8_0_s.pdf,"COMPUESTO 32 - 6,8 - 0 + S",,fertilizante,maíz;soja,True,2122
+731,0731_decadienoato_dodecadienol.pdf,DECADIENOATO + DODECADIENOL,,feromona,,False,2276
+732,0732_tetraconazole.pdf,TETRACONAZOLE,DOMARK 10 – EMERALD 23 ME – LOSPEL,fungicida,maní;soja;trigo,True,15204
+733,0733_imidacloprid_aceite_de_soja_refinado.pdf,IMIDACLOPRID + ACEITE DE SOJA REFINADO,,acaricida,soja,True,3150
+734,0734_saflufenacil.pdf,SAFLUFENACIL,HEAT.,herbicida (control en mezcla con Glifosato),arveja;cebada;garbanzo;girasol;maní;maíz;soja;sorgo;trigo,True,13421
+735,0735_pyroxsulam_cloquintocet_mexyl.pdf,PYROXSULAM + CLOQUINTOCET MEXYL,MERIT GOLD - MERIT WG.,herbicida,avena;girasol;lino;maíz;soja;trigo,True,11184
+736,0736_aminopyralid_fluroxipir_metil_heptil_ester.pdf,AMINOPYRALID + FLUROXIPIR METIL HEPTIL ESTER,CIMBRON - PASTAR.,herbicida,,False,8693
+737,0737_dimetomorf.pdf,DIMETOMORF,FORUM.,fungicida,,False,7313
+738,0738_fenoxaprop_p_etil_cloquintocet_mexil.pdf,FENOXAPROP-P-ETIL + CLOQUINTOCET MEXIL,FOXTROT XTRA.,herbicida,avena;cebada;lino;maíz;sorgo;trigo,True,7270
+739,0739_clorantraniliprole_lambdacialotrina.pdf,CLORANTRANILIPROLE + LAMBDACIALOTRINA,AMPLIGO - CAREXO.,insecticida,arveja;colza;girasol;maiz;mani;maíz;soja,True,19718
+740,0740_difenoconazole_metalaxil_m.pdf,DIFENOCONAZOLE + METALAXIL - M,COMPINCHE (*) - DIVIDEND XTREME.,fungicida (terápico para tratamiento de semillas),cebada;mani;trigo,True,11558
+741,0741_tiabendazol_fludioxonil_metalaxil_m_azoxistrobina.pdf,TIABENDAZOL + FLUDIOXONIL + METALAXIL - M + AZOXISTROBINA,MAXIM QUATTRO - MAXIM QUATTRO SEMILLERO.,fungicida (que se utiliza como terápico para el tratamiento de las semillas),mani;maní;maíz;soja,True,13396
+742,0742_tiametoxam_difenoconazole_metalaxil_m.pdf,TIAMETOXAM + DIFENOCONAZOLE + METALAXIL - M,DIVIDEND SUPREME - TENACIUS (*).,fungicida e insecticida (terápico para el tratamiento de semillas),mani;trigo,True,11417
+743,0743_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,,False,1753
+745,0745_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,soja,True,1818
+746,0746_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,soja,True,1799
+747,0747_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,soja,True,1802
+748,0748_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,soja,True,1799
+749,0749_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,soja,True,1800
+750,0750_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,,fertilizante,soja,True,1970
+751,0751_spinetoram.pdf,SPINETORAM,DELEGATE - EXALT - PRESERVE FUSION.,insecticida (al,lino;mani;maíz;soja,True,22129
+752,0752_1_3_dicloropropeno_cloropicrina.pdf,"1,3 DICLOROPROPENO + CLOROPICRINA",,fungicida y nematicida (al,mani,True,7192
+753,0753_metominostrobin_tebuconazole.pdf,METOMINOSTROBIN + TEBUCONAZOLE,RACE RM.,fungicida (foliar),lino;maíz;soja;trigo,True,8917
+754,0754_metominostrobin_tiofanato_metil.pdf,METOMINOSTROBIN + TIOFANATO METIL,,fungicida (foliar),soja,True,6679
+755,0755_glifosato_s_metolacloro.pdf,GLIFOSATO + S - METOLACLORO,SEQUENCE.,herbicida (pre-emergente),mani;maíz;soja;sorgo,True,10733
+756,0756_imazamox_imazapir.pdf,IMAZAMOX + IMAZAPIR,CLEARSOL PLUS - CLEARSOL II PLUS PACK.,herbicida ((post-emergencia) Clearsol II Plus Pack),arveja;avena;cebada;colza;girasol;lino;maiz;maní;maíz;soja;sorgo;trigo,True,16195
+757,0757_dimoxistrobin_epoxiconazole.pdf,DIMOXISTROBIN + EPOXICONAZOLE,SWING GOLD.,fungicida,trigo,True,5461
+758,0758_metconazole_epoxiconazole.pdf,METCONAZOLE + EPOXICONAZOLE,DUETT PLUS.,fungicida,cebada;maní;soja;trigo,True,8695
+760,0760_clotianidin_beta_ciflutrina.pdf,CLOTIANIDIN + BETA-CIFLUTRINA,PONCHO DUO.,insecticida (terápico para tratamiento de semillas),mani,True,4238
+761,0761_tiacloprid_deltametrina.pdf,TIACLOPRID + DELTAMETRINA,PROTEUS.,insecticida,,False,4516
+762,0762_bifentrin_carbosulfan.pdf,BIFENTRIN + CARBOSULFAN,,insecticida,soja,True,10340
+763,0763_bifentrin_imidacloprid.pdf,BIFENTRIN + IMIDACLOPRID,ADAMA GALIL - CONCLUSION - ENERGY - KHOSPI - MAGIC.,insecticida,mani;soja,True,13126
+764,0764_etiprole_fipronil.pdf,ETIPROLE + FIPRONIL,REGENT ET PACK.,curasemillas insecticida,mani;soja,True,6059
+765,0765_etiprole.pdf,ETIPROLE,CURBIX 35 FS.,curasemillas (al,mani;soja,True,4871
+766,0766_thiencarbazone_methyl_isoxaflutole_cyprosulfamide.pdf,THIENCARBAZONE-METHYL + ISOXAFLUTOLE + CYPROSULFAMIDE,ADENGO.,herbicida,maíz,True,10275
+767,0767_compuesto_42_0_0_1_5s.pdf,"COMPUESTO 42 - 0 - 0 + 1,5S",,fertilizante,colza;girasol;maíz;trigo,True,1789
+768,0768_compuesto_41_0_0_5s.pdf,COMPUESTO 41 - 0 - 0 + 5S,,fertilizante,colza;girasol;maíz;trigo,True,1786
+769,0769_compuesto_39_0_0_7_s.pdf,COMPUESTO 39 - 0 - 0 + 7 S,,fertilizante,colza;girasol;maíz;trigo,True,1789
+770,0770_compuesto_40_0_0_2_2_s.pdf,"COMPUESTO 40 - 0 - 0 + 2,2 S",,fertilizante,colza;girasol;maíz;trigo,True,1789
+771,0771_roca_fosforica_parcialmente_acidulada.pdf,ROCA FOSFÓRICA PARCIALMENTE ACIDULADA,,fertilizante,,False,1656
+772,0772_tiofanato_metil_tebuconazole.pdf,TIOFANATO METIL + TEBUCONAZOLE,MYSTIC.,fungicida,maní;soja,True,7551
+773,0773_tiofanato_metil_tiram_ethaboxam.pdf,TIOFANATO METIL + TIRAM + ETHABOXAM,DANJIRI ST - TOPSEED EXTRA.,curasemillas y fungicida,soja,True,7202
+774,0774_azoxistrobina_tebuconazole.pdf,AZOXISTROBINA + TEBUCONAZOLE,,fungicida,girasol;maíz;soja;trigo,True,10625
+775,0775_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,ADAMA GALIL.,acaricida e insecticida,soja,True,6957
+776,0776_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,SAVAGE ULTRA PACK.,"curasemillas, fungicida e insecticida",avena;trigo,True,7558
+777,0777_gentamicina_oxitetraciclina.pdf,GENTAMICINA + OXITETRACICLINA,,bactericida y fungicida (control enfermedades bacterianas),,False,3080
+778,0778_difenoconazole_fludioxonil_tiametoxam.pdf,DIFENOCONAZOLE + FLUDIOXONIL + TIAMETOXAM,CRUISER PLUS - SUREN PLUS.,fungicida e insecticida (terápico para el tratamiento de semillas),avena;cebada;mani;soja;trigo,True,16333
+779,0779_acetoclor_atrazina.pdf,ACETOCLOR + ATRAZINA,GUARDIAN X-TRA.,herbicida (pre-emergente/pre-siembra),maíz;sorgo,True,9217
+780,0780_compuesto_19_5_0_0.pdf,"COMPUESTO 19,5 - 0 - 0",,fertilizante (aspersión foliar),cebada;trigo,True,3727
+781,0781_polifosfato_de_amonio.pdf,POLIFOSFATO DE AMONIO,,fertilizante,,False,2957
+782,0782_thiosulfato_de_potasio.pdf,THIOSULFATO DE POTASIO,,fertilizante,,False,3680
+783,0783_compuesto_8_20_10.pdf,COMPUESTO 8 - 20 - 10,,fertilizante,colza;girasol;maíz;trigo,True,1797
+785,0785_compuesto_6_30_10.pdf,COMPUESTO 6 - 30 - 10,,fertilizante,colza;girasol;maíz;trigo,True,1706
+786,0786_tiabendazol_fludioxonil_metalaxil_m.pdf,TIABENDAZOL + FLUDIOXONIL + METALAXIL - M,APRON MAXX ADVANCED - MAXIM EVOLUTION.,fungicida (que se utiliza como terápico para el tratamiento de las semillas),arveja;garbanzo;mani;maní;maíz;soja,True,13656
+787,0787_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,ADAMA RIMON FAST.,insecticida,lino;soja,True,6394
+788,0788_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,BLEND.,fungicida,lino;mani;soja;trigo,True,9639
+796,0796_fluoxastrobin.pdf,FLUOXASTROBIN,EVITO.,fungicida,cebada;mani;maní;maíz;soja;trigo,True,13876
+811,0811_acido_polimaleico.pdf,ACIDO POLIMALEICO,SPER SAL.,desalinizador y mejorador de suelos de acción rápida,avena;cebada;garbanzo;girasol;lino;maíz;soja;sorgo;trigo,True,3390
+812,0812_bistrifluron.pdf,BISTRIFLURON,,insecticida,soja,True,6628
+813,0813_aceite_de_soja.pdf,ACEITE DE SOJA,CHEMI OIL - NATUR´L OLEO - PORTER - RIZO OIL.,coadyuvante,mani;soja,True,5342
+814,0814_fipronil_lambdacialotrina.pdf,FIPRONIL + LAMBDACIALOTRINA,,insecticida,girasol;lino;maíz;soja;sorgo,True,18463
+815,0815_imidacloprid_clorpirifos.pdf,IMIDACLOPRID + CLORPIRIFOS,,insecticida,lino;soja,True,5445
+816,0816_glifosato_2_4d.pdf,"GLIFOSATO + 2,4D",,herbicida,girasol;maní;soja;sorgo,True,8381
+817,0817_flubendiamide.pdf,FLUBENDIAMIDE,BALUARTE ALB - BELT 48 SC.,insecticida,maíz;soja,True,22996
+818,0818_prothioconazole.pdf,PROTHIOCONAZOLE,CREATE PRO MAX SEMILLERO.,fungicida curasemillas,girasol;maní;maíz;soja,True,6870
+819,0819_prothioconazole_trifloxistrobin.pdf,PROTHIOCONAZOLE + TRIFLOXISTROBIN,CRIPTON.,fungicida,cebada;maní;maíz;soja;trigo,True,12653
+820,0820_bifentrin_zetametrina.pdf,BIFENTRIN + ZETAMETRINA,HERO.,insecticida,mani;maíz;soja,True,10480
+821,0821_cyantraniliprole.pdf,CYANTRANILIPROLE,BENEVIA - EXIREL - FORTENZA SEMILLERO - VERIMARK.,curasemillas insecticida,girasol;mani;maíz;soja,True,26029
+822,0822_clorimuron_etil_sulfometuron_metil.pdf,CLORIMURÓN ETIL + SULFOMETURON METIL,APPOINT - CANOPY STS - DEFENDER FUSION - LIGATE.,herbicida,avena;cebada;girasol;maíz;soja;sorgo;trigo,True,13538
+823,0823_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,BATTLE PACK.,fungicida,lino;mani;soja,True,13931
+824,0824_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,THORIX PACK.,insecticida,lino;mani;soja,True,12283
+825,0825_azoxistrobina_flutriafol.pdf,AZOXISTROBINA + FLUTRIAFOL,NANOK - VICKING - WARRIOR.,fungicida,cebada;lino;maiz;mani;maíz;soja;trigo,True,16222
+826,0826_imidacloprid_gammacialotrina.pdf,IMIDACLOPRID + GAMMACIALOTRINA,TOTEM POWER.,insecticida,lino;mani;soja,True,13812
+827,0827_compuesto_0_10_0.pdf,COMPUESTO 0 - 10 - 0,,fertilizante,girasol;maíz;soja;trigo,True,2586
+828,0828_compuesto_0_20_20.pdf,COMPUESTO 0 - 20 - 20,,fertilizante,colza;maíz;trigo,True,2743
+829,0829_compuesto_0_39_0.pdf,COMPUESTO 0 - 39 - 0,,fertilizante,colza;girasol;maíz;trigo,True,2652
+830,0830_compuesto_4_7_5_0.pdf,"COMPUESTO 4 - 7,5 - 0",,fertilizante,girasol;maíz;soja;trigo,True,2745
+831,0831_compuesto_6_8_0.pdf,COMPUESTO 6 - 8 - 0,,fertilizante,girasol;maíz;soja;trigo,True,2733
+832,0832_compuesto_6_36_0.pdf,COMPUESTO 6 - 36 - 0,,fertilizante,colza;girasol;maíz;trigo,True,2730
+833,0833_boscalid.pdf,BOSCALID,CANTUS.,fungicida,,False,5589
+834,0834_ametoctradin_dimetomorf.pdf,AMETOCTRADIN + DIMETOMORF,ZAMPRO DM.,fungicida,,False,5517
+835,0835_mesorhizobium_ciceri.pdf,MESORHIZOBIUM CICERI,ADHERE GARBANZO - RIZO-LIQ TOP GARBANZO - RIZOPACK GARBANZO 213 - SIGNUM,inoculante (en turba),garbanzo;mani,True,7999
+836,0836_pyraclostrobin_metconazole.pdf,PYRACLOSTROBIN + METCONAZOLE,OPERA ULTRA.,fungicida,soja,True,4935
+837,0837_abamectina_tiametoxam.pdf,ABAMECTINA + TIAMETOXAM,RADIS - SOLVIGO.,insecticida y nematicida,mani;soja,True,16470
+838,0838_azoxistrobina_isopyrazam.pdf,AZOXISTROBINA + ISOPYRAZAM,REFLECT XTRA.,fungicida,cebada;mani;trigo,True,16613
+839,0839_benzoato_de_emamectina_lufenuron.pdf,BENZOATO DE EMAMECTINA + LUFENURON,CURYOM FIT - CURYOM FIT UV.,insecticida,mani;maíz;soja,True,11645
+840,0840_bradyrhizobium_japonicum_ipconazole_metalaxil.pdf,BRADYRHIZOBIUM JAPONICUM + IPCONAZOLE + METALAXIL,,"curasemillas, fungicida e inoculante",soja,True,4884
+841,0841_imidacloprid_novaluron_bifentrin.pdf,IMIDACLOPRID + NOVALURON + BIFENTRIN,,insecticida,lino,True,5589
+842,0842_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,RIZOPACK GARBANZO 202 (*).,curasemillas e inoculante,garbanzo,True,3539
+843,0843_metaflumizone.pdf,METAFLUMIZONE,ALVERDE.,insecticida,,False,5719
+844,0844_novaluron_acetamiprid.pdf,NOVALURON + ACETAMIPRID,ADAMA CORMORAN.,insecticida,,False,7407
+845,0845_clorotalonil_dimetomorf.pdf,CLOROTALONIL + DIMETOMORF,ADAMA SPHINX SUPRA.,fungicida,,False,4232
+846,0846_bradyrhizobium_spp_lipo_quito_oligosacaridos_lco.pdf,BRADYRHIZOBIUM SPP. + LIPO-QUITO OLIGOSACARIDOS (LCO),NITRAGIN OPTIMIZE 200 - NITRAGIN OPTIMIZE II - NITRAGIN OPTIMIZE II PACK BIOPOWER.,inoculante,soja,True,4944
+847,0847_ametoctradin_metiram.pdf,AMETOCTRADIN + METIRAM,ORVEGO ME.,fungicida,,False,5350
+848,0848_azoxistrobina_tebuconazole_procloraz.pdf,AZOXISTROBINA + TEBUCONAZOLE + PROCLORAZ,,fungicida,cebada;trigo,True,7799
+849,0849_bacillus_subtilis.pdf,BACILLUS SUBTILIS,ROBUST - SERENADE ASO - SERENADE MAX.,tratamiento de semillas fertilizante,maní;maíz;soja,True,18017
+850,0850_difenoconazole_fludioxonil_tiametoxam_sedaxane.pdf,DIFENOCONAZOLE + FLUDIOXONIL + TIAMETOXAM + SEDAXANE,BAROVA INTEGRAL - TENACIUS SX (*) - VIBRANCE INTEGRAL.,"fungicida, insecticida y terápico para el tratamiento de semillas",cebada;mani;trigo,True,16270
+851,0851_fludioxonil_metalaxil_m_tiabendazol_tiametoxam.pdf,FLUDIOXONIL + METALAXIL- M + TIABENDAZOL + TIAMETOXAM,CRUISER ADVANCED - MAXIM INTEGRAL - QUAGLIA ADVANCED - VIBRANCE CRUISER MAXX.,fungicida e insecticida (se utiliza como terápico para el tratamiento de semilla,mani;soja,True,16051
+852,0852_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,REGENSOIL WP.,acondicionador de suelos y fertilizante,lino,True,5038
+853,0853_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf,Versión Digital de la Guía Fitosanitaria CASAFE Edición 2013,NITRAGIN OPTIMIZE II PACK ACRONIS *.,"curasemillas, fungicida e inoculante",soja,True,8192
+854,0854_iodosulfuron_metil_sodio_mesosulfuron_metil.pdf,IODOSULFURON METIL SODIO + MESOSULFURON METIL +,HUSSAR PLUS PACK.,herbicida,alpiste;avena;cebada;girasol;trigo,True,9457
+855,0855_acidos_fosfonicos.pdf,ACIDOS FOSFÓNICOS,RIZOSPRAY CORRECTOR SECUESTRANTE.,coadyuvante,mani,True,4321
+856,0856_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,NITRAGIN OPTIMIZE II PACK FULL **.,curasemillas e inoculante (fungicida),soja,True,8641
+858,0858_compuesto_1_0_9.pdf,COMPUESTO 1 - 0 - 9,DORUS - QUANTIS - TRIVELE.,fertilizante,mani,True,3818
+859,0859_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,WUXAL MAGNESIO.,fertilizante (prevenir y controlar deficiencias de magnesio),arveja,True,5546
+861,0861_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,ASP NITRO LL.,fertilizante (Recomendaciones de Uso para Aplicaciones ferti-riego),girasol;mani;maíz;soja;trigo,True,7895
+863,0863_esteres_metilicos_de_acidos_grasos_de_aceites_vegetales.pdf,ESTERES METILICOS DE ACIDOS GRASOS DE ACEITES VEGETALES,ADVENTURE - BREAKER MAX - COADYUVANTE SELECTO - EXCELENT - FOCUS - GEOS - JUMBO,coadyuvante,,False,8500
+864,0864_iodosulfuron_metil_sodio_thiencarbazone_methyl.pdf,IODOSULFURON METIL SODIO + THIENCARBAZONE METHYL,PERCUTOR.,herbicida,avena;girasol;lino;maní;maíz;soja,True,17564
+865,0865_prothioconazole_fluoxastrobin_tebuconazole.pdf,PROTHIOCONAZOLE + FLUOXASTROBIN + TEBUCONAZOLE,SCENIC.,curasemillas (fungicida e insecticida),cebada;trigo,True,5926
+869,0869_tiabendazol_fludioxonil_metalaxil_m.pdf,TIABENDAZOL + FLUDIOXONIL + METALAXIL- M +,EFFORT PACK - RIZOPACK 203 - RIZOPACK 203 HC - SIGNUM PACK 303 - SIGNUM PACK 303 HC.,"fertilizante biológico líquido de aplicación directa, fungicida y terápico para ",mani;soja,True,12949
+870,0870_abamectina_lufenuron.pdf,ABAMECTINA + LUFENURON,,insecticida,mani;soja,True,6345
+871,0871_glifosato_2_4d_dicamba.pdf,"GLIFOSATO + 2,4D + DICAMBA",,herbicida,girasol;mani;soja;sorgo,True,7801
+872,0872_bacillus_amyloliquefaciens.pdf,BACILLUS AMYLOLIQUEFACIENS,SERIFEL.,fungicida,,False,4387
+873,0873_bradyrhizobium_arachis.pdf,BRADYRHIZOBIUM ARACHIS,ADHERE MANI - HICOAT SUPER MANÍ - HISTICK 2 MANI.,inoculante (HISTICK,mani;maní,True,6954
+874,0874_compuesto_15_4_5.pdf,COMPUESTO 15 - 4 - 5,TOPFIX.,fertilizante foliar,soja;sorgo;trigo,True,3525
+875,0875_compuesto_6_29_0.pdf,COMPUESTO 6 - 29 - 0,NEUTRAFIX.,fertilizante foliar,maní;soja,True,3189
+876,0876_compuesto_0_28_18.pdf,COMPUESTO 0 - 28 - 18,FOSPOFIX.,fertilizante foliar,maní;soja,True,3219
+877,0877_protector_de_inoculante.pdf,PROTECTOR DE INOCULANTE,EXTENSION - EXTENSION GE.,protector de inoculante (EXTENSION),soja,True,4710
+878,0878_compuesto_10_0_0.pdf,COMPUESTO 10 - 0 - 0,MACROFIX.,fertilizante foliar,cebada;girasol;soja;trigo,True,2993
+879,0879_compuesto_21_0_0.pdf,COMPUESTO 21 - 0 - 0,GENOFIX S.,fertilizante foliar,maní;maíz;soja;trigo,True,3031
+880,0880_compuesto_de_azufre.pdf,COMPUESTO DE AZUFRE,ENXOFREFIX.,fertilizante líquido foliar,maní;soja,True,2781
+881,0881_compuesto_de_micronutrientes.pdf,COMPUESTO DE MICRONUTRIENTES,COMPLEFIX 50.,fertilizante líquido foliar,girasol;maní;soja,True,3337
+882,0882_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,LACTOSILO.,inoculante (enzimático para ensilaje),maíz;soja;sorgo,True,4247
+883,0883_manganeso_quelatado.pdf,MANGANESO QUELATADO,MANGFIX.,fertilizante foliar,maní;soja,True,3425
+884,0884_zinc_quelatado.pdf,ZINC QUELATADO,ZINCOFIX.,fertilizante foliar,maní;soja,True,3155
+885,0885_bifentrin_abamectina.pdf,BIFENTRIN + ABAMECTINA,BIABA - BRIGADA EXTRA - CHACAL EXTRA - LUCRO PLUS - STARION EXTRA - TALSTAR EXTRA.,acaricida e insecticida,mani;maní;soja,True,10489
+886,0886_bifentrin_novaluron.pdf,BIFENTRIN + NOVALURON,BIFLEX PLUS.,insecticida,lino;mani;soja,True,10032
+887,0887_clomazone_hexazinona.pdf,CLOMAZONE + HEXAZINONA,DISCOVER.,herbicida (pre-emergente),mani,True,7188
+888,0888_sulfentrazone_clorimuron_etil.pdf,SULFENTRAZONE + CLORIMURON ETIL,CAPAZ XL WG.,herbicida (pre-emergente),cebada;girasol;lino;maní;soja;sorgo;trigo,True,13110
+889,0889_fluxapyroxad_pyraclostrobin_epoxiconazole.pdf,FLUXAPYROXAD + PYRACLOSTROBIN + EPOXICONAZOLE,ORQUESTA ULTRA.,fungicida,cebada;girasol;maiz;mani;maní;maíz;soja;trigo,True,11684
+890,0890_lambdacialotrina_lufenuron.pdf,LAMBDACIALOTRINA + LUFENURON,,insecticida,mani;soja,True,6489
+891,0891_metoxifenocide_spinosad.pdf,METOXIFENOCIDE + SPINOSAD,QUINTAL.,insecticida,soja,True,6489
+892,0892_penoxsulam_cyhalofop_butil.pdf,PENOXSULAM + CYHALOFOP BUTIL,REBELEX.,herbicida (post-emergente),,False,7236
+893,0893_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,HYPER.,fungicida,soja,True,7786
+894,0894_azoxistrobina_epoxiconazole.pdf,AZOXISTROBINA + EPOXICONAZOLE,ADAMA GUAPO ULTRA - ECLIPSE - RUBRIC MAX - SMASH - TAZER XPERT.,fungicida,cebada;mani;maní;maíz;soja;trigo,True,17273
+895,0895_fluxapyroxad_pyraclostrobin.pdf,FLUXAPYROXAD + PYRACLOSTROBIN,PRIAXOR.,fungicida,avena;soja,True,17906
+896,0896_imazetapir_saflufenacil.pdf,IMAZETAPIR + SAFLUFENACIL,OPTILL.,herbicida,lino;soja,True,10117
+897,0897_metrafenone.pdf,METRAFENONE,VIVANDO.,fungicida,,False,5575
+898,0898_dinotefuran.pdf,DINOTEFURAN,DINNO - DONUM - STARKLE 70 WP - TENCHU.,insecticida (contacto e ingestión),soja,True,13021
+899,0899_trichoderma_afroharzianum.pdf,TRICHODERMA AFROHARZIANUM,RIZODERMA - RIZODERMA SOJA - RIZODERMA TRIGO.,promotor de crecimiento y barrera de protección,cebada;maíz;soja;trigo,True,11011
+900,0900_indaziflam.pdf,INDAZIFLAM,ALION - ESPLANADE.,herbicida,sorgo,True,17535
+901,0901_spirotetramat.pdf,SPIROTETRAMAT,MOVENTO.,insecticida,,False,10298
+902,0902_iodosulfuron_metil_sodio_mesosulfuron_metil.pdf,IODOSULFURON METIL SODIO + MESOSULFURON METIL,HUSSAR PLUS.,herbicida,alpiste;avena;cebada;girasol;trigo,True,6888
+903,0903_azoxistrobina_fludioxonil.pdf,AZOXISTROBINA + FLUDIOXONIL,GRADUATE A +.,fungicida,mani,True,8859
+904,0904_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,JAZZ.,fungicida,soja,True,7671
+905,0905_carfentrazone_etil_clorimuron_etil.pdf,CARFENTRAZONE ETIL + CLORIMURON ETIL,,herbicida (pre-emergente),girasol;lino;maní;soja;sorgo,True,13444
+906,0906_carfentrazone_etil_esteres_metilicos_de_aceites.pdf,CARFENTRAZONE ETIL + ESTERES METILICOS DE ACEITES,,defoliante y herbicida (pre y post-emergente),girasol;lino;maíz;soja;trigo,True,12232
+907,0907_difenoconazole_fludioxonil_sedaxane.pdf,DIFENOCONAZOLE + FLUDIOXONIL + SEDAXANE,BAROVA GOLD - COMPINCHE SX (*) - EXTALIOM GOLD - VIBRANCE GOLD.,fungicida y terápico para el tratamiento de semillas,cebada;mani;trigo,True,15153
+908,0908_fludioxonil_metalaxil_m_bradyrhizobium_spp.pdf,FLUDIOXONIL + METALAXIL- M + BRADYRHIZOBIUM SPP.,FUNCION PACK - FUNCION PACK HC.,"fertilizante biológico líquido de aplicación directa, fungicida y terápico para ",mani;soja,True,11960
+909,0909_imidacloprid_spirotetramat.pdf,IMIDACLOPRID + SPIROTETRAMAT,MOVENTO PLUS.,insecticida,mani,True,7938
+910,0910_indoxacarb.pdf,INDOXACARB,AVAUNT.,insecticida,,False,9300
+911,0911_picoxystrobin_pentiopirad.pdf,PICOXYSTROBIN + PENTIOPIRAD,ORLIAN.,fungicida,girasol;maní;soja,True,10223
+912,0912_sulfentrazone_metribuzin.pdf,SULFENTRAZONE + METRIBUZIN,CAPAZ MTZ - SENCOREX DUO.,herbicida (pre-emergente),cebada;girasol;lino;mani;maní;soja;sorgo;trigo,True,11923
+913,0913_sedaxane.pdf,SEDAXANE,VIBRANCE SEMILLERO.,fungicida y terápico para el tratamiento de semillas,mani;maíz;soja;trigo,True,9042
+914,0914_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,HAWKER PACK.,insecticida,soja,True,10123
+915,0915_valiphenal_mancozeb.pdf,VALIPHENAL + MANCOZEB,VALIS M.,fungicida,mani,True,7923
+916,0916_azoxistrobina_benzovindiflupir.pdf,AZOXISTROBINA + BENZOVINDIFLUPIR,ELATUS.,fungicida,arveja;cebada;garbanzo;mani;maní;maíz;soja;trigo,True,15409
+919,0919_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf,Versión Digital de la Guía de Productos Fitosanitarios - CASAFE - Edición 2015/2017,COTE N 2 - COTE N 4.,fertilizante,cebada;maní;maíz;soja;sorgo;trigo,True,8459
+920,0920_atrazina_metolacloro.pdf,ATRAZINA + METOLACLORO,ADAMA PARALLEL PLUS.,herbicida (pre-emergente),maíz;sorgo,True,7036
+921,0921_tiofanato_metil_diniconazole_m.pdf,TIOFANATO METIL + DINICONAZOLE-M,SUMIEIGHT MT.,curasemillas y fungicida,trigo,True,5459
+922,0922_biciclopirona.pdf,BICICLOPIRONA,ACURON UNO – BORJA – MANGANEL – PARSICO – ZARBEMA.,"herbicida (pre-emergente y barbecho de primavera para el cultivo de maíz, y para",mani;maíz;soja,True,13236
+923,0923_diclosulam_sulfentrazone.pdf,DICLOSULAM + SULFENTRAZONE,SPIDER XTRA PACK.,herbicida,lino;mani;soja,True,11042
+924,0924_oxathiapiprolin.pdf,OXATHIAPIPROLIN,LUMISENA SEMILLERO – PLENARIS SEMILLERO - ZORVEC ENICADE.,fungicida,girasol,True,19125
+925,0925_clorimuron_etil_sulfometuron_metil_sulfentrazone.pdf,CLORIMURÓN ETIL + SULFOMETURON METIL + SULFENTRAZONE,LIGATE BESTY PACK.,herbicida,avena;cebada;girasol;lino;maíz;soja;sorgo;trigo,True,19672
+926,0926_imazetapir_flumioxazin.pdf,IMAZETAPIR + FLUMIOXAZIN,ZETHA MAXX.,herbicida (de pre-siembra (pre-emergencia y post-emergencia de la maleza)),lino;mani;soja;sorgo,True,12849
+927,0927_picoxystrobin_cyproconazole_fosfitos_de_cobre_y.pdf,PICOXYSTROBIN + CYPROCONAZOLE + FOSFITOS DE COBRE Y,STINGER DUO PACK (*).,fungicida,maíz;soja;trigo,True,12142
+928,0928_dimetenamida_p.pdf,DIMETENAMIDA - P,FRONTIER-P.,herbicida,lino;mani;maíz,True,6639
+929,0929_fluxapyroxad.pdf,FLUXAPYROXAD,SISTIVA.,fungicida y terápico para el tratamiento de semillas,avena;cebada;trigo,True,6601
+930,0930_halauxifen_metil_diclosulam.pdf,HALAUXIFEN METIL + DICLOSULAM,CLEANTIUM FUSION - PAXEO FUSION - PORTRAX - TEXARO.,herbicida (preemergente),maní;maíz;soja;trigo,True,10012
+931,0931_sulfoxaflor_lambdacialotrina.pdf,SULFOXAFLOR + LAMBDACIALOTRINA,COMMIT - EXPEDITION - SILVER FUSION.,insecticida,lino;maiz;mani;maíz;soja,True,12272
+932,0932_sulfoxaflor.pdf,SULFOXAFLOR,CLOSER - TRANSFORM.,insecticida,arveja;avena;lino;mani;sorgo;trigo,True,16665
+933,0933_glifosato_fomesafen.pdf,GLIFOSATO + FOMESAFEN,FLEXSTAR B - FLEXSTAR GT.,herbicida (pre-emergente),mani;maíz;soja;sorgo;trigo,True,10747
+934,0934_fipronil_imidacloprid.pdf,FIPRONIL + IMIDACLOPRID,SUNATO SEMILLERO.,terapico para tratamiento de semillas,soja,True,5986
+935,0935_fludioxonil_metalaxil_m_tiabendazol_tiametoxam.pdf,FLUDIOXONIL + METALAXIL -M + TIABENDAZOL + TIAMETOXAM +,CRUISER PACK - CRUISER PACK HC - RIZOPACK 205 HC.,"fertilizante biológico líquido de aplicación directa, fungicida, insecticida y t",mani;soja,True,15848
+936,0936_metoxifenocide_clorpirifos.pdf,METOXIFENOCIDE + CLORPIRIFOS,,insecticida,soja,True,8342
+937,0937_biciclopirona_s_metolacloro.pdf,BICICLOPIRONA + S-METOLACLORO,ACURON GOLD - ACURON PACK - BORJA PACK.,herbicida (pre-emergente),mani;maíz,True,15153
+938,0938_fenoxaprop_p_etil_mefenpir_dietil.pdf,FENOXAPROP-P-ETIL + MEFENPIR DIETIL,PUMA EXTRA.,herbicida,avena;cebada;mani;maíz;sorgo,True,6759
+939,0939_fomesafen_s_metolacloro.pdf,FOMESAFEN + S - METOLACLORO,EDDUS - GENOA.,herbicida (pre-emergente y post-emergente),mani;maíz;soja;sorgo;trigo,True,10955
+940,0940_azoxistrobina_carbendazim_tebuconazole.pdf,AZOXISTROBINA + CARBENDAZIM + TEBUCONAZOLE,GUAYRA.,fungicida,lino;soja,True,7149
+941,0941_2_4_d_sal_colina.pdf,"2,4 D SAL COLINA",EMPIRIC FUSION – EMBEDDIX - ENLIST.,herbicida,alpiste;avena;cebada;girasol;maiz;mani;maní;maíz;soja;sorgo;trigo,True,13905
+942,0942_2_4_d_sales_dma_y_sodica.pdf,"2,4 D SALES DMA Y SÓDICA","ADAMA ESSENTIALS 2,4 D AMINA 60,2 SL - ASP AMINA 60 - ASP AMINA XTRA - DEFERON - DMA -",herbicida (post-emergente),alpiste;avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,22225
+943,0943_2_4_d_ester.pdf,"2,4 D ÉSTER","ADAMA ESSENTIALS 2,4 D ESTER.",herbicida (post-emergente),alpiste;avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,13208
+944,0944_meptyldinocap.pdf,MEPTYLDINOCAP,KARATHANE GOLD.,fungicida,,False,3835
+945,0945_2_4_d_aminopyralid.pdf,"2,4 D + AMINOPYRALID",PRADO EXTRA.,herbicida,,False,4913
+946,0946_cletodim_quizalofop_p_etil.pdf,CLETODIM + QUIZALOFOP-P-ETIL,BILOXA - CELEBRATE - KROLL.,herbicida (post-emergente),avena;cebada;girasol;lino;maní;maíz;soja;sorgo;trigo,True,14155
+947,0947_sulfentrazone_s_metolacloro.pdf,SULFENTRAZONE + S-METOLACLORO,CAPAZ ELITE.,herbicida (pre-emergente),girasol;lino;maní;maíz;soja,True,13625
+948,0948_difenoconazole_pydiflumetofen.pdf,DIFENOCONAZOLE + PYDIFLUMETOFEN,FESTIO DUO CON TECNOLOGIA ADEPIDYN - MIRAVIS® DUO – MIRAVIS TOP.,fungicida,girasol;mani;maní;soja,True,19734
+949,0949_bixafen_prothioconazole_trifloxistrobin.pdf,BIXAFEN + PROTHIOCONAZOLE + TRIFLOXISTROBIN,CRIPTON XPRO.,fungicida,cebada;maíz;trigo,True,9623
+951,0951_cyflumetofen.pdf,CYFLUMETOFEN,NEALTA.,acaricida,,False,6915
+952,0952_piroxasulfone.pdf,PIROXASULFONE,ADAMA PARAMER – AKURIA – CHIKARA – CRISEB – MOBARA – PYROXASULFONE – YAMATO,herbicida,avena;cebada;maiz;maíz;soja;trigo,True,13485
+953,0953_metoxifenocide_spinetoram.pdf,METOXIFENOCIDE + SPINETORAM,ENGAGE - QUINTAL XTRA - UPHOLD FUSION.,insecticida,arveja;girasol;soja,True,9511
+954,0954_aminopyralid_clopyralid.pdf,AMINOPYRALID + CLOPYRALID,SENDERO,herbicida,girasol;soja,True,7345
+955,0955_benzovindiflupyr_propiconazole_pydiflumetofen.pdf,BENZOVINDIFLUPYR + PROPICONAZOLE + PYDIFLUMETOFEN,FESTIO TRIPLE PAC - MIRAVIS TRIPLE PACK.,fungicida,cebada;mani;trigo,True,11989
+956,0956_aceite_de_arbol_del_te_difenoconazole.pdf,ACEITE DE ÁRBOL DEL TÉ + DIFENOCONAZOLE,STK REGEV S,"fungicida (preventiva, curativa y supresiva)",mani;maní,True,8090
+957,0957_alfacipermetrina_acetamiprid.pdf,ALFACIPERMETRINA + ACETAMIPRID,FASTAC DUO.,insecticida,lino;soja,True,6068
+958,0958_aminopyralid_triclopyr_butoexil_ester.pdf,AMINOPYRALID + TRICLOPYR BUTOEXIL ÉSTER,TOCON XTRA,Cultivo                             Adveridad                       Dosis       ,girasol;soja,True,9283
+959,0959_aminopyralid_picloram_triclopyr_butoexil_ester.pdf,AMINOPYRALID +PICLORAM + TRICLOPYR BUTOEXIL ÉSTER,PASTAR GOLD,herbicida,girasol;soja,True,5751
+960,0960_amisulbrom.pdf,AMISULBROM,LEIMAY,fungicida (acción preventiva y antiesporulante),,False,6864
+961,0961_benzovindiflupyr_propiconazole.pdf,BENZOVINDIFLUPYR + PROPICONAZOLE,ELATUS ACE CON TECNOLOGÍA SOLATENOL - MAZEN ACE CON TECNOLOGÍA SOLATENOL -,fungicida,cebada;mani;trigo,True,11676
+962,0962_clopyralid_mcpa.pdf,CLOPYRALID + MCPA,CURTAIL M.,herbicida (post-emergente),cebada;girasol;soja;trigo,True,7550
+963,0963_difenoconazole_mandipropamid.pdf,DIFENOCONAZOLE + MANDIPROPAMID,REVUS TOP.,fungicida,mani;maní;soja,True,9465
+964,0964_1e7_e_z9_dodecadienil_acetato_n_dodecilacetato.pdf,"1E7,E/Z9 DODECADIENIL ACETATO + N-DODECILACETATO",RAK 2 DOBLE - RAK 2 ULTRA.,feromona,,False,9946
+965,0965_esfenvalerato_bifentrin_abamectina.pdf,ESFENVALERATO + BIFENTRIN + ABAMECTINA,MATSURI.,insecticida (preventivo y curativo),soja,True,8996
+966,0966_florpyrauxifen_benzyl.pdf,FLORPYRAUXIFEN BENZYL,LOYANT.,herbicida,girasol;lino;mani;maíz;soja;sorgo,True,7818
+967,0967_fludioxonil_metalaxil_m_sedaxane_bradyrizobium.pdf,FLUDIOXONIL + METALAXIL – M + SEDAXANE + BRADYRIZOBIUM,VIBRANCE PACK HC.,"curasemillas, fungicida y fertilizante biológico líquido de aplicación directa",mani;soja,True,11346
+968,0968_fludioxonil_metalaxil_m_sedaxane.pdf,FLUDIOXONIL + METALAXIL – M + SEDAXANE,ASTAMOS MAXX - MAXIM SX - VIBRANCE MAXX.,curasemillas y fungicida,mani;soja,True,11069
+969,0969_imazapic_imazapir_saflufenacil.pdf,IMAZAPIC + IMAZAPIR + SAFLUFENACIL,ONDUTY PLUS PACK.,herbicida,avena;cebada;girasol;lino;maiz;maní;maíz;soja;sorgo;trigo,True,17293
+970,0970_pydiflumetofen.pdf,PYDIFLUMETOFEN,CREAVIS CON TECNOLOGIA ADEPIDYN - FESTIO CON TECNOLOGIA ADEPIDYN - MIRAVIS CON,fungicida,cebada;mani;soja;trigo,True,11663
+971,0971_piroxasulfone_saflufenacil.pdf,PIROXASULFONE + SAFLUFENACIL,ZIDUA PACK.,herbicida,lino;maní;maíz;soja,True,13492
+972,0972_tolpiralate.pdf,TOLPIRALATE,BRUCIA - BRUCIA SC 40%.,herbicida,arveja;avena;cebada;colza;girasol;maní;maíz;soja;sorgo;trigo,True,11317
+973,0973_abamectina_cyantraniliprole.pdf,ABAMECTINA + CYANTRANILIPROLE,MINECTO PRO.,insecticida,mani,True,15779
+974,0974_flumioxazin_piroxasulfone.pdf,FLUMIOXAZIN + PIROXASULFONE,FIERCE RM – ISHAYI – MOYASU.,"herbicida (pre-siembra, pre-emergencia)",maní;maíz;soja,True,13577
+975,0975_acidos_humicos.pdf,ÁCIDOS HÚMICOS,HUMIPLEX 50 G® X / TERRAPLEX®,Enmienda,avena;cebada;maíz;trigo,True,3478
+976,0976_acidos_fulvicos.pdf,ACIDOS FÚLVICOS,K-TIONIC - BIO-TIONIC,Enmienda (orgánica),,False,3961
+977,0977_acidos_fulvicos_zn_extracto_vegetal.pdf,ÁCIDOS FÚLVICOS + ZN + EXTRACTO VEGETAL,PILATUS - PONTIUS.,Fertilizante líquido,,False,4666
+978,0978_compuesto_inorganico_npk.pdf,COMPUESTO INORGANICO - NPK,RAIZAL / SIMMETRY,fertilizante (foliar y suelo),,False,3804
+979,0979_algas_y_micronutrientes.pdf,Algas y Micronutrientes,GOEMAR BM,fertilizante (líquido),,False,3576
+980,0980_indaziflam_isoxaflutole.pdf,INDAZIFLAM + ISOXAFLUTOLE,MERLIN TOTAL.,herbicida,,False,7194
+981,0981_carpovirus.pdf,CARPOVIRUS,CARPOVIRUSINE.,Insecticida (biológico),,False,6018
+982,0982_flazasulfuron.pdf,FLAZASULFURON,GANKO WG 25%,herbicida,mani,True,10966
+983,0983_metamitron.pdf,METAMITRON,ADAMA BREVIS 15 SG.,Fitorregulador (raleo de frutos),,False,4086
+984,0984_metribuzin_metolacloro.pdf,METRIBUZIN + METOLACLORO,ADAMA TAILWIND,"herbicida (pre siembra, pre emergencia)",colza;girasol;maní;maíz;soja;sorgo,True,6312
+985,0985_bifentrin_lufenuron.pdf,BIFENTRIN + LUFENURON,,acaricida e insecticida,mani;soja,True,7031
+986,0986_alfametrina.pdf,ALFAMETRINA,,acaricida e insecticida,girasol;lino;maíz;soja;sorgo,True,8959
+987,0987_metribuzin_s_metolacloro.pdf,METRIBUZIN + S - METOLACLORO,BLONTER - ADAMA TAILWIND MAX - BOUNDARY.,herbicida (pre-emergente),mani;soja,True,11863
+988,0988_bradyrhizobium_tropici_y_rhizobium_etli.pdf,BRADYRHIZOBIUM TROPICI Y RHIZOBIUM ETLI,RIZOLIQ TOP POROTO – RIZOLIQ TOP POROTO MUNG - RIZOPACK POROTO 212.,inoculante,arveja,True,3691
+989,0989_espiromesifen.pdf,ESPIROMESIFEN,OBERON.,acaricida y insecticida,mani;soja,True,5046
+990,0990_compuesto_10_40_0.pdf,COMPUESTO 10 - 40 - 0,HARVEST MORE MICROGRANULADO STOLLER - INSU-STAR PZ - NUTRISTAR I - NUTRISTAR II -,fertilizante (de aplicación al suelo),girasol;maiz;soja;trigo,True,2523
+991,0991_imidacloprid_bifentrin_abamectina.pdf,IMIDACLOPRID + BIFENTRIN + ABAMECTINA,BOOMER.,"acaricida, insecticida",soja,True,7219
+992,0992_2_4_d_ester_etilexilico.pdf,"2,4 D ÉSTER ETILEXILICO",ASP ESTER LV - ESTER LV II - HERBIFEN ADVANCE - VOLERIS.,herbicida (post-emergente),alpiste;avena;cebada;girasol;lino;mani;maní;maíz;soja;sorgo;trigo,True,19895
+993,0993_sulfometuron_metil_metsulfuron_metil.pdf,SULFOMETURON METIL + METSULFURON METIL,ODISEI SM.,herbicida,avena;cebada;girasol;maíz;soja;sorgo;trigo,True,11751
+994,0994_flumioxazin_clorimuron_etil.pdf,FLUMIOXAZIN + CLORIMURÓN ETIL,INTRISIC.,herbicida,avena;cebada;girasol;maíz;soja;sorgo;trigo,True,11058
+995,0995_cymoxanil_famoxadone.pdf,CYMOXANIL + FAMOXADONE,EQUATION PRO.,fungicida,,False,7558
+996,0996_tembotrione_isoxadifen_ethyl.pdf,TEMBOTRIONE + ISOXADIFEN ETHYL,LAUDIS,herbicida,maíz,True,5943
+997,0997_oxathiapiprolin_famoxadone.pdf,OXATHIAPIPROLIN + FAMOXADONE,ZORVEC ENCANTIA,fungicida,,False,12049
+998,0998_clorimuron_etil_sulfometuron_metil_flumioxazin.pdf,CLORIMURÓN ETIL + SULFOMETURON METIL + FLUMIOXAZIN,REMIGATE,herbicida,avena;cebada;girasol;maíz;soja;sorgo;trigo,True,15058
+999,0999_pyroxsulam_metsulfuron_metil.pdf,PYROXSULAM + METSULFURON METIL,MERIT WG PACK.,herbicida,avena;girasol;lino;maíz;soja;trigo,True,8892
+1000,1000_halauxifen_metil_fluroxipir_meptil_cloquintocet.pdf,HALAUXIFEN METIL + FLUROXIPIR MEPTIL + CLOQUINTOCET,FIRM - PIXXARO.,herbicida,girasol;mani;soja,True,6680
+1001,1001_mesorhizobium_loti.pdf,MESORHIZOBIUM LOTI,RILOTUS LIQ,inoculante,,False,2543
+1003,1003_compuesto_de_microelementos_npszncacomob.pdf,COMPUESTO DE MICROELEMENTOS - NPSZnCaCoMoB,MICROSTAR CMB II – NUTRISTAR CMB – NUTRISTAR CMB II,fertilizante (fertilizante químico compuesto de aplicación al suelo),girasol;maiz;soja;trigo,True,3181
+1004,1004_almidon_de_maiz.pdf,ALMIDÓN DE MAÍZ,ZEBA.,acondicionador de suelos,maní;maíz,True,3367
+1005,1005_ipconazole_metalaxil_carboxin.pdf,IPCONAZOLE + METALAXIL + CARBOXIN,RANCONA TRIO.,fungicida (para tratamiento de semillas),cebada;maní;soja;trigo,True,6123
+1006,1006_mancozeb_azoxistrobina_protioconazole.pdf,MANCOZEB + AZOXISTROBINA + PROTIOCONAZOLE,GOLDLEAF.,fungicida,cebada;lino;mani;soja;trigo,True,6148
+1007,1007_pendimetalin_metribuzin.pdf,PENDIMETALIN + METRIBUZIN,TRIPZIN.,"herbicida (Amplio espectro de control de malezas, gramíneas y de hoja ancha)",mani;soja;sorgo,True,6355
+1008,1008_mancozeb_azoxistrobina_tebuconazole.pdf,MANCOZEB + AZOXISTROBINA + TEBUCONAZOLE,TRIDIUM.,fungicida,cebada;lino;mani;trigo,True,6409
+1009,1009_2_4_d_micro_emulsion.pdf,"2,4 D – MICRO EMULSIÓN",JASPEK ME - RAMEX ELITE,Herbicida (post-emergente),girasol;lino;mani;maní;soja,True,8466
+1010,1010_2_4_d_sales_dimetilamina_y_dietanolamina.pdf,"2,4 D - SALES DIMETILAMINA Y DIETANOLAMINA","2,4D 60 SIGMA - KRYNN DUO.",herbicida (post-emergente),alpiste;avena;cebada;girasol;lino;maiz;maní;maíz;soja;sorgo;trigo,True,16611
+1011,1011_compuesto_n_p_s_zn_bacillus_sp.pdf,"COMPUESTO N, P, S, Zn + BACILLUS SP.",MICROSTAR PZ BIO.,fertilizante (fertilizante químico - preinoculado - compuesto microgranulado - a,girasol;maiz;soja;trigo,True,2409
+1012,1012_tiametoxam_fipronil.pdf,TIAMETOXAM + FIPRONIL,KURANTO.,insecticida formulado para Tratamiento de semillas,soja,True,5999
+1013,1013_isocycloseram.pdf,ISOCYCLOSERAM,IMPLASH CON TECNOLOGÍA PLINAZOLIN – TEKARIUM CON TECNOLOGÍA PINAZOLIN –,"Acaricida, Insecticida",mani;maní;soja,True,18548
+1014,1014_materia_organica.pdf,MATERIA ORGÁNICA,OPTIMAT,fertilizante líquido,avena;cebada;colza;garbanzo;maíz;soja;sorgo;trigo,True,6500
+1015,1015_bradyrhizobium_japonicum_sacarosa.pdf,BRADYRHIZOBIUM JAPONICUM + SACAROSA,HISTICK PLUS + EXTENSION PACK.,Fertilizante biológico,soja,True,2533
+1016,1016_sacarosa.pdf,SACAROSA,EXTENSIÓN - HICOAT SUPER EXTENDER.,Protector de inoculante,soja,True,1513
+1017,1017_mefentrifluconazole_pyraclostrobin.pdf,MEFENTRIFLUCONAZOLE + PYRACLOSTROBIN,MELYRA.,Fungicida,soja,True,4196
+1018,1018_mefentrifluconazole_pyraclostrobin_fluxapyroxad.pdf,MEFENTRIFLUCONAZOLE + PYRACLOSTROBIN + FLUXAPYROXAD,BELYAN.,Fungicida,soja,True,4898
+1019,1019_fluxapyroxad_triticonazole.pdf,FLUXAPYROXAD + TRITICONAZOLE,SISTIVA PLUS PACK.,fungicida,avena;cebada;mani;trigo,True,8023
+1020,1020_extracto_de_quillay.pdf,EXTRACTO DE QUILLAY,,coadyuvante y nematicida,,False,4462
+1021,1021_trifludimoxazin_saflufenacil.pdf,TRIFLUDIMOXAZIN + SAFLUFENACIL,VORAXOR.,herbicida,cebada;maiz;mani;maní;maíz;soja;trigo,True,7517
+1022,1022_florpyrauxifen_benzyl_cyhalofop_butil.pdf,FLORPYRAUXIFEN BENZYL + CYHALOFOP BUTIL,XEVELO.,herbicida,girasol;lino;mani;maíz;soja;sorgo,True,7291
+1024,1024_halauxifen_metil_clopiralid.pdf,HALAUXIFEN METIL + CLOPIRALID,KORVETTO.,herbicida,girasol;mani;soja,True,4857
+1025,1025_halauxifen_metil.pdf,HALAUXIFEN METIL,ELEVORE - FLASH – TOPSTAR FUSION.,herbicida,cebada;girasol;maní;maíz;soja;sorgo;trigo,True,5333
+1027,1027_flumioxazin_terbutilazina.pdf,FLUMIOXAZIN + TERBUTILAZINA,SAKE - SUMYZIN T-MAX.,herbicida (Pre-emergente),maiz;maíz;trigo,True,5344
+1028,1028_acetamiprid_piriproxifen.pdf,ACETAMIPRID + PIRIPROXIFEN,ASSAIL XLT.,insecticida,mani,True,4754
+1029,1029_flufenacet_diflufenican_aclonifen.pdf,FLUFENACET + DIFLUFENICAN + ACLONIFEN,MATENO PLUS.,herbicida,trigo,True,3958
+1030,1030_azoxistrobina_difenoconazole_benzovindiflupir.pdf,AZOXISTROBINA + DIFENOCONAZOLE + BENZOVINDIFLUPIR,ELATUS TRIO CON TECNOLOGÍA SOLATENOL.,Fungicida,mani;soja,True,11309
+1031,1031_cyclobutrifluram.pdf,CYCLOBUTRIFLURAM,VANIVA 45 SC TECNOLOGÍA TYMIRIUM - VICTRATO 50 FS CON TECNOLOGÍA TYMIRIUM.,"fungicida, nematicida (Terápico para tratamiento de semillas)",mani;maní;soja,True,18089
+1032,1032_fludioxonil_pydiflumetofen.pdf,FLUDIOXONIL + PYDIFLUMETOFEN,MIRAVIS PRIME CON TECNOLOGÍA ADEPIDYN.,fungicida,mani,True,13421
+1033,1033_amicarbazone.pdf,AMICARBAZONE,DINAMIC 70 WDG.,herbicida,lino;maíz;soja,True,13618
+1034,1034_tiametoxam_bifentrin.pdf,TIAMETOXAM + BIFENTRIN,HACKER TOP.,Insecticida,lino;mani;soja,True,10326
+1036,1036_epyrifenacil.pdf,EPYRIFENACIL,EMPERA.,herbicida (barbecho y pre-siembra),maíz;soja,True,7033
+1037,1037_kinetina.pdf,KINETINA,X-CYTE,Fitorregulador,mani;maní;maíz;soja,True,3015
+1038,1038_methylobacterium_symbioticum.pdf,METHYLOBACTERIUM SYMBIOTICUM,BLUEN – UTRISHA N.,inoculante,arveja;cebada;colza;garbanzo;girasol;maní;maíz;soja;sorgo;trigo,True,4489
+1039,1039_picoxystrobin_prothioconazole.pdf,PICOXYSTROBIN + PROTHIOCONAZOLE,VIATUDE - VIOVAN,fungicida,cebada;mani;trigo,True,6310
+1040,1040_acido_indol_3_butirico_acido_giberelico_kinetina.pdf,ÁCIDO INDOL-3-BUTÍRICO + ÁCIDO GIBERÉLICO + KINETINA,STIMULATE.,Fitorregulador (Aplicación a semilla o surco de siembra),mani;maní;soja,True,4463
+1041,1041_inpyrfluxam_tebuconazole.pdf,INPYRFLUXAM + TEBUCONAZOLE,EXCALIA MAX,fungicida,soja;trigo,True,7439
+1042,1042_inpyrfluxam_difenoconazole_picoxistrobin.pdf,INPYRFLUXAM + DIFENOCONAZOLE + PICOXISTROBIN,PLADIUS XPERT,fungicida,soja,True,6247
+1043,1043_pyridalil.pdf,PYRIDALIL,PLEO TOP - SUMIPLEO.,insecticida,maíz;soja,True,11361
+1044,1044_clorotalonil_pydiflumetofen.pdf,CLOROTALONIL + PYDIFLUMETOFEN,MIRAVIS OPTI CON TECNOLOGÍA ADEPIDYN,Fungicida,cebada;mani;maní,True,11906
+1045,1045_isocycloseram_lambdacialotrina.pdf,ISOCYCLOSERAM + LAMBDACIALOTRINA,FENSORAX CON TECNOLOGÍA PLINAZOLIN – SEPONAM CON TECNOLOGÍA PLINAZOLIN –,"Acaricida, Insecticida",mani;maíz;soja,True,16243
+1046,1046_mefentrifluconazole.pdf,MEFENTRIFLUCONAZOLE,CEVYA.,Fungicida,,False,4580
+1047,1047_trifludimoxazin.pdf,TRIFLUDIMOXAZIN,VULCARUS.,herbicida,cebada;girasol;lino;maní;maíz;soja;trigo,True,5718
+1048,1048_prothioconazole_azoxistrobina.pdf,PROTHIOCONAZOLE + AZOXISTROBINA,"ADAMA MAXENTIS – ATANOR PROTIOCONAZOLE+AZOXISTROBINA 17,5 + 16 SC.",fungicida,cebada;maní;soja;trigo,True,12491
+1049,1049_acetamiprid_bifentrin.pdf,ACETAMIPRID + BIFENTRIN,TSUKI,insecticida,soja,True,6577
+1050,1050_dinotefuran_bifentrin.pdf,DINOTEFURAN + BIFENTRIN,BOKKEN,insecticida,soja,True,4914
+1051,1051_fluxametamide.pdf,FLUXAMETAMIDE,IDATEN,insecticida,maíz;soja,True,8680
+1052,1052_prothioconazole_penflufen_metalaxil.pdf,PROTHIOCONAZOLE + PENFLUFEN + METALAXIL,EVERGOL ENERGY – EVERGOL ENERGY SEMILLERO.,Tratamiento de semillas (,soja,True,5057
+1053,1053_penflufen.pdf,PENFLUFEN,EVERGOL PRIME,Fungicida,cebada;soja;trigo,True,4731
+1054,1054_flufenacet.pdf,FLUFENACET,MATENO PLUS,herbicida,cebada;trigo,True,6792
+1055,1055_foramsulfuron_thiencarbazone_methyl.pdf,FORAMSULFURON + THIENCARBAZONE-METHYL,CONVISO ONE,"herbicida (post emergente, con acción sistémica, para el control de malezas solo",lino;mani,True,7004
+1056,1056_oxicloruro_de_cobre_hidroxido_de_cobre.pdf,OXICLORURO DE COBRE + HIDROXIDO DE COBRE,GRIFFON,"fungicida, bactericida",arveja;maní,True,12570
+1057,1057_tetraconazole_azoxistrobina.pdf,TETRACONAZOLE + AZOXISTROBINA,CUSTODIA T – DOMARK EXCELL.,fungicida,maní;soja;trigo,True,8176
+1058,1058_azoxistrobina_clorotalonil_difenoconazole.pdf,AZOXISTROBINA + CLOROTALONIL + DIFENOCONAZOLE,ZARCO,Fungicida,cebada;maní;soja,True,7083
+1059,1059_fluazinam_dimetomorf.pdf,FLUAZINAM + DIMETOMORF,ADAMA BANJO FORTE,Fungicida,,False,5775
+1060,1060_novaluron_benzoato_de_emamectina.pdf,NOVALURON + BENZOATO DE EMAMECTINA,ADAMA EMINENT,Insecticida,maíz,True,4428
+1061,1061_bradyrhizobium_diazoefficiens_pseudomonas.pdf,BRADYRHIZOBIUM DIAZOEFFICIENS + PSEUDOMONAS,RIZOMIX.,estimulante biológico microbiano,soja,True,3017
+1062,1062_methylobacterium_brachiatum_methylobacterium.pdf,METHYLOBACTERIUM BRACHIATUM + METHYLOBACTERIUM,RIZOPOWER N-BIO.,estimulante biológico microbiano,soja,True,2883
+1063,1063_trichoderma_afroharzianum_bradyrhizobium.pdf,TRICHODERMA AFROHARZIANUM + BRADYRHIZOBIUM,SIGNUM PACK 306,Fertilizante biológico - Fungicida - Terápico para tratamiento de semillas,cebada;mani;maíz;soja;trigo,True,7161
+1064,1064_trichoderma_afroharzianum_sedaxane.pdf,TRICHODERMA AFROHARZIANUM + SEDAXANE,RIZODERMA SX PACK,Biofungicida - Fungicida - Terápico para tratamiento de semillas,cebada;mani;maíz;soja;trigo,True,8417
+1066,1066_prothioconazole_trifloxistrobin_isoflucypram.pdf,PROTHIOCONAZOLE + TRIFLOXISTROBIN + ISOFLUCYPRAM,IBLON PRO.,fungicida,cebada;mani;soja;trigo,True,9906

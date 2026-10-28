@@ -4,31 +4,33 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository purpose
 
-This repo is the working base for a team's submission to **Hackaton Agro 2026**. The team shortlisted **two** of the nine published challenges (see `documentation/Listado de desafíos Hackaton Agro.pdf` for the full list, in Spanish) and will commit to **just one** of them after a decision meeting — check for a note here or in git history indicating which one was picked before assuming both are still in play.
+This repo is the working base for a team's submission to **Hackaton Agro 2026** (28–29 de octubre, Biblioteca Central UNICEN). The team shortlisted two of the nine published challenges and has **decided: Desafío 4**. Desafío 8 is kept below only as rejected context — do not build for it unless the user explicitly reopens that decision.
 
-### Desafío 4 — Asistente confiable de información técnica para ingenieros agrónomos
-Software puro, centrado en IA generativa. Agrónomos de agricultura extensiva toman decisiones diarias (fecha de siembra, cultivar, malezas, fertilización, fitosanitarios, normativa) con información dispersa y de calidad variable. Las IAs generalistas pueden alucinar o dar cálculos mal hechos. El objetivo es un asistente que:
-- Consulte **fuentes confiables y curadas** (SENASA, INTA, marbetes de productos, normativa vigente).
-- **Verifique datos críticos** en lugar de confiar ciegamente en la generación del modelo.
-- **Muestre la trazabilidad**: de dónde sale cada afirmación/respuesta (citas a la fuente).
-- Alcance inicial: agrónomos de Tandil y alrededores.
+### Desafío 4 (CHOSEN) — Asistente confiable de información técnica para ingenieros agrónomos
+Full official guide: `documentation/04 - Asistente agronómico.pdf`. Curated source list (to grow): `raw_data/fuentes.txt`.
 
-Implica: pipeline de ingestión/curación de fuentes, RAG o similar, mecanismos de verificación de cálculos (p.ej. dosis, fechas), y UI que exponga las fuentes citadas junto a cada respuesta.
+Software puro, centrado en IA generativa. Desarrollar un asistente de consulta para ingenieros agrónomos que acompañe las decisiones a lo largo del ciclo productivo: encontrar información técnica confiable, interpretar su pertinencia para cada situación, comparar alternativas y realizar cálculos verificables. Alcance inicial: agricultura extensiva de Tandil y partidos vecinos.
 
-### Desafío 8 — Cotizador ganadero con precios actualizados y control de ventas
-Software puro. Un productor sabe cuántos animales tiene y cuánto pesan, pero no necesariamente qué precio pedir ni si una oferta es razonable. Los precios están dispersos por fuente y categoría, con condiciones que cambian el resultado (flete, desbaste, comisiones, plazos). El objetivo es un cotizador que:
-- Reúna **referencias de precio actualizadas** de distintas fuentes (ver Mercado Agroganadero de Cañuelas como fuente de referencia).
-- Muestre **evolución y estacionalidad** de precios.
-- **Avise de oportunidades de venta** según esos datos.
-- Permita **comprobar después** que lo liquidado coincide con lo pactado (control de ventas).
+Debe trabajar con criterio agronómico: comprender el contexto, pedir los datos necesarios, contrastar fuentes y mostrar de dónde sale cada respuesta. Cada respuesta técnica debe incluir referencias consultables (documento, pasaje/tabla/dato concreto) que respalden sus afirmaciones; al proponer una estrategia o método, debe distinguir respaldo documental de interpretación propia, explicar la pertinencia para el caso, y señalar explícitamente cuándo la evidencia es insuficiente en vez de inventar una respuesta.
 
-Implica: recolección/actualización periódica de datos de precios, modelado de series temporales/estacionalidad, lógica de ajuste por condiciones (flete, desbaste, comisión, plazo), y una app simple para el productor final.
+**Alcance del prototipo:** el equipo elige una parte del problema para trabajar durante el evento (no hay que cubrir todo). Enfoques posibles sugeridos por la guía: una biblioteca consultable por cultivo/zona/campaña/tema, o un mecanismo para contrastar fuentes, guiar consultas o verificar cálculos.
+
+**Tipos de consulta de ejemplo (C01–C18 en la guía):** rotación tras aplicar un herbicida, productos/familias químicas para un cultivo, manejo de malezas, plagas/enfermedades, comparación de híbridos/cultivares, pérdidas de cosecha, muestreo de suelo, estrategias y dosis de fertilización, balance de nutrientes, normativa aplicable (nacional/provincial/municipal), novedades de insumos, precios de cereales, alquileres rurales, costos de labores y flete, riesgo de heladas, condiciones para una aplicación, consulta de una biblioteca propia del profesional.
+
+**Fuentes clave por tema** (ver `raw_data/fuentes.txt` para los links): SENASA (Registro Nacional de Terapéutica Vegetal, vademécum) para productos/marbetes; INTA (muestreo de suelo, laboratorios, agromet, heladas, pulverizaciones, pérdidas de cosecha) para fundamentos técnicos; normativa nacional (InfoLeg), provincial (Ley 10.699, Decreto 499/1991) y de Tandil (Ordenanza 17.404/2021 y sus decretos reglamentarios/modificatorios en SIBOM) para regulación; SMN para meteorología; Bolsa de Comercio de Rosario, Bolsa de Cereales de Bahía Blanca, FACMA y FATRAC para precios/costos/flete; Aapresid (REM), CASAFE y CREA como referencias complementarias.
+
+**Referente del desafío:** Ignacio Iglesias (Ing. Agrónomo) — WhatsApp 2494 49-6593, iglesiasg.ignacio@gmail.com.
+
+**Entrega:** carpeta compartida (lectura para cualquiera con el enlace) con presentación, documentación, fuentes consultadas y enlace al repo, enviada vía el formulario del Linktree del evento. Verificar que todo abra sin pedir acceso antes de enviar.
+
+### Desafío 8 (REJECTED) — Cotizador ganadero con precios actualizados y control de ventas
+Software puro. Un productor sabe cuántos animales tiene y cuánto pesan, pero no necesariamente qué precio pedir ni si una oferta es razonable. Los precios están dispersos por fuente y categoría, con condiciones que cambian el resultado (flete, desbaste, comisiones, plazos). El objetivo habría sido un cotizador que reúna referencias de precio actualizadas (p.ej. Mercado Agroganadero de Cañuelas), muestre evolución/estacionalidad, avise oportunidades de venta y permita controlar después lo liquidado contra lo pactado. Not being built — kept here only for historical context.
 
 ## Current state
 
-No application code exists yet — the challenge hasn't been picked. What exists is a generic dev harness (scripts + a skill, see below) meant to work for either candidate challenge so the team can start coding within minutes of deciding.
+The challenge is decided (Desafío 4) but no application code exists yet beyond the generic dev harness (scripts + a skill, see below). `raw_data/fuentes.txt` holds the initial curated source list from the referente; `documentation/04 - Asistente agronómico.pdf` is the full official guide — read it for the C01–C18 example queries and per-topic source pointers (R01–R27) before scoping the prototype's slice.
 
-As code is added for the chosen challenge, this file should be updated with the actual run/build/test commands and real architecture notes once the project exists — don't guess at them in the meantime.
+As code is added, this file should be updated with the actual run/build/test commands and real architecture notes once the project exists — don't guess at them in the meantime.
 
 ## Development workflow
 
@@ -39,15 +41,13 @@ Three generic, stack-detecting scripts back that skill:
 - `scripts/test.sh [dir]` — detects the stack in `dir` (default `.`) and runs its test suite (pytest/npm test/go test/javac+java/g++).
 - `scripts/check.sh [dir]` — detects the stack and runs lint/format checks, skipping gracefully if the tool isn't installed.
 
-Both the skill and the scripts are intentionally stack-agnostic since the final language/framework choice happens only after tomorrow's decision between the two challenges.
+The scripts stayed stack-agnostic while the challenge was undecided; now that Desafío 4 is chosen, feel free to pick a concrete stack for it (via `scripts/new-service.sh`) rather than keeping things generic for a second challenge that won't be built.
 
 ## Working focus for this hackathon
 
-The team explicitly wants this repo to accelerate five things, so weigh work accordingly rather than defaulting to a single polished app:
-1. **Desarrollo** — the two prototypes themselves (Desafío 4 and Desafío 8).
-2. **Diseño del prototipo** — UX/product design for each tool (who uses it, what the core flow is).
+The team explicitly wants this repo to accelerate five things for Desafío 4, so weigh work accordingly rather than defaulting to a single polished app:
+1. **Desarrollo** — the agronomic assistant prototype (a chosen slice of Desafío 4: see "Alcance del prototipo" above — e.g. a curated source library, a fact/calculation-verification layer, or query guidance with cited sources).
+2. **Diseño del prototipo** — UX/product design for the tool (who uses it — ingenieros agrónomos de Tandil — and what the core flow is).
 3. **Diseño a mostrar** — demo-facing visual material (slides, mockups, dashboards) for presenting the work.
-4. **Exposiciones** — the pitch/talk content for presenting each challenge's solution to judges.
-5. **Búsqueda de información e investigación** — sourcing and vetting the domain material each challenge depends on: for Desafío 4, finding and curating reliable agronomic sources (SENASA, INTA, marbetes, normativa) to ground the assistant and avoid hallucinated answers; for Desafío 8, finding livestock price data sources (e.g. Mercado Agroganadero de Cañuelas) and understanding real-world pricing conditions (flete, desbaste, comisiones, plazos) well enough to model them correctly.
-
-Given the two challenges are unrelated in domain (agronomic Q&A assistant vs. livestock price quoting), prefer keeping them as separate, independently runnable projects/subfolders rather than merging them into one app, unless the user says otherwise.
+4. **Exposiciones** — the pitch/talk content for presenting the solution to judges.
+5. **Búsqueda de información e investigación** — finding and curating reliable agronomic sources (SENASA, INTA, marbetes, normativa) to ground the assistant and avoid hallucinated answers; keep growing `raw_data/fuentes.txt` as new sources are vetted.

@@ -1,0 +1,1630 @@
+=== 01_senasa_rntv/lmr_julio_2026.ods
+HTTP:200 SIZE:25573 TYPE:text/html; charset=utf-8
+=== 01_senasa_rntv/listado_productos_vant_202609.pdf
+HTTP:200 SIZE:391007 TYPE:application/pdf
+=== 01_senasa_rntv/listado_autorizaciones_cultivos_menores.pdf
+HTTP:200 SIZE:569235 TYPE:application/pdf
+=== 01_senasa_rntv/productos_autorizados_langostas_tucuras.pdf
+HTTP:200 SIZE:198197 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_425_2021_fipronil.pdf
+HTTP:200 SIZE:107568 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_414_2021_clorpirifos.pdf
+HTTP:200 SIZE:70061 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_149_2018.docx
+HTTP:200 SIZE:20753 TYPE:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+=== 01_senasa_rntv/res_senasa_263_2018.pdf
+HTTP:200 SIZE:244956 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_670_2018.pdf
+HTTP:200 SIZE:239209 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_32_2019.pdf
+HTTP:200 SIZE:216222 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_32_2019_anexo1.pdf
+HTTP:200 SIZE:249532 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_32_2019_anexo2.pdf
+HTTP:200 SIZE:173098 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_32_2019_anexo3.pdf
+HTTP:200 SIZE:171280 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_466_2019.pdf
+HTTP:200 SIZE:430374 TYPE:application/pdf
+=== 01_senasa_rntv/res_senasa_875_2019.pdf
+HTTP:200 SIZE:421199 TYPE:application/pdf
+=== 01_senasa_rntv/zonas_agroecologicas.pdf
+HTTP:200 SIZE:120870 TYPE:application/pdf
+=== 01_senasa_rntv/procedimiento_ampliacion_uso_cultivos_menores.pdf
+HTTP:200 SIZE:43987 TYPE:application/pdf
+=== 01_senasa_rntv/resumen_envases_grandes.doc
+HTTP:200 SIZE:52224 TYPE:application/msword
+=== 01_senasa_rntv/plantas_elaboradoras_fitosanitarios.xlsx
+HTTP:200 SIZE:18846 TYPE:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+=== 01_senasa_rntv/formulario_inscripcion_principio_activo.xls
+HTTP:200 SIZE:87040 TYPE:application/vnd.ms-excel
+=== 01_senasa_rntv/formulario_inscripcion_producto_formulado.xls
+HTTP:200 SIZE:87040 TYPE:application/vnd.ms-excel
+=== 01_senasa_rntv/formulario_inscripcion_linea_jardin.xls
+HTTP:200 SIZE:86528 TYPE:application/vnd.ms-excel
+=== 02_inta_pulverizaciones/monitoreo_remoto_pulverizaciones_en.pdf
+HTTP:200 SIZE:262034 TYPE:application/pdf
+=== 03_normativa_provincial/ley_10699_1988_original.pdf
+HTTP:200 SIZE:149930 TYPE:application/pdf
+=== 03_normativa_provincial/decreto_499_1991_original.pdf
+HTTP:200 SIZE:0 TYPE:application/pdf
+=== 04_maiz_ensayos/rendimiento_relativo_24-25.xlsx
+HTTP:200 SIZE:40744 TYPE:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+=== 04_maiz_ensayos/analisis_multiambiental_red_maiz_2024-25.pdf
+HTTP:200 SIZE:237183 TYPE:application/pdf
+=== 04_maiz_ensayos/redmaiz_2024-25_completo.zip
+HTTP:200 SIZE:815058 TYPE:application/zip
+=== 05_recso_soja/informe_recso_2025_26.pdf
+HTTP:200 SIZE:89048154 TYPE:application/pdf
+=== 06_girasol_inta/red_girasol_2024_25_buenos_aires_norte.xlsx
+HTTP:200 SIZE:59557 TYPE:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+=== 06_girasol_inta/red_girasol_2024_25_buenos_aires_sur_la_pampa.xlsx
+HTTP:200 SIZE:83013 TYPE:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+=== 07_bcp_bahia_blanca/movimiento_portuario_septiembre_2026.pdf
+HTTP:200 SIZE:12009564 TYPE:application/pdf
+=== 07_bcp_bahia_blanca/informe_usda_octubre_2026.pdf
+HTTP:200 SIZE:7370898 TYPE:application/pdf
+=== 08_facma_precios_labores/labores_y_siembra_202610.pdf
+HTTP:200 SIZE:175415 TYPE:application/pdf
+=== 08_facma_precios_labores/aplicaciones_liquidos_202610.pdf
+HTTP:200 SIZE:96058 TYPE:application/pdf
+=== 08_facma_precios_labores/aplicaciones_solidos_202610.pdf
+HTTP:200 SIZE:66729 TYPE:application/pdf
+=== 08_facma_precios_labores/henificacion_202601.pdf
+HTTP:200 SIZE:93223 TYPE:application/pdf
+=== 08_facma_precios_labores/embolsado_extraccion_202608.pdf
+HTTP:200 SIZE:135156 TYPE:application/pdf
+=== 08_facma_precios_labores/cosecha_soja_202607.pdf
+HTTP:200 SIZE:84283 TYPE:application/pdf
+=== 08_facma_precios_labores/cosecha_sorgo_202604.pdf
+HTTP:200 SIZE:84577 TYPE:application/pdf
+=== 08_facma_precios_labores/cosecha_girasol_202604.pdf
+HTTP:200 SIZE:84741 TYPE:application/pdf
+=== 08_facma_precios_labores/cosecha_maiz_202610.pdf
+HTTP:200 SIZE:158518 TYPE:application/pdf
+=== 08_facma_precios_labores/cosecha_trigo_avena_cebada_202510.pdf
+HTTP:200 SIZE:81303 TYPE:application/pdf
+=== 08_facma_precios_labores/cosecha_lino_colza_alpiste_202510.pdf
+HTTP:200 SIZE:61023 TYPE:application/pdf
+=== 09_fatrac_tarifas/cereales_pba_abril_2026.pdf
+HTTP:200 SIZE:314499 TYPE:application/pdf
+=== 09_fatrac_tarifas/espigas_pba_abril_2026.pdf
+HTTP:200 SIZE:275509 TYPE:application/pdf
+=== 09_fatrac_tarifas/cereales_pba_enero_2026.pdf
+HTTP:200 SIZE:322825 TYPE:application/pdf
+=== 09_fatrac_tarifas/espigas_pba_enero_2026.pdf
+HTTP:200 SIZE:264873 TYPE:application/pdf
+=== 09_fatrac_tarifas/tarifa_nacional_septiembre_2024.pdf
+HTTP:200 SIZE:225450 TYPE:application/pdf
+=== 09_fatrac_tarifas/tarifa_nac_cereales_marzo_2024.pdf
+HTTP:200 SIZE:122759 TYPE:application/pdf
+=== 10_casafe_publicaciones/proteccion_cultivos_drones_bpa.pdf
+HTTP:200 SIZE:26697359 TYPE:application/pdf
+=== 10_casafe_publicaciones/manual_agricultura_regenerativa.pdf
+HTTP:200 SIZE:1290843 TYPE:application/pdf
+=== 10_casafe_publicaciones/informe_areas_circundantes_sitios_poblados_2021.pdf
+HTTP:200 SIZE:1158099 TYPE:application/pdf
+=== 10_casafe_publicaciones/publicacion_bpaf_ilsi_2020.pdf
+HTTP:200 SIZE:2569956 TYPE:application/pdf
+=== 10_casafe_publicaciones/manual_uso_responsable_fitosanitarios_2020.pdf
+HTTP:200 SIZE:14758101 TYPE:application/pdf
+=== 10_casafe_publicaciones/seguridad_alimentaria.pdf
+HTTP:200 SIZE:566470 TYPE:application/pdf
+=== 10_casafe_publicaciones/manual_periodistas_biotecnologia.pdf
+HTTP:200 SIZE:21250575 TYPE:application/pdf
+=== 10_casafe_publicaciones/manual_operador_depositos_fitosanitarios_2008.pdf
+HTTP:200 SIZE:7987763 TYPE:application/pdf
+=== 10_casafe_publicaciones/manual_emergencias_medicas.pdf
+HTTP:200 SIZE:999451 TYPE:application/pdf
+=== 10_casafe_publicaciones/manual_transporte_seguro_fitosanitarios_2010.pdf
+HTTP:200 SIZE:298159 TYPE:application/pdf
+=== 10_casafe_publicaciones/argentina_2050_revolucion_tecnologica.zip
+HTTP:200 SIZE:11296122 TYPE:application/zip
+=== 10_casafe_publicaciones/clasificacion_toxicologica_etiquetado_fitosanitarios.pdf
+HTTP:200 SIZE:3467314 TYPE:application/pdf
+=== 10_casafe_publicaciones/salvando_planeta_plaguicidas_plasticos.pdf
+HTTP:200 SIZE:3695171 TYPE:application/pdf
+=== 10_casafe_publicaciones/codigo_conducta_fao.pdf
+HTTP:200 SIZE:279416 TYPE:application/pdf
+=== 10_casafe_publicaciones/veja_magazine_spanish.pdf
+HTTP:200 SIZE:641459 TYPE:application/pdf
+=== 10_casafe_publicaciones/recomendaciones_uso_responsable_fitosanitarios.pdf
+HTTP:200 SIZE:277863 TYPE:application/pdf
+=== 10_casafe_publicaciones/buenas_practicas_agricolas.pdf
+HTTP:200 SIZE:411276 TYPE:application/pdf
+=== 10_casafe_publicaciones/glifosato_categorizacion_iarc.pdf
+HTTP:200 SIZE:149434 TYPE:application/pdf
+=== 10_casafe_publicaciones/glifosato_no_cancerigeno_efsa.pdf
+HTTP:200 SIZE:104116 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0002_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:80102 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0003_2_4_d_picloram.pdf
+HTTP:200 SIZE:202822 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0004_2_4_db.pdf
+HTTP:200 SIZE:46523 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0006_abamectina.pdf
+HTTP:200 SIZE:113140 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0007_acefato.pdf
+HTTP:200 SIZE:76605 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0008_aceite_de_creosota.pdf
+HTTP:200 SIZE:159733 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0009_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:34893 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0010_aceite_mineral.pdf
+HTTP:200 SIZE:136042 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0012_aceite_mineral_coadyuvante.pdf
+HTTP:200 SIZE:18695 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0013_acetamiprid.pdf
+HTTP:200 SIZE:204781 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0014_acetoclor.pdf
+HTTP:200 SIZE:50327 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0016_acetoclor_protector.pdf
+HTTP:200 SIZE:172327 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0020_acido_fosforico.pdf
+HTTP:200 SIZE:129986 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0021_acifluorfen.pdf
+HTTP:200 SIZE:165396 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0023_aclonifen.pdf
+HTTP:200 SIZE:167352 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0025_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:24265 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0027_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:30135 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0028_alcoholes_grasos.pdf
+HTTP:200 SIZE:34390 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0030_alfacipermetrina.pdf
+HTTP:200 SIZE:66041 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0031_ametrina.pdf
+HTTP:200 SIZE:180199 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0033_aminoacidos.pdf
+HTTP:200 SIZE:28856 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0034_amitraz.pdf
+HTTP:200 SIZE:161619 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0035_asulam.pdf
+HTTP:200 SIZE:158108 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0036_atrazina.pdf
+HTTP:200 SIZE:119522 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0037_atrazina_s_metolacloro.pdf
+HTTP:200 SIZE:197503 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0040_azoxistrobina.pdf
+HTTP:200 SIZE:266882 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0041_azoxistrobina_cyproconazole.pdf
+HTTP:200 SIZE:77411 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0042_azufre.pdf
+HTTP:200 SIZE:173085 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0043_bacillus_thuringiensis.pdf
+HTTP:200 SIZE:190886 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0044_benalaxil_mancozeb.pdf
+HTTP:200 SIZE:171841 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0045_benalaxil_oxicloruro_de_cobre.pdf
+HTTP:200 SIZE:174200 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0048_benciladenina_giberelinas_a4_y_a7.pdf
+HTTP:200 SIZE:146647 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0049_benfuracarb.pdf
+HTTP:200 SIZE:39659 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0050_benomil.pdf
+HTTP:200 SIZE:184866 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0051_bentazon.pdf
+HTTP:200 SIZE:196145 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0055_beta_cipermetrina.pdf
+HTTP:200 SIZE:172315 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0056_beta_ciflutrina.pdf
+HTTP:200 SIZE:172578 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0057_bifenazate.pdf
+HTTP:200 SIZE:167578 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0058_bifentrin.pdf
+HTTP:200 SIZE:139321 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0059_bispiribac_sodio.pdf
+HTTP:200 SIZE:177557 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0060_bradyrhizobium_japonicum_carboxin_tiram.pdf
+HTTP:200 SIZE:18400 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0061_bradyrhizobium_spp.pdf
+HTTP:200 SIZE:121694 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0062_bradyrhizobium_spp_carbendazim_tiram.pdf
+HTTP:200 SIZE:172532 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0063_brodifacoum.pdf
+HTTP:200 SIZE:163302 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0064_bromacil.pdf
+HTTP:200 SIZE:33961 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0065_bromadiolone.pdf
+HTTP:200 SIZE:154064 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0067_bromoxinil.pdf
+HTTP:200 SIZE:189809 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0068_bromuro_de_metilo.pdf
+HTTP:200 SIZE:166400 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0071_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:53086 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0072_butafenacil.pdf
+HTTP:200 SIZE:147829 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0075_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:14909 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0076_captan.pdf
+HTTP:200 SIZE:210128 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0077_carbaryl.pdf
+HTTP:200 SIZE:196882 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0078_carbendazim.pdf
+HTTP:200 SIZE:107715 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0079_carbendazim_epoxiconazole.pdf
+HTTP:200 SIZE:172321 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0080_carbendazim_tiram.pdf
+HTTP:200 SIZE:47483 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0081_carbofuran.pdf
+HTTP:200 SIZE:166278 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0082_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:44135 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0083_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27762 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0085_carboxin.pdf
+HTTP:200 SIZE:32072 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0086_carboxin_tiram.pdf
+HTTP:200 SIZE:183492 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0087_carfentrazone_etil.pdf
+HTTP:200 SIZE:188266 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0088_cartap.pdf
+HTTP:200 SIZE:165081 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0090_cianamida_hidrogenada.pdf
+HTTP:200 SIZE:25777 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0091_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:12359 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0095_cipermetrina.pdf
+HTTP:200 SIZE:206040 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0096_cipermetrina_clorpirifos.pdf
+HTTP:200 SIZE:58690 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0099_cyproconazole.pdf
+HTTP:200 SIZE:173128 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0100_cletodim.pdf
+HTTP:200 SIZE:179645 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0101_clodinafop_propargyl_cloquintocet_mexyl.pdf
+HTTP:200 SIZE:177615 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0102_clofentezine.pdf
+HTTP:200 SIZE:158614 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0103_clomazone.pdf
+HTTP:200 SIZE:197362 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0104_clopiralid.pdf
+HTTP:200 SIZE:179511 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0105_cloransulam_metil.pdf
+HTTP:200 SIZE:176676 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0107_clorfenapir.pdf
+HTTP:200 SIZE:184680 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0108_clorfluazuron.pdf
+HTTP:200 SIZE:169221 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0109_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:53049 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0110_clorimuron_etil.pdf
+HTTP:200 SIZE:185422 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0112_cloromecuato.pdf
+HTTP:200 SIZE:140232 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0113_clorotalonil.pdf
+HTTP:200 SIZE:130393 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0114_clorpirifos.pdf
+HTTP:200 SIZE:131480 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0116_clorpirifos_metil.pdf
+HTTP:200 SIZE:36211 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0117_clorpirifos_metil_deltametrina.pdf
+HTTP:200 SIZE:36279 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0118_clorpropham.pdf
+HTTP:200 SIZE:141807 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0119_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:38770 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0120_cloruro_de_potasio.pdf
+HTTP:200 SIZE:29466 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0121_coadyuvantes.pdf
+HTTP:200 SIZE:101882 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0122_coadyuvante_siliconado.pdf
+HTTP:200 SIZE:38210 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0124_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:31516 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0129_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27821 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0131_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:49929 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0132_compuesto_de_molibdeno_y_cobalto.pdf
+HTTP:200 SIZE:33594 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0133_cyhalofop_butil.pdf
+HTTP:200 SIZE:157205 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0135_dazomet.pdf
+HTTP:200 SIZE:172054 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0136_ddvp_o_diclorvos.pdf
+HTTP:200 SIZE:30428 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0139_ddvp_permetrina.pdf
+HTTP:200 SIZE:29290 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0140_deltametrina.pdf
+HTTP:200 SIZE:279365 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0141_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:35862 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0144_dicamba.pdf
+HTTP:200 SIZE:157066 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0145_metsulfuron_metil_dicamba.pdf
+HTTP:200 SIZE:186441 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0147_dicamba_prosulfuron_triasulfuron.pdf
+HTTP:200 SIZE:190352 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0151_diclosulam.pdf
+HTTP:200 SIZE:107430 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0154_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:34927 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0155_difenilamina.pdf
+HTTP:200 SIZE:127740 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0156_difenoconazole.pdf
+HTTP:200 SIZE:207653 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0157_difenoconazole_cyproconazole.pdf
+HTTP:200 SIZE:192918 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0158_difenoconazole_propiconazole.pdf
+HTTP:200 SIZE:178892 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0159_diflubenzuron.pdf
+HTTP:200 SIZE:166656 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0160_diflufenican.pdf
+HTTP:200 SIZE:224062 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0161_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:28596 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0163_dimetoato.pdf
+HTTP:200 SIZE:212776 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0166_dimetomorf_mancozeb.pdf
+HTTP:200 SIZE:170430 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0168_diniconazole_m_tiram.pdf
+HTTP:200 SIZE:164503 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0170_dibromuro_de_diquat.pdf
+HTTP:200 SIZE:176451 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0171_ditianon.pdf
+HTTP:200 SIZE:30654 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0172_diuron.pdf
+HTTP:200 SIZE:178425 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0173_diuron_tidiazuron.pdf
+HTTP:200 SIZE:134742 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0176_dodecadienol_e8_e10.pdf
+HTTP:200 SIZE:172398 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0177_dodecenilacetato.pdf
+HTTP:200 SIZE:161286 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0180_epoxiconazole_kresoxim_metil.pdf
+HTTP:200 SIZE:170858 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0182_esfenvalerato_fenitrotion.pdf
+HTTP:200 SIZE:171655 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0185_etefon.pdf
+HTTP:200 SIZE:134686 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0188_fenamifos.pdf
+HTTP:200 SIZE:171954 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0189_fenarimol.pdf
+HTTP:200 SIZE:28757 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0190_fenazaquin.pdf
+HTTP:200 SIZE:159092 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0191_fenbuconazole.pdf
+HTTP:200 SIZE:38280 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0192_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:46997 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0193_fenhexamid.pdf
+HTTP:200 SIZE:154643 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0194_fenitrotion.pdf
+HTTP:200 SIZE:182174 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0196_fenitrotion_permetrina.pdf
+HTTP:200 SIZE:28955 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0198_fenoxaprop_p_etil.pdf
+HTTP:200 SIZE:171327 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0199_fenpiroximato.pdf
+HTTP:200 SIZE:171333 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0200_fenpropatrina.pdf
+HTTP:200 SIZE:32172 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0202_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:22618 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0203_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:56848 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0206_fipronil.pdf
+HTTP:200 SIZE:166086 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0207_fluazifop_p_butil.pdf
+HTTP:200 SIZE:183410 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0208_fluazinam.pdf
+HTTP:200 SIZE:46286 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0209_fludioxonil_metalaxil_m.pdf
+HTTP:200 SIZE:203446 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0211_flufenoxuron.pdf
+HTTP:200 SIZE:28868 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0212_flumetralin.pdf
+HTTP:200 SIZE:147475 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0213_flumetsulam.pdf
+HTTP:200 SIZE:216510 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0216_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:19084 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0217_flumioxazin.pdf
+HTTP:200 SIZE:105392 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0221_flurocloridona.pdf
+HTTP:200 SIZE:232371 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0222_fluroxipir.pdf
+HTTP:200 SIZE:56512 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0224_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:17540 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0225_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:24566 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0226_flutriafol.pdf
+HTTP:200 SIZE:185344 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0227_fluxofenim.pdf
+HTTP:200 SIZE:142883 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0228_folcisteina.pdf
+HTTP:200 SIZE:147519 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0231_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:33008 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0235_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27957 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0237_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27487 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0240_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27705 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0241_folpet.pdf
+HTTP:200 SIZE:186852 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0243_fomesafen.pdf
+HTTP:200 SIZE:98502 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0244_foramsulfuron_iodosulfuron_metil_sodio.pdf
+HTTP:200 SIZE:176856 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0245_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:18003 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0246_fosetil_aluminio.pdf
+HTTP:200 SIZE:171387 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0249_fosfuro_de_aluminio.pdf
+HTTP:200 SIZE:203655 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0250_fosmet.pdf
+HTTP:200 SIZE:174395 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0251_fosthiazate.pdf
+HTTP:200 SIZE:168938 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0252_gammacialotrina.pdf
+HTTP:200 SIZE:202479 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0253_acido_giberelico_giberelina_a3.pdf
+HTTP:200 SIZE:161440 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0254_glifosato.pdf
+HTTP:200 SIZE:362246 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0255_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:44184 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0256_imazetapir_glifosato.pdf
+HTTP:200 SIZE:195631 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0257_glufosinato_de_amonio.pdf
+HTTP:200 SIZE:127543 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0259_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:13153 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0260_halosulfuron_metil.pdf
+HTTP:200 SIZE:178498 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0261_haloxifop_r_metil.pdf
+HTTP:200 SIZE:126099 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0262_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:14390 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0263_hexitiazox.pdf
+HTTP:200 SIZE:164213 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0264_hidrazida_maleica.pdf
+HTTP:200 SIZE:146202 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0265_hidroxido_de_cobre.pdf
+HTTP:200 SIZE:179848 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0266_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27061 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0267_imazalil.pdf
+HTTP:200 SIZE:165732 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0268_imazamox.pdf
+HTTP:200 SIZE:189186 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0269_imazapic.pdf
+HTTP:200 SIZE:59790 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0270_imazapic_imazapir.pdf
+HTTP:200 SIZE:221538 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0271_imazapir.pdf
+HTTP:200 SIZE:73881 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0272_imazapir_imazetapir.pdf
+HTTP:200 SIZE:188290 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0273_imazaquin.pdf
+HTTP:200 SIZE:191773 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0275_imazetapir.pdf
+HTTP:200 SIZE:101357 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0276_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:59047 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0277_imidacloprid.pdf
+HTTP:200 SIZE:172598 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0278_imidacloprid_tebuconazole.pdf
+HTTP:200 SIZE:170231 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0279_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:34885 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0280_ipconazole.pdf
+HTTP:200 SIZE:170841 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0281_iprodione.pdf
+HTTP:200 SIZE:181496 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0282_iprovalicarb_propineb.pdf
+HTTP:200 SIZE:161719 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0283_isoxaflutole.pdf
+HTTP:200 SIZE:184007 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0284_kasugamicina.pdf
+HTTP:200 SIZE:176488 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0285_kresoxim_metil.pdf
+HTTP:200 SIZE:152844 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0286_lactofen.pdf
+HTTP:200 SIZE:201576 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0287_lambdacialotrina.pdf
+HTTP:200 SIZE:162086 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0289_linuron.pdf
+HTTP:200 SIZE:194228 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0290_lufenuron.pdf
+HTTP:200 SIZE:52368 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0291_lufenuron_profenofos.pdf
+HTTP:200 SIZE:185807 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0292_mancozeb.pdf
+HTTP:200 SIZE:135107 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0293_mancozeb_metalaxil_m.pdf
+HTTP:200 SIZE:188266 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0296_mcpa.pdf
+HTTP:200 SIZE:68335 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0297_mepiquat_cloruro.pdf
+HTTP:200 SIZE:36795 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0298_mercaptotion.pdf
+HTTP:200 SIZE:238894 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0299_rhizobium_sp.pdf
+HTTP:200 SIZE:28685 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0300_mesotrione.pdf
+HTTP:200 SIZE:96019 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0301_metaldehido.pdf
+HTTP:200 SIZE:161343 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0303_metalaxil_m.pdf
+HTTP:200 SIZE:190847 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0304_metam_sodio.pdf
+HTTP:200 SIZE:33942 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0305_metamidofos.pdf
+HTTP:200 SIZE:32703 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0306_metconazole.pdf
+HTTP:200 SIZE:34331 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0307_metidation.pdf
+HTTP:200 SIZE:204492 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0308_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:16352 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0311_metiram.pdf
+HTTP:200 SIZE:157564 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0312_metomil.pdf
+HTTP:200 SIZE:214854 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0313_metoxifenocide.pdf
+HTTP:200 SIZE:52521 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0314_metribuzin.pdf
+HTTP:200 SIZE:122614 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0315_metsulfuron_metil.pdf
+HTTP:200 SIZE:43489 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0318_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:26070 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0320_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:26575 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0321_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27132 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0324_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27038 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0327_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27146 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0329_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:26463 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0330_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27231 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0331_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:26321 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0332_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27267 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0336_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:26734 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0337_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27338 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0344_miclobutanil.pdf
+HTTP:200 SIZE:195599 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0346_msma.pdf
+HTTP:200 SIZE:177048 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0350_nicosulfuron.pdf
+HTTP:200 SIZE:64677 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0351_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:45234 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0352_nitrato_de_amonio_calcareo.pdf
+HTTP:200 SIZE:12282 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0353_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:46386 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0354_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:16723 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0355_octanoato_de_ioxinil.pdf
+HTTP:200 SIZE:165632 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0360_oxicloruro_de_cobre.pdf
+HTTP:200 SIZE:210459 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0361_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:16970 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0362_oxido_cuproso.pdf
+HTTP:200 SIZE:196317 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0363_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:15341 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0364_oxifluorfen.pdf
+HTTP:200 SIZE:200454 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0366_paraquat_dicloruro.pdf
+HTTP:200 SIZE:82671 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0368_penconazole.pdf
+HTTP:200 SIZE:181715 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0369_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:43325 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0370_pendimetalin.pdf
+HTTP:200 SIZE:124692 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0371_permetrina.pdf
+HTTP:200 SIZE:191712 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0373_picloram.pdf
+HTTP:200 SIZE:112317 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0374_picloram_triclopir.pdf
+HTTP:200 SIZE:38488 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0380_pirimetanil.pdf
+HTTP:200 SIZE:167726 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0381_pirimicarb.pdf
+HTTP:200 SIZE:187184 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0382_polisulfuro_de_calcio.pdf
+HTTP:200 SIZE:179686 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0384_procimidone.pdf
+HTTP:200 SIZE:179189 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0385_procloraz.pdf
+HTTP:200 SIZE:170515 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0386_profoxidim.pdf
+HTTP:200 SIZE:169672 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0387_prometrina.pdf
+HTTP:200 SIZE:63932 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0389_propamocarb.pdf
+HTTP:200 SIZE:171199 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0391_propanil.pdf
+HTTP:200 SIZE:161309 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0392_propaquizafop.pdf
+HTTP:200 SIZE:168372 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0393_propargite.pdf
+HTTP:200 SIZE:174241 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0394_propiconazole.pdf
+HTTP:200 SIZE:188929 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0395_propiconazole_cyproconazole.pdf
+HTTP:200 SIZE:179414 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0397_propizamida.pdf
+HTTP:200 SIZE:170179 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0398_prosulfuron.pdf
+HTTP:200 SIZE:182681 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0399_pseudomonas_fluorescens.pdf
+HTTP:200 SIZE:38832 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0400_pymetrozine.pdf
+HTTP:200 SIZE:179177 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0401_pyraclostrobin.pdf
+HTTP:200 SIZE:185540 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0402_pyraclostrobin_epoxiconazole.pdf
+HTTP:200 SIZE:190251 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0403_quinclorac.pdf
+HTTP:200 SIZE:173562 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0404_quinoxyfen.pdf
+HTTP:200 SIZE:154830 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0405_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:16055 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0406_quizalofop_p_etil.pdf
+HTTP:200 SIZE:176997 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0407_quizalofop_p_tefuril.pdf
+HTTP:200 SIZE:173933 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0408_rhizobium_leguminosarum_biovar_trifolii.pdf
+HTTP:200 SIZE:176293 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0409_rhizobium_leguminosarum_biovar_viciae.pdf
+HTTP:200 SIZE:139664 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0410_s_metolacloro.pdf
+HTTP:200 SIZE:83868 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0411_setoxidim.pdf
+HTTP:200 SIZE:173522 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0412_simazina.pdf
+HTTP:200 SIZE:165950 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0413_sinorhizobium_meliloti.pdf
+HTTP:200 SIZE:157169 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0414_spinosad.pdf
+HTTP:200 SIZE:230716 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0415_sulfato_de_amonio.pdf
+HTTP:200 SIZE:135887 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0416_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:27527 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0417_sulfato_de_calcio.pdf
+HTTP:200 SIZE:34513 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0419_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:48236 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0421_sulfentrazone.pdf
+HTTP:200 SIZE:142738 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0422_sulfluramida.pdf
+HTTP:200 SIZE:161376 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0423_nitrosulfato_de_amonio.pdf
+HTTP:200 SIZE:12982 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0427_tebuconazole.pdf
+HTTP:200 SIZE:54962 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0430_tebutiuron.pdf
+HTTP:200 SIZE:31306 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0431_teflubenzuron.pdf
+HTTP:200 SIZE:170352 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0432_teflutrina.pdf
+HTTP:200 SIZE:181246 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0433_terbacil.pdf
+HTTP:200 SIZE:31344 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0434_terbutilazina.pdf
+HTTP:200 SIZE:191698 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0435_terbutrina.pdf
+HTTP:200 SIZE:168746 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0436_tiabendazol.pdf
+HTTP:200 SIZE:192313 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0437_tiacloprid.pdf
+HTTP:200 SIZE:173946 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0438_tiametoxam.pdf
+HTTP:200 SIZE:176306 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0440_tiodicarb.pdf
+HTTP:200 SIZE:185161 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0442_tiofanato_metil.pdf
+HTTP:200 SIZE:190258 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0443_tiofanato_metil_tiram.pdf
+HTTP:200 SIZE:184691 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0444_tiram.pdf
+HTTP:200 SIZE:162491 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0445_tolclofos_metil.pdf
+HTTP:200 SIZE:170475 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0448_triadimefon.pdf
+HTTP:200 SIZE:173291 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0450_triasulfuron.pdf
+HTTP:200 SIZE:173886 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0453_tricloro_acetato_de_sodio.pdf
+HTTP:200 SIZE:167169 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0456_trifloxistrobin.pdf
+HTTP:200 SIZE:182274 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0457_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:22277 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0458_trifloxistrobin_ciproconazole.pdf
+HTTP:200 SIZE:186482 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0459_trifloxisulfuron.pdf
+HTTP:200 SIZE:183628 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0460_triflumuron.pdf
+HTTP:200 SIZE:166977 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0461_trifluralina.pdf
+HTTP:200 SIZE:196193 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0462_triforine.pdf
+HTTP:200 SIZE:92087 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0463_trinexapac_etil.pdf
+HTTP:200 SIZE:143786 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0464_triticonazole.pdf
+HTTP:200 SIZE:159222 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0466_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:31093 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0467_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:48397 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0468_zetametrina.pdf
+HTTP:200 SIZE:198688 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0469_zineb.pdf
+HTTP:200 SIZE:195222 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0470_ziram.pdf
+HTTP:200 SIZE:189471 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0471_clorsulfuron_metsulfuron_metil.pdf
+HTTP:200 SIZE:186941 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0473_penoxsulam.pdf
+HTTP:200 SIZE:162544 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0474_aceite_mineral_parafinico.pdf
+HTTP:200 SIZE:142255 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0475_compuesto_np_azufrado.pdf
+HTTP:200 SIZE:17787 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0476_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:26239 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0477_cyazofamid.pdf
+HTTP:200 SIZE:166517 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0478_cyprodynil_fludioxonil.pdf
+HTTP:200 SIZE:179894 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0480_compuesto_nitro_azufrado.pdf
+HTTP:200 SIZE:16779 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0483_compuesto_32_11_4_0_s.pdf
+HTTP:200 SIZE:13024 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0484_azoxistrobina_fludioxonil_metalaxil_m.pdf
+HTTP:200 SIZE:171723 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0486_flucarbazone_sodico.pdf
+HTTP:200 SIZE:176468 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0490_triclorfon.pdf
+HTTP:200 SIZE:28817 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0491_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:25955 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0492_acequinocyl.pdf
+HTTP:200 SIZE:172147 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0493_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:19728 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0495_clotianidin.pdf
+HTTP:200 SIZE:183267 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0496_spirodiclofen.pdf
+HTTP:200 SIZE:173660 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0498_bradyrhizobium_spp_fludioxinil_metalaxil_m.pdf
+HTTP:200 SIZE:173429 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0518_bradyrhizobium_japonicum.pdf
+HTTP:200 SIZE:143377 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0534_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:22359 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0546_esfenvalerato.pdf
+HTTP:200 SIZE:171806 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0557_hexazinona.pdf
+HTTP:200 SIZE:171474 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0561_mancozeb_metalaxil.pdf
+HTTP:200 SIZE:195974 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0572_metolacloro.pdf
+HTTP:200 SIZE:43980 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0589_piraflufen_etil.pdf
+HTTP:200 SIZE:186695 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0596_rimsulfuron.pdf
+HTTP:200 SIZE:195228 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0612_azoxistrobina_propiconazole.pdf
+HTTP:200 SIZE:189979 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0613_azoxistrobina_difenoconazole.pdf
+HTTP:200 SIZE:207206 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0615_fludioxonil.pdf
+HTTP:200 SIZE:200975 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0616_tiametoxam_lambdacialotrina.pdf
+HTTP:200 SIZE:135681 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0619_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:40177 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0620_boscalid_pyraclostrobin.pdf
+HTTP:200 SIZE:195589 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0621_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:29836 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0622_ipconazole_metalaxil.pdf
+HTTP:200 SIZE:174666 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0623_pinoxaden_cloquintocet_mexyl.pdf
+HTTP:200 SIZE:187760 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0624_picoxystrobin.pdf
+HTTP:200 SIZE:174023 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0625_picoxystrobin_cyproconazole.pdf
+HTTP:200 SIZE:184668 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0626_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:31763 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0627_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:21237 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0628_sulfato_de_cobre_pentahidratado.pdf
+HTTP:200 SIZE:191577 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0629_aminopyralid_metsulfuron_metil.pdf
+HTTP:200 SIZE:178320 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0631_pyriproxifen.pdf
+HTTP:200 SIZE:180494 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0632_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:48171 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0633_butralin.pdf
+HTTP:200 SIZE:24622 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0634_clotianidin_metiocarb.pdf
+HTTP:200 SIZE:168921 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0635_imidacloprid_pencycuron.pdf
+HTTP:200 SIZE:168912 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0636_imidacloprid_thiodicarb.pdf
+HTTP:200 SIZE:167175 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0638_zinc.pdf
+HTTP:200 SIZE:137939 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0639_prothioconazole_tebuconazole.pdf
+HTTP:200 SIZE:32147 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0640_tebuconazole_tiram.pdf
+HTTP:200 SIZE:159868 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0641_tebuconazole_trifloxistrobin.pdf
+HTTP:200 SIZE:188416 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0642_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:19151 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0643_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:18180 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0644_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:16342 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0645_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:18678 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0646_azospirillum_brasilense.pdf
+HTTP:200 SIZE:160996 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0647_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:17630 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0649_compuesto_15_15_15.pdf
+HTTP:200 SIZE:19551 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0650_alcohol_etoxilado.pdf
+HTTP:200 SIZE:134634 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0651_alcohol_graso_etoxilado.pdf
+HTTP:200 SIZE:43452 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0653_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:44307 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0654_benciladenina.pdf
+HTTP:200 SIZE:147005 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0655_fosfato_monoamonico_azufrado.pdf
+HTTP:200 SIZE:12264 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0657_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:22824 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0658_compuesto_7_6_0.pdf
+HTTP:200 SIZE:15908 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0659_alfacipermetrina_teflubenzuron.pdf
+HTTP:200 SIZE:166546 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0660_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27001 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0661_topramezone.pdf
+HTTP:200 SIZE:181676 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0662_mandipropamid.pdf
+HTTP:200 SIZE:166939 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0663_benzoato_de_emamectina.pdf
+HTTP:200 SIZE:197561 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0664_pyraclostrobin_tiofanato_metil.pdf
+HTTP:200 SIZE:185796 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0665_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:15653 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0666_imidacloprid_beta_ciflutrina.pdf
+HTTP:200 SIZE:180991 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0667_fluoxastrobin_tebuconazole.pdf
+HTTP:200 SIZE:202230 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0668_imidacloprid_lambdacialotrina.pdf
+HTTP:200 SIZE:46337 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0669_aceite_de_soja_refinado.pdf
+HTTP:200 SIZE:28076 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0671_clorantraniliprole.pdf
+HTTP:200 SIZE:140177 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0672_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:20258 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0673_aviglicina_hcl.pdf
+HTTP:200 SIZE:144054 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0674_ethaboxam.pdf
+HTTP:200 SIZE:164606 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0675_flumioxazin_atrazina.pdf
+HTTP:200 SIZE:36187 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0676_acetamiprid_esfenvalerato.pdf
+HTTP:200 SIZE:179996 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0677_pyroxsulam_cloquintocet_mexyl_metsulfuron_metil.pdf
+HTTP:200 SIZE:50298 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0678_pirimifos_metil.pdf
+HTTP:200 SIZE:180154 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0679_pirimifos_metil_lambdacialotrina.pdf
+HTTP:200 SIZE:188976 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0680_ametrina_trifloxisulfuron.pdf
+HTTP:200 SIZE:184033 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0681_rhizobium_leguminosarum_biovar_viciae_protector.pdf
+HTTP:200 SIZE:184667 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0682_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:18831 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0684_boro_y_aminoacidos.pdf
+HTTP:200 SIZE:28732 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0685_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:18034 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0686_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:16163 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0687_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:19731 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0688_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:18338 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0689_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:19097 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0690_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:18327 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0691_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:17672 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0692_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:19048 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0693_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:16303 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0694_calcio.pdf
+HTTP:200 SIZE:27144 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0695_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:17973 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0696_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:13660 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0697_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:16935 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0698_flonicamid.pdf
+HTTP:200 SIZE:168236 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0699_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:35590 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0700_tiametoxam_teflutrina.pdf
+HTTP:200 SIZE:182570 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0702_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:27475 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0703_aminopyralid.pdf
+HTTP:200 SIZE:173441 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0704_compuesto_ns.pdf
+HTTP:200 SIZE:13944 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0707_compuesto_19_19_19.pdf
+HTTP:200 SIZE:14815 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0708_compuesto_np.pdf
+HTTP:200 SIZE:15534 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0709_difenoconazole_fludioxonil.pdf
+HTTP:200 SIZE:179203 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0710_ddvp_deltametrina.pdf
+HTTP:200 SIZE:36392 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0711_paraquat_dicloruro_diuron.pdf
+HTTP:200 SIZE:198632 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0712_fluopicolide_propamocarb.pdf
+HTTP:200 SIZE:194154 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0713_fenoxaprop_p_etil_iodosulfuron_metil_sodio.pdf
+HTTP:200 SIZE:18631 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0714_prothioconazole_clotianidin_fluoxastrobin.pdf
+HTTP:200 SIZE:173501 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0715_trifloxistrobin_metalaxil.pdf
+HTTP:200 SIZE:42737 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0716_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:35527 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0717_clorantraniliprole_tiametoxam.pdf
+HTTP:200 SIZE:64771 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0718_abamectina_clorantraniliprole.pdf
+HTTP:200 SIZE:56007 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0719_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:21719 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0721_novaluron.pdf
+HTTP:200 SIZE:179939 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0723_epoxiconazole.pdf
+HTTP:200 SIZE:37306 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0724_tebuconazole_imazalil.pdf
+HTTP:200 SIZE:160409 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0725_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:36222 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0727_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:45541 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0728_flurocloridona_s_metolacloro.pdf
+HTTP:200 SIZE:46683 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0729_compuesto_32_6_8_0_s.pdf
+HTTP:200 SIZE:13304 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0731_decadienoato_dodecadienol.pdf
+HTTP:200 SIZE:11921 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0732_tetraconazole.pdf
+HTTP:200 SIZE:195257 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0733_imidacloprid_aceite_de_soja_refinado.pdf
+HTTP:200 SIZE:26443 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0734_saflufenacil.pdf
+HTTP:200 SIZE:50792 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0735_pyroxsulam_cloquintocet_mexyl.pdf
+HTTP:200 SIZE:101881 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0736_aminopyralid_fluroxipir_metil_heptil_ester.pdf
+HTTP:200 SIZE:44548 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0737_dimetomorf.pdf
+HTTP:200 SIZE:33798 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0738_fenoxaprop_p_etil_cloquintocet_mexil.pdf
+HTTP:200 SIZE:41957 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0739_clorantraniliprole_lambdacialotrina.pdf
+HTTP:200 SIZE:198017 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0740_difenoconazole_metalaxil_m.pdf
+HTTP:200 SIZE:50047 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0741_tiabendazol_fludioxonil_metalaxil_m_azoxistrobina.pdf
+HTTP:200 SIZE:52634 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0742_tiametoxam_difenoconazole_metalaxil_m.pdf
+HTTP:200 SIZE:47476 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0743_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:23901 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0745_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:25037 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0746_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:25620 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0747_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:25321 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0748_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:25280 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0749_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:25235 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0750_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:26198 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0751_spinetoram.pdf
+HTTP:200 SIZE:129498 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0752_1_3_dicloropropeno_cloropicrina.pdf
+HTTP:200 SIZE:38830 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0753_metominostrobin_tebuconazole.pdf
+HTTP:200 SIZE:176153 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0754_metominostrobin_tiofanato_metil.pdf
+HTTP:200 SIZE:36939 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0755_glifosato_s_metolacloro.pdf
+HTTP:200 SIZE:41327 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0756_imazamox_imazapir.pdf
+HTTP:200 SIZE:201301 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0757_dimoxistrobin_epoxiconazole.pdf
+HTTP:200 SIZE:32571 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0758_metconazole_epoxiconazole.pdf
+HTTP:200 SIZE:36327 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0760_clotianidin_beta_ciflutrina.pdf
+HTTP:200 SIZE:29630 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0761_tiacloprid_deltametrina.pdf
+HTTP:200 SIZE:30226 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0762_bifentrin_carbosulfan.pdf
+HTTP:200 SIZE:44062 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0763_bifentrin_imidacloprid.pdf
+HTTP:200 SIZE:53141 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0764_etiprole_fipronil.pdf
+HTTP:200 SIZE:32236 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0765_etiprole.pdf
+HTTP:200 SIZE:85163 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0766_thiencarbazone_methyl_isoxaflutole_cyprosulfamide.pdf
+HTTP:200 SIZE:39203 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0767_compuesto_42_0_0_1_5s.pdf
+HTTP:200 SIZE:12456 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0768_compuesto_41_0_0_5s.pdf
+HTTP:200 SIZE:12157 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0769_compuesto_39_0_0_7_s.pdf
+HTTP:200 SIZE:12299 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0770_compuesto_40_0_0_2_2_s.pdf
+HTTP:200 SIZE:12134 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0771_roca_fosforica_parcialmente_acidulada.pdf
+HTTP:200 SIZE:11904 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0772_tiofanato_metil_tebuconazole.pdf
+HTTP:200 SIZE:34488 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0773_tiofanato_metil_tiram_ethaboxam.pdf
+HTTP:200 SIZE:40648 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0774_azoxistrobina_tebuconazole.pdf
+HTTP:200 SIZE:180245 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0775_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:19882 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0776_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:38026 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0777_gentamicina_oxitetraciclina.pdf
+HTTP:200 SIZE:162511 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0778_difenoconazole_fludioxonil_tiametoxam.pdf
+HTTP:200 SIZE:57521 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0779_acetoclor_atrazina.pdf
+HTTP:200 SIZE:37617 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0780_compuesto_19_5_0_0.pdf
+HTTP:200 SIZE:14499 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0781_polifosfato_de_amonio.pdf
+HTTP:200 SIZE:13891 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0782_thiosulfato_de_potasio.pdf
+HTTP:200 SIZE:15191 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0783_compuesto_8_20_10.pdf
+HTTP:200 SIZE:12086 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0785_compuesto_6_30_10.pdf
+HTTP:200 SIZE:11980 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0786_tiabendazol_fludioxonil_metalaxil_m.pdf
+HTTP:200 SIZE:43218 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0787_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:19885 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0788_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:25333 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0796_fluoxastrobin.pdf
+HTTP:200 SIZE:54075 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0811_acido_polimaleico.pdf
+HTTP:200 SIZE:24544 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0812_bistrifluron.pdf
+HTTP:200 SIZE:36783 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0813_aceite_de_soja.pdf
+HTTP:200 SIZE:140638 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0814_fipronil_lambdacialotrina.pdf
+HTTP:200 SIZE:43687 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0815_imidacloprid_clorpirifos.pdf
+HTTP:200 SIZE:31833 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0816_glifosato_2_4d.pdf
+HTTP:200 SIZE:178210 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0817_flubendiamide.pdf
+HTTP:200 SIZE:209181 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0818_prothioconazole.pdf
+HTTP:200 SIZE:30426 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0819_prothioconazole_trifloxistrobin.pdf
+HTTP:200 SIZE:177075 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0820_bifentrin_zetametrina.pdf
+HTTP:200 SIZE:44431 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0821_cyantraniliprole.pdf
+HTTP:200 SIZE:209600 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0822_clorimuron_etil_sulfometuron_metil.pdf
+HTTP:200 SIZE:193111 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0823_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:32718 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0824_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:29324 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0825_azoxistrobina_flutriafol.pdf
+HTTP:200 SIZE:56982 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0826_imidacloprid_gammacialotrina.pdf
+HTTP:200 SIZE:49514 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0827_compuesto_0_10_0.pdf
+HTTP:200 SIZE:12802 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0828_compuesto_0_20_20.pdf
+HTTP:200 SIZE:12812 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0829_compuesto_0_39_0.pdf
+HTTP:200 SIZE:12955 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0830_compuesto_4_7_5_0.pdf
+HTTP:200 SIZE:13518 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0831_compuesto_6_8_0.pdf
+HTTP:200 SIZE:13282 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0832_compuesto_6_36_0.pdf
+HTTP:200 SIZE:13027 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0833_boscalid.pdf
+HTTP:200 SIZE:29940 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0834_ametoctradin_dimetomorf.pdf
+HTTP:200 SIZE:30271 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0835_mesorhizobium_ciceri.pdf
+HTTP:200 SIZE:43590 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0836_pyraclostrobin_metconazole.pdf
+HTTP:200 SIZE:31247 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0837_abamectina_tiametoxam.pdf
+HTTP:200 SIZE:55833 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0838_azoxistrobina_isopyrazam.pdf
+HTTP:200 SIZE:47808 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0839_benzoato_de_emamectina_lufenuron.pdf
+HTTP:200 SIZE:49618 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0840_bradyrhizobium_japonicum_ipconazole_metalaxil.pdf
+HTTP:200 SIZE:18029 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0841_imidacloprid_novaluron_bifentrin.pdf
+HTTP:200 SIZE:163998 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0842_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:15404 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0843_metaflumizone.pdf
+HTTP:200 SIZE:30423 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0844_novaluron_acetamiprid.pdf
+HTTP:200 SIZE:34022 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0845_clorotalonil_dimetomorf.pdf
+HTTP:200 SIZE:28155 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0846_bradyrhizobium_spp_lipo_quito_oligosacaridos_lco.pdf
+HTTP:200 SIZE:28766 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0847_ametoctradin_metiram.pdf
+HTTP:200 SIZE:30353 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0848_azoxistrobina_tebuconazole_procloraz.pdf
+HTTP:200 SIZE:169007 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0849_bacillus_subtilis.pdf
+HTTP:200 SIZE:57050 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0850_difenoconazole_fludioxonil_tiametoxam_sedaxane.pdf
+HTTP:200 SIZE:107471 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0851_fludioxonil_metalaxil_m_tiabendazol_tiametoxam.pdf
+HTTP:200 SIZE:55494 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0852_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:17074 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0853_version_digital_de_la_guia_fitosanitaria_casafe_edicion_2013.pdf
+HTTP:200 SIZE:39789 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0854_iodosulfuron_metil_sodio_mesosulfuron_metil.pdf
+HTTP:200 SIZE:39414 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0855_acidos_fosfonicos.pdf
+HTTP:200 SIZE:26231 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0856_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:25381 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0858_compuesto_1_0_9.pdf
+HTTP:200 SIZE:24024 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0859_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:18226 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0861_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:21566 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0863_esteres_metilicos_de_acidos_grasos_de_aceites_vegetales.pdf
+HTTP:200 SIZE:50578 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0864_iodosulfuron_metil_sodio_thiencarbazone_methyl.pdf
+HTTP:200 SIZE:60362 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0865_prothioconazole_fluoxastrobin_tebuconazole.pdf
+HTTP:200 SIZE:32843 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0869_tiabendazol_fludioxonil_metalaxil_m.pdf
+HTTP:200 SIZE:52518 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0870_abamectina_lufenuron.pdf
+HTTP:200 SIZE:34224 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0871_glifosato_2_4d_dicamba.pdf
+HTTP:200 SIZE:22457 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0872_bacillus_amyloliquefaciens.pdf
+HTTP:200 SIZE:35092 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0873_bradyrhizobium_arachis.pdf
+HTTP:200 SIZE:39962 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0874_compuesto_15_4_5.pdf
+HTTP:200 SIZE:25338 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0875_compuesto_6_29_0.pdf
+HTTP:200 SIZE:24445 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0876_compuesto_0_28_18.pdf
+HTTP:200 SIZE:24437 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0877_protector_de_inoculante.pdf
+HTTP:200 SIZE:139679 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0878_compuesto_10_0_0.pdf
+HTTP:200 SIZE:24786 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0879_compuesto_21_0_0.pdf
+HTTP:200 SIZE:23906 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0880_compuesto_de_azufre.pdf
+HTTP:200 SIZE:23756 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0881_compuesto_de_micronutrientes.pdf
+HTTP:200 SIZE:24287 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0882_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:15094 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0883_manganeso_quelatado.pdf
+HTTP:200 SIZE:25288 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0884_zinc_quelatado.pdf
+HTTP:200 SIZE:24064 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0885_bifentrin_abamectina.pdf
+HTTP:200 SIZE:102586 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0886_bifentrin_novaluron.pdf
+HTTP:200 SIZE:173492 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0887_clomazone_hexazinona.pdf
+HTTP:200 SIZE:40330 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0888_sulfentrazone_clorimuron_etil.pdf
+HTTP:200 SIZE:50729 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0889_fluxapyroxad_pyraclostrobin_epoxiconazole.pdf
+HTTP:200 SIZE:103473 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0890_lambdacialotrina_lufenuron.pdf
+HTTP:200 SIZE:166541 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0891_metoxifenocide_spinosad.pdf
+HTTP:200 SIZE:41472 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0892_penoxsulam_cyhalofop_butil.pdf
+HTTP:200 SIZE:42665 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0893_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:23249 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0894_azoxistrobina_epoxiconazole.pdf
+HTTP:200 SIZE:136703 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0895_fluxapyroxad_pyraclostrobin.pdf
+HTTP:200 SIZE:56948 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0896_imazetapir_saflufenacil.pdf
+HTTP:200 SIZE:101403 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0897_metrafenone.pdf
+HTTP:200 SIZE:30747 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0898_dinotefuran.pdf
+HTTP:200 SIZE:188832 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0899_trichoderma_afroharzianum.pdf
+HTTP:200 SIZE:204909 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0900_indaziflam.pdf
+HTTP:200 SIZE:46933 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0901_spirotetramat.pdf
+HTTP:200 SIZE:45823 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0902_iodosulfuron_metil_sodio_mesosulfuron_metil.pdf
+HTTP:200 SIZE:39780 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0903_azoxistrobina_fludioxonil.pdf
+HTTP:200 SIZE:36726 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0904_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:22948 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0905_carfentrazone_etil_clorimuron_etil.pdf
+HTTP:200 SIZE:49041 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0906_carfentrazone_etil_esteres_metilicos_de_aceites.pdf
+HTTP:200 SIZE:49159 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0907_difenoconazole_fludioxonil_sedaxane.pdf
+HTTP:200 SIZE:190987 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0908_fludioxonil_metalaxil_m_bradyrhizobium_spp.pdf
+HTTP:200 SIZE:49865 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0909_imidacloprid_spirotetramat.pdf
+HTTP:200 SIZE:41633 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0910_indoxacarb.pdf
+HTTP:200 SIZE:21239 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0911_picoxystrobin_pentiopirad.pdf
+HTTP:200 SIZE:177955 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0912_sulfentrazone_metribuzin.pdf
+HTTP:200 SIZE:43868 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0913_sedaxane.pdf
+HTTP:200 SIZE:36046 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0914_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:25850 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0915_valiphenal_mancozeb.pdf
+HTTP:200 SIZE:34477 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0916_azoxistrobina_benzovindiflupir.pdf
+HTTP:200 SIZE:55600 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0919_version_digital_de_la_guia_de_productos_fitosanitarios_casaf.pdf
+HTTP:200 SIZE:20616 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0920_atrazina_metolacloro.pdf
+HTTP:200 SIZE:33023 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0921_tiofanato_metil_diniconazole_m.pdf
+HTTP:200 SIZE:37033 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0922_biciclopirona.pdf
+HTTP:200 SIZE:191305 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0923_diclosulam_sulfentrazone.pdf
+HTTP:200 SIZE:47878 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0924_oxathiapiprolin.pdf
+HTTP:200 SIZE:196782 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0925_clorimuron_etil_sulfometuron_metil_sulfentrazone.pdf
+HTTP:200 SIZE:204551 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0926_imazetapir_flumioxazin.pdf
+HTTP:200 SIZE:184153 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0927_picoxystrobin_cyproconazole_fosfitos_de_cobre_y.pdf
+HTTP:200 SIZE:50700 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0928_dimetenamida_p.pdf
+HTTP:200 SIZE:32555 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0929_fluxapyroxad.pdf
+HTTP:200 SIZE:38741 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0930_halauxifen_metil_diclosulam.pdf
+HTTP:200 SIZE:46443 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0931_sulfoxaflor_lambdacialotrina.pdf
+HTTP:200 SIZE:50077 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0932_sulfoxaflor.pdf
+HTTP:200 SIZE:55438 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0933_glifosato_fomesafen.pdf
+HTTP:200 SIZE:47092 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0934_fipronil_imidacloprid.pdf
+HTTP:200 SIZE:32913 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0935_fludioxonil_metalaxil_m_tiabendazol_tiametoxam.pdf
+HTTP:200 SIZE:109204 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0936_metoxifenocide_clorpirifos.pdf
+HTTP:200 SIZE:41321 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0937_biciclopirona_s_metolacloro.pdf
+HTTP:200 SIZE:54661 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0938_fenoxaprop_p_etil_mefenpir_dietil.pdf
+HTTP:200 SIZE:33925 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0939_fomesafen_s_metolacloro.pdf
+HTTP:200 SIZE:47544 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0940_azoxistrobina_carbendazim_tebuconazole.pdf
+HTTP:200 SIZE:36125 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0941_2_4_d_sal_colina.pdf
+HTTP:200 SIZE:111072 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0942_2_4_d_sales_dma_y_sodica.pdf
+HTTP:200 SIZE:69882 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0943_2_4_d_ester.pdf
+HTTP:200 SIZE:187191 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0944_meptyldinocap.pdf
+HTTP:200 SIZE:33505 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0945_2_4_d_aminopyralid.pdf
+HTTP:200 SIZE:91090 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0946_cletodim_quizalofop_p_etil.pdf
+HTTP:200 SIZE:54380 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0947_sulfentrazone_s_metolacloro.pdf
+HTTP:200 SIZE:43914 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0948_difenoconazole_pydiflumetofen.pdf
+HTTP:200 SIZE:197020 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0949_bixafen_prothioconazole_trifloxistrobin.pdf
+HTTP:200 SIZE:179756 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0951_cyflumetofen.pdf
+HTTP:200 SIZE:98177 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0952_piroxasulfone.pdf
+HTTP:200 SIZE:195904 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0953_metoxifenocide_spinetoram.pdf
+HTTP:200 SIZE:101704 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0954_aminopyralid_clopyralid.pdf
+HTTP:200 SIZE:50182 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0955_benzovindiflupyr_propiconazole_pydiflumetofen.pdf
+HTTP:200 SIZE:111006 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0956_aceite_de_arbol_del_te_difenoconazole.pdf
+HTTP:200 SIZE:73421 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0957_alfacipermetrina_acetamiprid.pdf
+HTTP:200 SIZE:69607 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0958_aminopyralid_triclopyr_butoexil_ester.pdf
+HTTP:200 SIZE:101385 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0959_aminopyralid_picloram_triclopyr_butoexil_ester.pdf
+HTTP:200 SIZE:43844 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0960_amisulbrom.pdf
+HTTP:200 SIZE:90474 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0961_benzovindiflupyr_propiconazole.pdf
+HTTP:200 SIZE:102010 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0962_clopyralid_mcpa.pdf
+HTTP:200 SIZE:40823 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0963_difenoconazole_mandipropamid.pdf
+HTTP:200 SIZE:39313 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0964_1e7_e_z9_dodecadienil_acetato_n_dodecilacetato.pdf
+HTTP:200 SIZE:97118 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0965_esfenvalerato_bifentrin_abamectina.pdf
+HTTP:200 SIZE:96459 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0966_florpyrauxifen_benzyl.pdf
+HTTP:200 SIZE:42568 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0967_fludioxonil_metalaxil_m_sedaxane_bradyrizobium.pdf
+HTTP:200 SIZE:78201 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0968_fludioxonil_metalaxil_m_sedaxane.pdf
+HTTP:200 SIZE:103363 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0969_imazapic_imazapir_saflufenacil.pdf
+HTTP:200 SIZE:204860 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0970_pydiflumetofen.pdf
+HTTP:200 SIZE:99591 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0971_piroxasulfone_saflufenacil.pdf
+HTTP:200 SIZE:189008 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0972_tolpiralate.pdf
+HTTP:200 SIZE:101876 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0973_abamectina_cyantraniliprole.pdf
+HTTP:200 SIZE:204593 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0974_flumioxazin_piroxasulfone.pdf
+HTTP:200 SIZE:208277 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0975_acidos_humicos.pdf
+HTTP:200 SIZE:33969 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0976_acidos_fulvicos.pdf
+HTTP:200 SIZE:33126 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0977_acidos_fulvicos_zn_extracto_vegetal.pdf
+HTTP:200 SIZE:36431 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0978_compuesto_inorganico_npk.pdf
+HTTP:200 SIZE:62245 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0979_algas_y_micronutrientes.pdf
+HTTP:200 SIZE:62478 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0980_indaziflam_isoxaflutole.pdf
+HTTP:200 SIZE:38381 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0981_carpovirus.pdf
+HTTP:200 SIZE:35426 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0982_flazasulfuron.pdf
+HTTP:200 SIZE:46031 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0983_metamitron.pdf
+HTTP:200 SIZE:62040 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0984_metribuzin_metolacloro.pdf
+HTTP:200 SIZE:71406 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0985_bifentrin_lufenuron.pdf
+HTTP:200 SIZE:168869 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0986_alfametrina.pdf
+HTTP:200 SIZE:196776 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0987_metribuzin_s_metolacloro.pdf
+HTTP:200 SIZE:187989 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0988_bradyrhizobium_tropici_y_rhizobium_etli.pdf
+HTTP:200 SIZE:81584 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0989_espiromesifen.pdf
+HTTP:200 SIZE:36167 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0990_compuesto_10_40_0.pdf
+HTTP:200 SIZE:34263 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0991_imidacloprid_bifentrin_abamectina.pdf
+HTTP:200 SIZE:177622 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0992_2_4_d_ester_etilexilico.pdf
+HTTP:200 SIZE:119638 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0993_sulfometuron_metil_metsulfuron_metil.pdf
+HTTP:200 SIZE:181959 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0994_flumioxazin_clorimuron_etil.pdf
+HTTP:200 SIZE:187967 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0995_cymoxanil_famoxadone.pdf
+HTTP:200 SIZE:172212 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0996_tembotrione_isoxadifen_ethyl.pdf
+HTTP:200 SIZE:39802 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0997_oxathiapiprolin_famoxadone.pdf
+HTTP:200 SIZE:176906 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0998_clorimuron_etil_sulfometuron_metil_flumioxazin.pdf
+HTTP:200 SIZE:199572 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/0999_pyroxsulam_metsulfuron_metil.pdf
+HTTP:200 SIZE:177108 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1000_halauxifen_metil_fluroxipir_meptil_cloquintocet.pdf
+HTTP:200 SIZE:80993 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1001_mesorhizobium_loti.pdf
+HTTP:200 SIZE:105486 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1003_compuesto_de_microelementos_npszncacomob.pdf
+HTTP:200 SIZE:85213 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1004_almidon_de_maiz.pdf
+HTTP:200 SIZE:52203 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1005_ipconazole_metalaxil_carboxin.pdf
+HTTP:200 SIZE:91679 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1006_mancozeb_azoxistrobina_protioconazole.pdf
+HTTP:200 SIZE:90870 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1007_pendimetalin_metribuzin.pdf
+HTTP:200 SIZE:39090 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1008_mancozeb_azoxistrobina_tebuconazole.pdf
+HTTP:200 SIZE:92737 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1009_2_4_d_micro_emulsion.pdf
+HTTP:200 SIZE:99509 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1010_2_4_d_sales_dimetilamina_y_dietanolamina.pdf
+HTTP:200 SIZE:197885 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1011_compuesto_n_p_s_zn_bacillus_sp.pdf
+HTTP:200 SIZE:32571 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1012_tiametoxam_fipronil.pdf
+HTTP:200 SIZE:88496 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1013_isocycloseram.pdf
+HTTP:200 SIZE:198367 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1014_materia_organica.pdf
+HTTP:200 SIZE:37059 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1015_bradyrhizobium_japonicum_sacarosa.pdf
+HTTP:200 SIZE:30523 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1016_sacarosa.pdf
+HTTP:200 SIZE:28028 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1017_mefentrifluconazole_pyraclostrobin.pdf
+HTTP:200 SIZE:35322 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1018_mefentrifluconazole_pyraclostrobin_fluxapyroxad.pdf
+HTTP:200 SIZE:36348 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1019_fluxapyroxad_triticonazole.pdf
+HTTP:200 SIZE:175441 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1020_extracto_de_quillay.pdf
+HTTP:200 SIZE:156924 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1021_trifludimoxazin_saflufenacil.pdf
+HTTP:200 SIZE:93049 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1022_florpyrauxifen_benzyl_cyhalofop_butil.pdf
+HTTP:200 SIZE:40621 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1024_halauxifen_metil_clopiralid.pdf
+HTTP:200 SIZE:36216 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1025_halauxifen_metil.pdf
+HTTP:200 SIZE:167277 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1027_flumioxazin_terbutilazina.pdf
+HTTP:200 SIZE:40291 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1028_acetamiprid_piriproxifen.pdf
+HTTP:200 SIZE:37540 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1029_flufenacet_diflufenican_aclonifen.pdf
+HTTP:200 SIZE:85030 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1030_azoxistrobina_difenoconazole_benzovindiflupir.pdf
+HTTP:200 SIZE:110353 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1031_cyclobutrifluram.pdf
+HTTP:200 SIZE:199045 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1032_fludioxonil_pydiflumetofen.pdf
+HTTP:200 SIZE:181227 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1033_amicarbazone.pdf
+HTTP:200 SIZE:106068 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1034_tiametoxam_bifentrin.pdf
+HTTP:200 SIZE:96363 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1036_epyrifenacil.pdf
+HTTP:200 SIZE:39416 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1037_kinetina.pdf
+HTTP:200 SIZE:31790 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1038_methylobacterium_symbioticum.pdf
+HTTP:200 SIZE:86233 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1039_picoxystrobin_prothioconazole.pdf
+HTTP:200 SIZE:40811 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1040_acido_indol_3_butirico_acido_giberelico_kinetina.pdf
+HTTP:200 SIZE:88850 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1041_inpyrfluxam_tebuconazole.pdf
+HTTP:200 SIZE:171114 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1042_inpyrfluxam_difenoconazole_picoxistrobin.pdf
+HTTP:200 SIZE:176428 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1043_pyridalil.pdf
+HTTP:200 SIZE:179240 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1044_clorotalonil_pydiflumetofen.pdf
+HTTP:200 SIZE:181988 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1045_isocycloseram_lambdacialotrina.pdf
+HTTP:200 SIZE:191800 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1046_mefentrifluconazole.pdf
+HTTP:200 SIZE:162797 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1047_trifludimoxazin.pdf
+HTTP:200 SIZE:169141 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1048_prothioconazole_azoxistrobina.pdf
+HTTP:200 SIZE:180838 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1049_acetamiprid_bifentrin.pdf
+HTTP:200 SIZE:175800 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1050_dinotefuran_bifentrin.pdf
+HTTP:200 SIZE:168705 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1051_fluxametamide.pdf
+HTTP:200 SIZE:177545 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1052_prothioconazole_penflufen_metalaxil.pdf
+HTTP:200 SIZE:173819 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1053_penflufen.pdf
+HTTP:200 SIZE:168039 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1054_flufenacet.pdf
+HTTP:200 SIZE:170075 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1055_foramsulfuron_thiencarbazone_methyl.pdf
+HTTP:200 SIZE:173224 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1056_oxicloruro_de_cobre_hidroxido_de_cobre.pdf
+HTTP:200 SIZE:190339 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1057_tetraconazole_azoxistrobina.pdf
+HTTP:200 SIZE:185711 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1058_azoxistrobina_clorotalonil_difenoconazole.pdf
+HTTP:200 SIZE:172114 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1059_fluazinam_dimetomorf.pdf
+HTTP:200 SIZE:185599 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1060_novaluron_benzoato_de_emamectina.pdf
+HTTP:200 SIZE:162917 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1061_bradyrhizobium_diazoefficiens_pseudomonas.pdf
+HTTP:200 SIZE:161100 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1062_methylobacterium_brachiatum_methylobacterium.pdf
+HTTP:200 SIZE:160594 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1063_trichoderma_afroharzianum_bradyrhizobium.pdf
+HTTP:200 SIZE:177884 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1064_trichoderma_afroharzianum_sedaxane.pdf
+HTTP:200 SIZE:173578 TYPE:application/pdf
+=== 11_casafe_guia_marbetes/1066_prothioconazole_trifloxistrobin_isoflucypram.pdf
+HTTP:200 SIZE:163031 TYPE:application/pdf
