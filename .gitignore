@@ -1,0 +1,17 @@
+# build artifacts produced by scripts/test.sh
+.harness-build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Go
+/bin/
+
+# general
+.DS_Store
