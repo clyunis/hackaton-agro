@@ -139,6 +139,59 @@ def test_busqueda_registra_fuentes_y_filtra_las_citadas():
     assert resultado.fuentes_citadas()[0]["archivo"] == "0254_glifosato.pdf"
 
 
+class BuscadorClorpirifos(BuscadorFalso):
+    """Devuelve un marbete de un activo prohibido (la guia CASAFE es anterior a la Res. 414/2021)."""
+
+    def buscar(self, consulta):
+        """Simula un fragmento del marbete de clorpirifos."""
+        self.consultas.append(consulta)
+        return [
+            {
+                "id": "marbete_casafe:114_chunk_0",
+                "producto": "CLORPIRIFOS",
+                "archivo": "0114_clorpirifos.pdf",
+                "contenido": "Producto: CLORPIRIFOS\n---\nSoja  Oruga medidora  ...",
+                "distancia": 0.35,
+            }
+        ]
+
+
+def test_busqueda_marca_fragmentos_prohibidos_con_su_norma():
+    """Cada fragmento de un activo prohibido llega con 'ESTADO SENASA [N#]' y la norma queda citable."""
+    cliente = ClienteFalso(
+        [
+            respuesta("tool_use", bloque_herramienta("t1", "buscar_marbetes", {"consulta": "oruga soja"})),
+            respuesta("end_turn", bloque_texto("El clorpirifos esta prohibido [N1].")),
+        ]
+    )
+    orquestador = OrquestadorAgro(cliente, BuscadorClorpirifos(), modelo="claude-opus-5-5")
+
+    resultado = orquestador.responder([], "que uso para oruga medidora en soja?")
+
+    texto_resultado_busqueda = resultados_de_herramientas(cliente.llamadas[1])[0]["content"]
+    assert "ESTADO SENASA [N1]: PROHIBIDO" in texto_resultado_busqueda
+    citadas = resultado.fuentes_citadas()
+    assert [fuente["etiqueta"] for fuente in citadas] == ["N1"]
+    assert citadas[0]["producto"] == "Res. SENASA 414/2021 Art. 3"
+
+
+def test_verificar_estado_regulatorio_etiqueta_las_normas():
+    """La tool devuelve la conclusion y cada restriccion con su etiqueta [N#]."""
+    cliente = ClienteFalso(
+        [
+            respuesta("tool_use", bloque_herramienta("t1", "verificar_estado_regulatorio", {"nombre": "clorpirifos"})),
+            respuesta("end_turn", bloque_texto("Prohibido [N1].")),
+        ]
+    )
+    orquestador = OrquestadorAgro(cliente, BuscadorFalso(), modelo="claude-opus-5-5")
+
+    orquestador.responder([], "puedo usar clorpirifos?")
+
+    resultado_verificacion = json.loads(resultados_de_herramientas(cliente.llamadas[1])[0]["content"])
+    assert resultado_verificacion["conclusion"].startswith("PROHIBIDO")
+    assert resultado_verificacion["restricciones"][0]["etiqueta"] == "N1"
+
+
 def test_error_de_herramienta_vuelve_como_is_error():
     """Una entrada invalida no rompe el loop: el modelo recibe el error y puede corregir."""
     cliente = ClienteFalso(

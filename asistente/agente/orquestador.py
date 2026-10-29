@@ -22,6 +22,7 @@ from dataclasses import dataclass, field
 
 from agente.calculadora import CalculadoraNutrientes
 from agente.herramientas import DEFINICIONES_HERRAMIENTAS, EjecutorHerramientas, RegistroFuentes
+from agente.regulacion import VerificadorRegulatorio
 from agente.requisitos import CatalogoRequisitos
 
 logger = logging.getLogger(__name__)
@@ -56,12 +57,15 @@ Como trabajar cada consulta:
 3. Con datos suficientes, busca evidencia con buscar_marbetes (podes buscar varias veces, con
    consultas especificas: principio activo + cultivo + maleza/plaga + momento). Para cualquier
    cuenta usa las herramientas de calculo y mostra la formula; nunca hagas cuentas de memoria.
-4. Cuando el ingeniero responda tus preguntas, volve a llamar a analizar_consulta con los datos
+4. Antes de recomendar un producto o principio activo, verifica su estado con
+   verificar_estado_regulatorio. Los fragmentos de buscar_marbetes ya traen una linea
+   "ESTADO SENASA [N#]" cuando hay una prohibicion o restriccion conocida.
+5. Cuando el ingeniero responda tus preguntas, volve a llamar a analizar_consulta con los datos
    nuevos antes de seguir.
 
 Reglas de respuesta:
 - Toda afirmacion tecnica (dosis, cultivo habilitado, momento, restriccion, carencia) lleva la
-  etiqueta de la fuente que devolvio buscar_marbetes, ej: [F2]. Dosis y momentos se copian tal
+  etiqueta de su fuente: [F#] para marbetes, [N#] para normas SENASA, ej: [F2]. Dosis y momentos se copian tal
   como figuran en el marbete: no cambies "despues de la siembra" por "despues de la emergencia",
   ni reagrupes las filas de la tabla con un criterio que el marbete no usa.
 - Los criterios que devuelve analizar_consulta son guia interna del equipo, no fuentes citables.
@@ -71,6 +75,11 @@ Reglas de respuesta:
   para ...". No inventes dosis, plazos ni restricciones.
 - Si la situacion no justifica una aplicacion (por ejemplo, lote limpio), decilo en vez de dar
   una dosis.
+- Nunca recomiendes un producto PROHIBIDO, aunque figure en un marbete (la guia CASAFE es anterior
+  a varias prohibiciones): decilo citando la norma [N#] y, si corresponde, busca alternativas. Si es
+  PROHIBIDO PARCIAL o USO RESTRINGIDO, explica el alcance y pedi la formulacion o el uso previsto.
+  Que un producto figure en el registro no confirma que este autorizado para ese cultivo; si la
+  herramienta no lo encuentra, no lo des por legal.
 - Espanol rioplatense, conciso y tecnico. Texto plano sin Markdown (nada de **, ## ni backticks):
   se muestra en Telegram. Listas con "-"."""
 
@@ -87,8 +96,8 @@ class ResultadoTurno:
     mensajes_nuevos: list[dict] = field(default_factory=list)
 
     def fuentes_citadas(self) -> list[dict]:
-        """Fuentes cuya etiqueta [F#] aparece en el texto; si no cito ninguna, todas las recuperadas."""
-        etiquetas_citadas = set(re.findall(r"\[(F\d+)\]", self.texto))
+        """Fuentes cuya etiqueta (F# o N#) aparece en el texto; si no cito ninguna, todas las recuperadas."""
+        etiquetas_citadas = set(re.findall(r"\b([FN]\d+)\b", self.texto))
         citadas = [fuente for fuente in self.fuentes if fuente["etiqueta"] in etiquetas_citadas]
         return citadas or self.fuentes
 
@@ -102,11 +111,14 @@ class OrquestadorAgro:
         buscador,
         modelo: str = MODELO_POR_DEFECTO,
         max_iteraciones: int = MAX_ITERACIONES_POR_DEFECTO,
+        verificador: VerificadorRegulatorio | None = None,
     ):
         self.cliente = cliente_anthropic
         self.modelo = modelo
         self.max_iteraciones = max_iteraciones
-        self.ejecutor = EjecutorHerramientas(buscador, CatalogoRequisitos(), CalculadoraNutrientes())
+        self.ejecutor = EjecutorHerramientas(
+            buscador, CatalogoRequisitos(), CalculadoraNutrientes(), verificador or VerificadorRegulatorio()
+        )
 
     def _llamar_modelo(self, mensajes: list[dict], permitir_herramientas: bool = True):
         """Una request a la Messages API; system y tools son fijos para no romper el cache."""

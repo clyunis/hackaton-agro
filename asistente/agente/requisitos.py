@@ -56,7 +56,7 @@ TIPOS_CONSULTA = {
             ("Si la maleza no figura en la tabla del marbete para ese cultivo y momento, decir que el "
             "marbete no respalda esa dosis."),
         ],
-        "herramientas_sugeridas": ["buscar_marbetes"],
+        "herramientas_sugeridas": ["buscar_marbetes", "verificar_estado_regulatorio"],
         "limitaciones_corpus": "",
     },
     "dosis_insecticida_fungicida": {
@@ -72,7 +72,7 @@ TIPOS_CONSULTA = {
             "Aplicar solo si el monitoreo supera el umbral de dano o de accion; si no hay monitoreo, pedirlo.",
             "Respetar el periodo de carencia y las restricciones del marbete.",
         ],
-        "herramientas_sugeridas": ["buscar_marbetes"],
+        "herramientas_sugeridas": ["buscar_marbetes", "verificar_estado_regulatorio"],
         "limitaciones_corpus": "",
     },
     "mezcla_de_productos": {
@@ -86,7 +86,7 @@ TIPOS_CONSULTA = {
             ("Revisar la seccion de compatibilidad de cada marbete involucrado. Si un marbete no menciona "
             "la mezcla, decir que no hay respaldo documental para ella."),
         ],
-        "herramientas_sugeridas": ["buscar_marbetes"],
+        "herramientas_sugeridas": ["buscar_marbetes", "verificar_estado_regulatorio"],
         "limitaciones_corpus": "",
     },
     "restriccion_siembra_posterior": {
@@ -102,7 +102,7 @@ TIPOS_CONSULTA = {
             ("Buscar en el marbete restricciones de rotacion o intervalo hasta la siembra. Si no figuran, "
             "decir explicitamente que no hay evidencia en los marbetes disponibles; no inferir plazos."),
         ],
-        "herramientas_sugeridas": ["buscar_marbetes"],
+        "herramientas_sugeridas": ["buscar_marbetes", "verificar_estado_regulatorio"],
         "limitaciones_corpus": "",
     },
     "diagnostico_sintoma": {
@@ -163,7 +163,7 @@ TIPOS_CONSULTA = {
         "descripcion": "Cualquier otra consulta tecnica",
         "requisitos": [],
         "criterios": [],
-        "herramientas_sugeridas": ["buscar_marbetes"],
+        "herramientas_sugeridas": ["buscar_marbetes", "verificar_estado_regulatorio"],
         "limitaciones_corpus": "",
     },
 }
