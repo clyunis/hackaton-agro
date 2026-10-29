@@ -192,6 +192,115 @@ def test_verificar_estado_regulatorio_etiqueta_las_normas():
     assert resultado_verificacion["restricciones"][0]["etiqueta"] == "N1"
 
 
+class ClienteClimaFalso:
+    """Devuelve siempre el mismo resultado de ClienteClima.consultar, sin red."""
+
+    def __init__(self):
+        self.dias_pedidos = []
+
+    def consultar(self, dias_pronostico, zona_o_partido=None):
+        """Simula ClienteClima.consultar con un dia de pronostico con riesgo de helada."""
+        self.dias_pedidos.append(dias_pronostico)
+        return {
+            "ubicacion": "Tandil, Buenos Aires (-37.3217, -59.1332)",
+            "fuente": "Open-Meteo (api.open-meteo.com), modelo meteorologico, no estacion propia de Tandil",
+            "actualizado": "2026-10-29T15:00",
+            "condiciones_actuales": {
+                "hora": "2026-10-29T15:00",
+                "temperatura_c": 18.5,
+                "humedad_relativa_pct": 55,
+                "precipitacion_mm": 0.0,
+                "viento_kmh": 10.0,
+                "rafagas_kmh": 18.0,
+                "direccion_viento_grados": 200,
+            },
+            "pronostico_diario": [
+                {
+                    "fecha": "2026-10-30",
+                    "temp_max_c": 23.1,
+                    "temp_min_c": 2.5,
+                    "precipitacion_mm": 5.0,
+                    "probabilidad_precipitacion_pct": 80,
+                    "viento_max_kmh": 8.0,
+                    "rafagas_max_kmh": 15.0,
+                    "evapotranspiracion_mm": 3.0,
+                    "riesgo_helada": "riesgo_helada",
+                    "apto_para_aplicar": False,
+                }
+            ],
+            "alertas_agronomicas": ["2026-10-30: riesgo_helada (minima 2.5 C)."],
+            "limitaciones": "Datos de un modelo meteorologico, no de una estacion de Tandil.",
+        }
+
+
+def test_consultar_clima_registra_fuente_w_y_llega_etiquetada():
+    """El resultado de consultar_clima se etiqueta [W1] y queda citable como cualquier otra fuente."""
+    cliente_llm = ClienteFalso(
+        [
+            respuesta("tool_use", bloque_herramienta("t1", "consultar_clima", {"dias_pronostico": 2})),
+            respuesta("end_turn", bloque_texto("Hay riesgo de helada el 30/10 [W1].")),
+        ]
+    )
+    cliente_clima = ClienteClimaFalso()
+    orquestador = OrquestadorAgro(cliente_llm, BuscadorFalso(), modelo="claude-opus-5-5", cliente_clima=cliente_clima)
+
+    resultado = orquestador.responder([], "hay riesgo de helada para los proximos dias?")
+
+    assert cliente_clima.dias_pedidos == [2]
+    texto_resultado_clima = resultados_de_herramientas(cliente_llm.llamadas[1])[0]["content"]
+    assert "[W1]" not in texto_resultado_clima  # la etiqueta va en el dict, no incrustada en el texto
+    datos_clima = json.loads(texto_resultado_clima)
+    assert datos_clima["etiqueta"] == "W1"
+    citadas = resultado.fuentes_citadas()
+    assert [fuente["etiqueta"] for fuente in citadas] == ["W1"]
+
+
+class ClienteClimatologiaHistoricaFalso:
+    """Devuelve siempre el mismo resumen historico, sin red."""
+
+    def __init__(self):
+        self.pedidos = []
+
+    def consultar(self, mes, anios_atras=None, zona_o_partido=None):
+        """Simula ClienteClimatologiaHistorica.consultar con dos anios de mayo."""
+        self.pedidos.append((mes, anios_atras, zona_o_partido))
+        return {
+            "ubicacion": "Tandil, Buenos Aires (-37.3217, -59.1332)",
+            "fuente": "Open-Meteo Archive (archive-api.open-meteo.com), reanalisis ERA5, no estaciones locales",
+            "mes_consultado": "mayo",
+            "rango_consultado": "2016-2026",
+            "anios": [
+                {"anio": 2021, "temp_max_promedio_c": 18.0, "temp_min_promedio_c": 5.0, "temp_min_minima_c": -2.0,
+                 "precipitacion_total_mm": 40.0, "dias_con_helada": 3, "dias_con_lluvia": 6},
+            ],
+            "promedio_historico": {"dias_con_helada": 3, "precipitacion_total_mm": 40.0},
+            "limitaciones": ["Serie historica de un modelo de reanalisis."],
+        }
+
+
+def test_consultar_climatologia_historica_registra_fuente_w():
+    """El resultado de consultar_climatologia_historica tambien se etiqueta [W#] y queda citable."""
+    cliente_llm = ClienteFalso(
+        [
+            respuesta(
+                "tool_use", bloque_herramienta("t1", "consultar_climatologia_historica", {"mes": 5, "anios_atras": 10})
+            ),
+            respuesta("end_turn", bloque_texto("Mayo suele traer heladas [W1].")),
+        ]
+    )
+    cliente_historico = ClienteClimatologiaHistoricaFalso()
+    orquestador = OrquestadorAgro(
+        cliente_llm, BuscadorFalso(), modelo="claude-opus-5-5", cliente_climatologia_historica=cliente_historico
+    )
+
+    resultado = orquestador.responder([], "como vienen siendo las heladas de mayo en los ultimos anios?")
+
+    assert cliente_historico.pedidos == [(5, 10, None)]
+    datos_historicos = json.loads(resultados_de_herramientas(cliente_llm.llamadas[1])[0]["content"])
+    assert datos_historicos["etiqueta"] == "W1"
+    assert [fuente["etiqueta"] for fuente in resultado.fuentes_citadas()] == ["W1"]
+
+
 def test_error_de_herramienta_vuelve_como_is_error():
     """Una entrada invalida no rompe el loop: el modelo recibe el error y puede corregir."""
     cliente = ClienteFalso(

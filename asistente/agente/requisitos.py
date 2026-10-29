@@ -166,6 +166,50 @@ TIPOS_CONSULTA = {
         "herramientas_sugeridas": ["buscar_marbetes", "verificar_estado_regulatorio"],
         "limitaciones_corpus": "",
     },
+    "condiciones_aplicacion": {
+        "descripcion": "Si las condiciones meteorologicas actuales o de los proximos dias permiten pulverizar",
+        "requisitos": [
+            ("etapa_o_momento", False),
+            ("producto_o_formulacion", False),
+            ("cultivo", False),
+        ],
+        "criterios": [
+            ("Evaluar viento y lluvia pronosticados con consultar_clima, no de memoria. Viento muy bajo "
+            "favorece inversion termica y viento alto favorece deriva; ambos son criterio agronomico "
+            "general del equipo (no un dato de fuente): presentarlos como interpretacion propia con el "
+            "umbral usado."),
+            ("Si el producto a aplicar tiene restricciones propias de viento, humedad o temperatura en su "
+            "marbete, esas si son dato de fuente [F#] y pisan al criterio general."),
+        ],
+        "herramientas_sugeridas": ["consultar_clima", "buscar_marbetes"],
+        "limitaciones_corpus": (
+            "consultar_clima usa un modelo meteorologico (Open-Meteo), no una estacion de Tandil ni del "
+            "SMN/INTA: es una referencia, no un dato de precision local."
+        ),
+    },
+    "riesgo_heladas": {
+        "descripcion": "Riesgo de helada en el lote para los proximos dias y su efecto sobre el cultivo",
+        "requisitos": [
+            ("cultivo", False),
+            ("etapa_o_momento", False),
+        ],
+        "criterios": [
+            ("El riesgo de helada se evalua con consultar_clima sobre la temperatura minima pronosticada, "
+            "no de memoria. El umbral de riesgo es criterio agronomico general del equipo (la temperatura "
+            "a nivel de cultivo suele ser menor que la de pronostico a 2 m): presentarlo como "
+            "interpretacion propia."),
+            ("La sensibilidad a la helada depende del cultivo y de su estado fenologico (por ejemplo, "
+            "floracion es mas sensible que vegetativo); si no se sabe el estado, pedirlo antes de concluir "
+            "que no hay riesgo."),
+            ("Para saber si una helada puntual es rara o si mayo/junio suelen traer heladas en esa zona, "
+            "usar consultar_climatologia_historica (dias con helada por anio), no solo el pronostico."),
+        ],
+        "herramientas_sugeridas": ["consultar_clima", "consultar_climatologia_historica"],
+        "limitaciones_corpus": (
+            "consultar_clima usa un modelo meteorologico (Open-Meteo), no una estacion de Tandil ni del "
+            "SMN/INTA: es una referencia, no un dato de precision local."
+        ),
+    },
 }
 
 
