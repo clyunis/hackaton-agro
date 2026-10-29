@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "anthropic>=2.3.0",
     "chromadb>=1.5.9",
+    "httpx>=0.27.0",
     "langchain-anthropic>=1.4.6",
     "langchain-core>=1.4.8",
     "langchain-text-splitters>=1.0.0",
@@ -15,6 +16,7 @@ dependencies = [
     "sentence-transformers==5.6.0",
     "transformers==5.14.1",
     "torch>=2.4.0",
+    "faster-whisper>=1.2.1",
 ]
 
 [[tool.uv.index]]
