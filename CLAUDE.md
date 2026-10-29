@@ -28,9 +28,17 @@ Software puro. Un productor sabe cuántos animales tiene y cuánto pesan, pero n
 
 ## Current state
 
-The challenge is decided (Desafío 4) but no application code exists yet beyond the generic dev harness (scripts + a skill, see below). `raw_data/fuentes.txt` holds the initial curated source list from the referente; `documentation/04 - Asistente agronómico.pdf` is the full official guide — read it for the C01–C18 example queries and per-topic source pointers (R01–R27) before scoping the prototype's slice.
+The prototype lives in `asistente/` (Python, uv). The assistant is called **AGRIA**. `raw_data/fuentes.txt` holds the curated source list; downloaded files are in `raw_data/descargas/` (see its README and `manifest_urls.tsv`). `documentation/04 - Asistente agronómico.pdf` is the official guide (C01–C18 queries, R01–R27 sources).
 
-As code is added, this file should be updated with the actual run/build/test commands and real architecture notes once the project exists — don't guess at them in the meantime.
+Architecture (`asistente/`):
+- `rag/` + `scripts/ingest_marbetes.py` / `scripts/index_marbetes.py` — RAG index over the 606 Tandil-relevant CASAFE marbetes (pdftotext → JSONL → chunks with product header → Nemotron embeddings on CUDA → Chroma in `chroma_db/`). Run scripts from inside `asistente/` (paths are relative).
+- `scripts/ask.py` — v1 fixed pipeline (retrieve 5 chunks → answer, langchain). Kept for before/after comparison.
+- `agente/` — v2 agentic orchestrator (Anthropic SDK, manual tool-use loop). `orquestador.py` runs the loop and holds the system prompt; `herramientas.py` defines the tools (`analizar_consulta`, `buscar_marbetes`, `calcular_aporte_nutriente`, `calcular_dosis_fertilizante`); `requisitos.py` is the per-query-type table of required data + agronomic criteria (domain knowledge meant to be edited with the tutor); `calculadora.py` does deterministic nutrient math. Per-chat history is append-only (thinking blocks re-sent unchanged); `/nueva` resets it.
+- `bot.py` (Telegram, long polling) and `scripts/chat_agente.py` (CLI with tool trace) both use the orchestrator.
+
+Commands (from `asistente/`): `uv sync`, `uv run python scripts/ingest_marbetes.py && uv run python scripts/index_marbetes.py` (builds the index, needs GPU), `uv run python scripts/chat_agente.py`, `uv run python bot.py`, `uv run pytest` (tests use fakes: no network, GPU or API key). Env vars in `.env` (see `.env.example`): `ANTHROPIC_API_KEY`, `TELEGRAM_BOT_TOKEN`, `CLAUDE_MODEL_AGENTE` (default `claude-opus-5-5`).
+
+Known gaps: `DISTANCE_THRESHOLD` in `scripts/ask.py` (1.4) is uncalibrated and filters almost nothing; generic chunking splits marbete dose tables; only marbetes are indexed (normativa, INTA, FACMA, FATRAC are downloaded but not indexed); the CASAFE guide is 2013–2017, so it may include actives later banned by SENASA (e.g. clorpirifós, Res. 414/2021).
 
 ## Development workflow
 
