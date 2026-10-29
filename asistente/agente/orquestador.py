@@ -129,6 +129,17 @@ class ResultadoTurno:
     datos_faltantes: list[dict] = field(default_factory=list)
     herramientas_usadas: list[dict] = field(default_factory=list)
     mensajes_nuevos: list[dict] = field(default_factory=list)
+    # Tokens de todas las llamadas a la API que hizo este turno (el loop puede llamar varias
+    # veces por el tool use). Pensado para medir costo/consumo, no para la logica del turno.
+    uso_tokens: dict = field(
+        default_factory=lambda: {
+            "llamadas_api": 0,
+            "input_tokens": 0,
+            "output_tokens": 0,
+            "cache_creation_input_tokens": 0,
+            "cache_read_input_tokens": 0,
+        }
+    )
 
     def fuentes_citadas(self) -> list[dict]:
         """Fuentes cuya etiqueta (F#, N# o W#) aparece en el texto; si no cito ninguna, todas las recuperadas."""
@@ -199,6 +210,15 @@ class OrquestadorAgro:
                 )
         return {"role": "user", "content": resultados_herramientas}
 
+    def _acumular_uso(self, resultado: ResultadoTurno, respuesta) -> None:
+        """Suma el campo 'usage' de una respuesta al acumulado del turno (ignora si no viene)."""
+        uso = getattr(respuesta, "usage", None)
+        if uso is None:
+            return
+        resultado.uso_tokens["llamadas_api"] += 1
+        for clave in ("input_tokens", "output_tokens", "cache_creation_input_tokens", "cache_read_input_tokens"):
+            resultado.uso_tokens[clave] += getattr(uso, clave, None) or 0
+
     def responder(self, historial: list[dict], pregunta: str) -> ResultadoTurno:
         """Corre un turno completo. No modifica historial: los mensajes a agregar van en mensajes_nuevos."""
         registro_fuentes = RegistroFuentes()
@@ -209,6 +229,7 @@ class OrquestadorAgro:
         respuesta = None
         for _ in range(self.max_iteraciones):
             respuesta = self._llamar_modelo(mensajes)
+            self._acumular_uso(resultado, respuesta)
             if respuesta.stop_reason in ("refusal", "max_tokens"):
                 break
             mensaje_asistente = {"role": "assistant", "content": respuesta.content}
@@ -222,6 +243,7 @@ class OrquestadorAgro:
         else:
             # Llego al limite pidiendo herramientas: una ultima llamada que solo puede responder texto.
             respuesta = self._llamar_modelo(mensajes, permitir_herramientas=False)
+            self._acumular_uso(resultado, respuesta)
             if respuesta.stop_reason not in ("refusal", "max_tokens"):
                 mensaje_asistente = {"role": "assistant", "content": respuesta.content}
                 mensajes_nuevos.append(mensaje_asistente)
@@ -229,7 +251,12 @@ class OrquestadorAgro:
         if respuesta.stop_reason in ("refusal", "max_tokens"):
             # El turno se descarta entero: el historial del chat queda como estaba.
             texto_aviso = MENSAJE_RECHAZO if respuesta.stop_reason == "refusal" else MENSAJE_CORTADO
-            return ResultadoTurno(texto=texto_aviso, completo=False, herramientas_usadas=resultado.herramientas_usadas)
+            return ResultadoTurno(
+                texto=texto_aviso,
+                completo=False,
+                herramientas_usadas=resultado.herramientas_usadas,
+                uso_tokens=resultado.uso_tokens,
+            )
 
         resultado.texto = "\n".join(bloque.text for bloque in respuesta.content if bloque.type == "text").strip()
         resultado.fuentes = registro_fuentes.todas()

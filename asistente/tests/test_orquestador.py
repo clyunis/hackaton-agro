@@ -18,9 +18,19 @@ def bloque_herramienta(identificador, nombre, entrada):
     return SimpleNamespace(type="tool_use", id=identificador, name=nombre, input=entrada)
 
 
-def respuesta(stop_reason, *bloques):
-    """Respuesta de messages.create con stop_reason y contenido dados."""
-    return SimpleNamespace(stop_reason=stop_reason, content=list(bloques))
+def respuesta(stop_reason, *bloques, usage=None):
+    """Respuesta de messages.create con stop_reason, contenido y 'usage' (opcional) dados."""
+    return SimpleNamespace(stop_reason=stop_reason, content=list(bloques), usage=usage)
+
+
+def uso(input_tokens=0, output_tokens=0, cache_creation_input_tokens=0, cache_read_input_tokens=0):
+    """Objeto 'usage' como el que devuelve la API (los campos ausentes se leen como 0)."""
+    return SimpleNamespace(
+        input_tokens=input_tokens,
+        output_tokens=output_tokens,
+        cache_creation_input_tokens=cache_creation_input_tokens,
+        cache_read_input_tokens=cache_read_input_tokens,
+    )
 
 
 class ClienteFalso:
@@ -389,3 +399,32 @@ def test_conversacion_reiniciar_vacia_el_historial():
     conversacion.consultar("segunda")
 
     assert cliente.llamadas[1]["messages"] == [{"role": "user", "content": "segunda"}]
+
+
+def test_uso_tokens_se_acumula_entre_llamadas_del_turno():
+    """Una tool_use + una respuesta final suman sus 'usage' en el total del turno."""
+    cliente = ClienteFalso(
+        [
+            respuesta(
+                "tool_use",
+                bloque_herramienta("t1", "buscar_marbetes", {"consulta": "glifosato soja"}),
+                usage=uso(input_tokens=500, output_tokens=50, cache_read_input_tokens=400),
+            ),
+            respuesta(
+                "end_turn",
+                bloque_texto("PC 62%: 2 l/ha [F1]."),
+                usage=uso(input_tokens=600, output_tokens=80, cache_creation_input_tokens=100),
+            ),
+        ]
+    )
+    orquestador = OrquestadorAgro(cliente, BuscadorFalso(), modelo="claude-opus-5-5")
+
+    resultado = orquestador.responder([], "glifosato para soja")
+
+    assert resultado.uso_tokens == {
+        "llamadas_api": 2,
+        "input_tokens": 1100,
+        "output_tokens": 130,
+        "cache_creation_input_tokens": 100,
+        "cache_read_input_tokens": 400,
+    }
